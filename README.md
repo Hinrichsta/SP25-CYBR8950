@@ -1,6 +1,7 @@
 # FA25-CYBR8950
 
-Executive Project Summary - What are you doing and why?
+Executive Project Summary  
+- What are you doing and why?
 - Goals and Objectives
 - Merit of the Project
 
