@@ -5,14 +5,15 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 ### Home Automation - Josh
  - No particular term, but included since we talked about it as a group.  UL traditionally was a certifiation for anything electrical, certify phyiscal safety, looks liek they are getting into Cyber with IoT devices, which are indeed all electric.
     - [UL Solutions named Lead Administrator in the first-ever U.S. Federal Cybersecurity Labeling Program](https://www.ul.com/services/ul-verified-iot-device-security-rating)
-- Smart Home Privacy - general
+- Smart Home Privacy - (general)
+    - [A risk analysis of a smart home automation system](https://www.sciencedirect.com/science/article/abs/pii/S0167739X15002812)
+- Smart home speakers (from a control system perspective vs. entertainment)
     - [Alexa, Are You Listening?: Privacy Perceptions, Concerns and Privacy-seeking Behaviors with Smart Speakers](https://dl.acm.org/doi/abs/10.1145/3274371)
 - Smart Thermostats (of which most are also Alex and/or Google speakers) - also general
    - [Security and Privacy Issues with Smart Thermostats – A First Look](https://digital.library.unt.edu/ark:/67531/metadc1036560/)
 - Smart Home Security Systems (AKA, DO it yourself vs. the tradditional ADT, etc..)
    - [Emerging Trends in Smart Home Security,
 Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1434&context=amcis2016)
-   - [A risk analysis of a smart home automation system](https://www.sciencedirect.com/science/article/abs/pii/S0167739X15002812)
 - Smart Smoke Alarms - This is interesting as it discuss the concerns of using the cloud vs. local to analyze video to detect a fire.
    - [A Privacy-Preserving Iot-Based Fire Detector](https://ieeexplore.ieee.org/abstract/document/9389543)
 
