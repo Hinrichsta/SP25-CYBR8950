@@ -3,6 +3,8 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 ## Literature Review
 
 ### Home Automation - Josh
+ - No particular term, but included since we talked about it as a group
+[UL Solutions named Lead Administrator in the first-ever U.S. Federal Cybersecurity Labeling Program](https://www.ul.com/services/ul-verified-iot-device-security-rating}
 
 ### Entertainment - Logan
 
