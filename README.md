@@ -20,3 +20,10 @@ Resources/Technology needed - What do you need to be successful?
 First Sprint Plan - Create the first plan on GitHub Kanban
 
 Note about Teamwork and Group projects
+
+
+Team Meetings  
+[Monday: 5:30 - 7:30](https://unomaha.zoom.us/j/94461698512)  
+[Monday with Dr Hale 6:05 - 6:25](https://unomaha.zoom.us/j/94874634860?pwd=QaPdZLkVLpVuUHHhgGTlToo7wyMksN.1)  
+[Thursday 5:30 -7:30](https://unomaha.zoom.us/j/92970585826)
+
