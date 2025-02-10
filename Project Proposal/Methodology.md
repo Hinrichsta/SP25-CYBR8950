@@ -19,6 +19,12 @@ Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/h
 
 
 ### Entertainment - Logan
+- Security issues with smart Televisions
+  - [An Overview of Architecture and Security Issues of a Smart TV](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9488939)
+- Solutions for Security Issues within smart entertainment devices
+  - [Smart Home IoT Communication Protocols and Advances in their Security and Interoperability](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10339739)
+- Security Issues with gaming consoles?
+  - [Evaluating privacy and security risks in smart home entertainment appliances, from a communication perspective](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1480238&dswid=4736)
 
 ### Cameras - Tyler
 - Security issues with Smart Home Cameras
