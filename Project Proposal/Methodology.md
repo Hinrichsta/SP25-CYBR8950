@@ -42,8 +42,12 @@ Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/h
 
  
 ### Applicances - Lucas
+    - Terms Used:
+      - IoT "Appliance" Security
+      - IoT "Appliance" Best Practice
+      - Survey of IoT        
+
   - [An experimental study of security and privacy risks with emerging household appliances](https://ieeexplore.ieee.org/document/6997469)  
-      - 
         - Citation: Kim, J.Y., Lee, E.A., & Lee, K.M. (2014). Security and Performance Considerations for Smart Home Environments. IEEE Communications Magazine.
 
   - [Emerging "cyber hygiene" practices for the Internet of Things (IoT): Professional issues in consulting clients and educating users on IoT privacy and security](https://ieeexplore.ieee.org/document/8013965)
