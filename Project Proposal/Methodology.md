@@ -42,6 +42,23 @@ Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/h
 
  
 ### Applicances - Lucas
+  - [An experimental study of security and privacy risks with emerging household appliances](https://ieeexplore.ieee.org/document/6997469)  
+    - Citation: 
+
+  - [Emerging “cyber hygiene” practices for the Internet of Things (IoT): Professional issues in consulting clients and educating users on IoT privacy and security](https://ieeexplore.ieee.org/document/8013965)
+    - Citation: Oravec, J.A. (2017). Emerging Cyber Hygiene Practices for the Internet of Things (IoT): Professional Issues in Consulting Clients and Educating Users on IoT Privacy and Security. IEEE. 
+
+  - [A Survey on Exploring the Effectiveness of IOT Based Home Security Systems](https://ieeexplore.ieee.org/document/10128178)
+    - Citation: Anupriya S.R & Dr. Muthumanikandan V. (2023). A Survey on Exploring the Effectiveness of IoT-Based Home Security Systems. International Conference on Computer Communication and Informatics (ICCCI). 
+
+  - [Ranking Security of IoT-Based Smart Home Consumer Devices](https://ieeexplore.ieee.org/document/9698229)
+    - Citation: Allifah, N.M. & Zualkernan, I.A. (2022). Ranking Security of IoT-Based Smart Home Consumer Devices. IEEE Access. 
+    
+  - [Analysis of Security Challenges and Issues in IoT Enabled Smart Homes](https://ieeexplore.ieee.org/document/9683324)
+    - Citation: 
+
+
+  Lit Review - Abstract
 
 
 
