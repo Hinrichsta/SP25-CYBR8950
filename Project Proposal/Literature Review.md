@@ -56,7 +56,7 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 
   - [Experimental evaluation of cybersecurity threats to the smart-home](https://ieeexplore.ieee.org/document/8384143)  
       -  This paper provides experimental data on IoT security risks, supporting our buying guide with real-world vulnerabilities, device evaluations, and security recommendations.
-        - Citation: Sivanathan, A., Loi, F., Gharakheili, H. H., & Sivaraman, V. (2017). Experimental evaluation of cybersecurity threats to the smart-home. University of New South Wales, Sydney, Australia. IEEE Xplore.
+          - Citation: Sivanathan, A., Loi, F., Gharakheili, H. H., & Sivaraman, V. (2017). Experimental evaluation of cybersecurity threats to the smart-home. University of New South Wales, Sydney, Australia. IEEE Xplore.
 
   - [Emerging "cyber hygiene" practices for the Internet of Things (IoT): Professional issues in consulting clients and educating users on IoT privacy and security](https://ieeexplore.ieee.org/document/8013965)
      - This article focuses on the role of consumer education and cyber hygiene in mitigating IoT security risks. The study highlights how many users lack awareness of best security practices, often leading to misconfigurations and data breaches. Discussing the professional responsibility of various industries in guiding consumers toward better cybersecurity habits. The paper stresses the need for standardized security guidelines and increased public awareness to reduce the risks associated with IoT adoption.
