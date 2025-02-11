@@ -3,26 +3,26 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 ## Literature Review
 
 ### Home Automation - Josh
-### Home Automation - Josh
+
 
 - [UL Solutions named Lead Administrator in the first-ever U.S. Federal Cybersecurity Labeling Program](https://www.ul.com/services/ul-verified-iot-device-security-rating)
-	- Citation: “UL Verified IoT Device Security Rating.” UL Solutions
-
+    - UL Laboratories has traditionally certified electrical appliances for safety (fire shock, etc.), and  is now stepping into certify IoT devices for electronic safety (privacy)
+        - Citation: “UL Verified IoT Device Security Rating.” UL Solutions
 - [A risk analysis of a smart home automation system](https://www.sciencedirect.com/science/article/abs/pii/S0167739X15002812)
-	- Citation: Jacobsson, Andreas, et al. “A Risk Analysis of a Smart Home Automation System.” Future Generation Computer Systems, vol. 56, Mar. 2016, pp. 719–33. ScienceDirect
-
+    - This is a very broad look at smart home appliances.
+        - Citation: Jacobsson, Andreas, et al. “A Risk Analysis of a Smart Home Automation System.” Future Generation Computer Systems, vol. 56, Mar. 2016, pp. 719–33. ScienceDirect
 - [Alexa, Are You Listening?: Privacy Perceptions, Concerns and Privacy-seeking Behaviors with Smart Speakers](https://dl.acm.org/doi/abs/10.1145/3274371)
-	- Citation: Lau, Josephine, et al. “Alexa, Are You Listening? Privacy Perceptions, Concerns and Privacy-Seeking Behaviors with Smart Speakers.” Proc. ACM Hum.-Comput. Interact., vol. 2, no. CSCW, Nov. 2018, p. 102:1-102:31. ACM Digital Library
-
+    - Since most smart homes devices require a speaker (or app) for control, this examines priavy concerns with speakers that have microphones that are always listening.
+        - Citation: Lau, Josephine, et al. “Alexa, Are You Listening? Privacy Perceptions, Concerns and Privacy-Seeking Behaviors with Smart Speakers.” Proc. ACM Hum.-Comput. Interact., vol. 2, no. CSCW, Nov. 2018, p. 102:1-102:31. ACM Digital Library
 - [Security and Privacy Issues with Smart Thermostats – A First Look](https://digital.library.unt.edu/ark:/67531/metadc1036560/)
-	- Citation: Awojobi, Abiodun, and Hsia-Ching Chang. “Security and Privacy Issues with Smart Thermostats – A First Look.” 13th International Conference on Knowledge Management, October 25-26, 2017. Dallas, TX, United States, 26 Oct. 2017
-
-- [Emerging Trends in Smart Home Security, Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1434&context=amcis2016)
-	= Citation: Plachkinova, Miloslava, et al. Emerging Trends in Smart Home Security, Privacy, and Digital Forensics. 2016. Semantic Scholar
-
-
+    - This specifically looks a one very critical smart home device with broad capabilities.  Even consumers with no desire to have an entirely smart home are now more likely to have a smart thermostat with the availability of non smart thermostats limited.
+        - Citation: Awojobi, Abiodun, and Hsia-Ching Chang. “Security and Privacy Issues with Smart Thermostats – A First Look.” 13th International Conference on Knowledge Management, October 25-26, 2017. Dallas, TX, United States, 26 Oct. 2017
+- [Emerging Trends in Smart Home Security, Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1434&context=amcis2016) 
+    - This looks at forensics and criminology in smart home devices.
+        - Citation: Plachkinova, Miloslava, et al. Emerging Trends in Smart Home Security, Privacy, and Digital Forensics. 2016. Semantic Scholar
 - [A Privacy-Preserving Iot-Based Fire Detector](https://ieeexplore.ieee.org/abstract/document/9389543)
-	- Citation: Altowaijri, Abdullah H., et al. “A Privacy-Preserving Iot-Based Fire Detector.” IEEE Access, vol. 9, 2021, pp. 51393–402. IEEE Xplore
+    - This looks are one particularly critical smart home device with life saving implications, and also adds in an examingation of the risk factor of relying on the cloud (and Internet) for these types of devices to operate
+        - Citation: Altowaijri, Abdullah H., et al. “A Privacy-Preserving Iot-Based Fire Detector.” IEEE Access, vol. 9, 2021, pp. 51393–402. IEEE Xplore
 
 
 ### Entertainment - Logan
