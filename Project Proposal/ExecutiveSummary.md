@@ -1,7 +1,8 @@
 ## Problem Statement
 The growing reliance on internet-connected devices has created significant security and privacy concerns for consumers. Many Internet of Things (IoT) devices designed for home use such as smart cameras, doorbells, speakers, and appliances are inherently insecure due to poor security measures at launch or become vulnerable over time due to a lack of updates and user management. Consumers often purchase these devices without fully understanding the risks associated with always-online connectivity, leaving them exposed to data breaches, unauthorized surveillance, and cyberattacks.
 
-*Proposed*
+*Proposed
+
 Consumers often purchase IoT devices without understanding the security risks of always-online connectivity. Many smart home devices, such as cameras, doorbells, and appliances, are inherently insecure due to weak security protocols or become vulnerable over time due to poor update policies and lack of user management. With limited access to security-focused information, users may unknowingly expose themselves to data breaches, unauthorized access, and cyber threats. This project aims to improve consumer awareness by providing a security-focused buying guide that identifies high-risk IoT categories, analyzes common vulnerabilities, and evaluates manufacturer security practices. By offering clear, actionable insights, this guide will help users make informed purchasing decisions and adopt safer practices for managing IoT devices.
 
 ## Project Goals
