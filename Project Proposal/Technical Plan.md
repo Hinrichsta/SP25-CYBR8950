@@ -29,7 +29,20 @@ Objective: Collect and review academic literature, industry reports, and real-wo
   - Week 4-5 - Evaluate Manufacturer Security Practices
 - Josh
   - Week 5-6 - Investigate Consumer IoT Management Challenges
-  - Week 6-7 - Develop Best Practices for Consumers
+  Objective:  Research and produce a table of the 3 common platforms 
+
+      Sub-Tasks  
+      1. Alexa
+      2. Google Home
+      3. Apple HomeKit
+      4. Maybe HomeAssistant (advanced)
+
+  - Week 6-7 - Develop Best Practices for Consumers  
+ Objective: Review papers to determine what consumers (not researchers) feel are the biggest security and privacy concerns with IoT devices.  Draft guidelines and questions a consumer should ask themselves about a device before purchasing it. Draft guidelines and questions a consumer should ask themselves or research with the vendor about a device before purchasing it.  
+  
+      Sub-Tasks
+      1.  Decide between doing this for common devices types, or specific devices.  
+      2.  Decide if we should include recomended vendors (some are much better than others).  
 
 - Lucas
 
