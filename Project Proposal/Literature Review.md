@@ -72,7 +72,7 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
     
   - [Analysis of Security Challenges and Issues in IoT Enabled Smart Homes](https://ieeexplore.ieee.org/document/9683324)
     - These researchers argue that securing IoT systems requires a multi-layered approach that encompasses physical security, data encryption, and robust access control mechanisms. Various encryption protocols like encryption and lightweight cryptography are used to mitigate data breaches. Highlighting how the implementation of blockchain technologies is going to vastly improve the integrity of network traffic for these devices. 
-        - Citation: (2021). Analysis of Security Challenges and Issues in IoT Enabled Smart Homes. IEEE Conference Publication.
+        - Citation: (2021)Alqahtani, A. S., Alharthi, M. A., & Alharthi, M. A. (2021). Analysis of Security Challenges and Issues in IoT Enabled Smart Homes. In 2021 International Conference on Computer and Information Sciences (ICCIS). IEEE Conference Publication.
 
 
 
