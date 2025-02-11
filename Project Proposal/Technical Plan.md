@@ -30,7 +30,7 @@ Objective: Ensure that the security guidelines are comprehensive, well-structure
       - Add table of contents, bullet points, or checklists to improve accessibility.
       - Include a short FAQ section addressing common IoT security concerns.  
 
-  - Week 8-10: Finalize Documentation & Publish on GitHub
+   - Week 8-10: Finalize Documentation & Publish on GitHub  
 Objective: Prepare a well-documented, structured, and publicly accessible guide that is accessibility-friendly and includes graphs, charts, or plots where applicable.
 
   Sub-Tasks
