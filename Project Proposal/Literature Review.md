@@ -54,8 +54,9 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
       - IoT "Appliance" Best Practice
       - Survey of IoT        
 
-  - [An experimental study of security and privacy risks with emerging household appliances](https://ieeexplore.ieee.org/document/6997469)  
-        - Citation: Kim, J.Y., Lee, E.A., & Lee, K.M. (2014). Security and Performance Considerations for Smart Home Environments. IEEE Communications Magazine.
+  - [Experimental evaluation of cybersecurity threats to the smart-home](https://ieeexplore.ieee.org/document/8384143)  
+      -  This paper is an excellent resource for your project. It provides experimental data on IoT security risks, supporting your proposed buying guide with real-world vulnerabilities, device evaluations, and security recommendations. You can integrate its findings into your consumer security guide to help users make more informed IoT purchasing decisions.
+        - Citation: Sivanathan, A., Loi, F., Gharakheili, H. H., & Sivaraman, V. (2017). Experimental evaluation of cybersecurity threats to the smart-home. University of New South Wales, Sydney, Australia. IEEE Xplore.
 
   - [Emerging "cyber hygiene" practices for the Internet of Things (IoT): Professional issues in consulting clients and educating users on IoT privacy and security](https://ieeexplore.ieee.org/document/8013965)
      - Oravec (2017) focuses on the role of consumer education and cyber hygiene in mitigating IoT security risks. The study highlights how many users lack awareness of best security practices, often leading to misconfigurations and data breaches. Additionally, it discusses the professional responsibility of various industries, including legal and IT professionals, in guiding consumers toward better cybersecurity habits. The paper stresses the need for standardized security guidelines and increased public awareness to reduce the risks associated with IoT adoption.
@@ -72,9 +73,6 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
   - [Analysis of Security Challenges and Issues in IoT Enabled Smart Homes](https://ieeexplore.ieee.org/document/9683324)
     - These researchers argue that securing IoT systems requires a multi-layered approach that encompasses physical security, data encryption, and robust access control mechanisms. Various encryption protocols, such as end-to-end encryption and lightweight cryptography, have been proposed to mitigate data breaches, while advancements in machine learning are being explored to predict and prevent potential threats. The integration of blockchain technology is gaining attention as a potential solution to enhance the integrity and transparency of IoT networks.
         - Citation: (2021). Analysis of Security Challenges and Issues in IoT Enabled Smart Homes. IEEE Conference Publication.
-
-
-  Lit Review - Abstract
 
 
 
