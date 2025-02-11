@@ -1,8 +1,29 @@
 ## Technical Plan
 
 - Logan
-  - Week 1-2 - Identify IoT Device Categories
-  - Week 2-3 - Gather Case Studies on IoT Vulnerabilities
+  - Week 1-2 - Identify IoT Device Categories  
+Objective: Develop a comprehensive classification of IoT devices based on their functions, usage, and security implications to establish a foundation for further analysis.
+
+  - Week 2-3 - Gather Case Studies on IoT Vulnerabilities  
+Objective: Collect and review academic literature, industry reports, and real-world case studies to build a well-supported discussion on IoT security across various device categories.
+
+  Sub-Tasks:
+  1.  Research Scholarly Articles & White Papers
+      - Identify academic papers discussing IoT security, vulnerabilities, and best practices.
+      - Review sources such as IEEE, ACM, and other cybersecurity journals.
+  2.  Gather Industry Reports & Standards
+      - Collect cybersecurity reports from organizations like CISA, NIST, OWASP, and MITRE.
+      - Identify relevant security guidelines and frameworks for IoT devices.
+  3.  Analyze Case Studies on IoT Incidents
+      - Research past IoT-related breaches, hacks, and vulnerabilities.
+      - Break down how the attacks occurred and what vulnerabilities were exploited.
+  4.  Extract Key Insights & Trends
+      - Identify common attack vectors and security risks highlighted in research.
+      - Determine best practices and mitigation strategies across different IoT categories.
+  5.  Compile findings into a structured report to serve as evidence supporting the overarching project
+      - Organize the collected research into a structured format with key takeaways.
+      - Ensure readability by using summary sections.
+
 - Tyler
   - Week 3-4 - Analyze IoT Security Weaknesses
   - Week 4-5 - Evaluate Manufacturer Security Practices
@@ -10,7 +31,7 @@
   - Week 5-6 - Investigate Consumer IoT Management Challenges
   - Week 6-7 - Develop Best Practices for Consumers
 - Lucas
-  - Week 7-8: Review and Refine Security Guidelines
+  - Week 7-8: Review and Refine Security Guidelines  
 Objective: Ensure that the security guidelines are comprehensive, well-structured, provide clear and actionable insights. This would also include a sign-off from each group member to ensure that everyone has properly reviewed the guidelines. 
 
   Sub-Tasks:
@@ -28,8 +49,8 @@ Objective: Ensure that the security guidelines are comprehensive, well-structure
   4.	Improve Readability and Structure
       - Ensure the language is consumer-friendly while still being technically accurate.
       - Add table of contents, bullet points, or checklists to improve accessibility.
-      - Include a short FAQ section addressing common IoT security concerns.  
-
+      - Include a short FAQ section addressing common IoT security concerns.
+    	
    - Week 8-10: Finalize Documentation & Publish on GitHub  
 Objective: Prepare a well-documented, structured, and publicly accessible guide that is accessibility-friendly and includes graphs, charts, or plots where applicable.
 
