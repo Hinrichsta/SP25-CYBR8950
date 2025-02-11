@@ -12,6 +12,7 @@
 - Lucas
   - Week 7-8: Review and Refine Security Guidelines
 Objective: Ensure that the security guidelines are comprehensive, well-structured, provide clear and actionable insights. This would also include a sign-off from each group member to ensure that everyone has properly reviewed the guidelines. 
+
   Sub-Tasks:
   1.	Request Feedback
       - Share the draft with peers or mentors for feedback.
@@ -31,6 +32,7 @@ Objective: Ensure that the security guidelines are comprehensive, well-structure
 
   - Week 8-10: Finalize Documentation & Publish on GitHub
 Objective: Prepare a well-documented, structured, and publicly accessible guide that is accessibility-friendly and includes graphs, charts, or plots where applicable.
+
   Sub-Tasks
   1. Format the Documentation for GitHub
       - Convert the guide into Markdown format for compatibility.
