@@ -27,9 +27,10 @@ Objective: Collect and review academic literature, industry reports, and real-wo
 - Tyler
   - Week 3-4 - Analyze IoT Security Weaknesses
   - Week 4-5 - Evaluate Manufacturer Security Practices
+
 - Josh
-  - Week 5-6 - Investigate Consumer IoT Management Challenges
-  Objective:  Research and produce a table of the 3 common platforms 
+  - Week 5-6 - Investigate Consumer IoT Management Challenges  
+  Objective:  Research and produce a table of the 3 common platforms  
 
       Sub-Tasks  
       1. Alexa
