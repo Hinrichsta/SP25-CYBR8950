@@ -1,5 +1,5 @@
 ## Problem Statement
-The growing reliance on internet-connected devices has created significant security and privacy concerns for consumers. Many Internet of Things (IoT) devices designed for home use—such as smart cameras, doorbells, speakers, and appliances—are inherently insecure due to poor security measures at launch or become vulnerable over time due to a lack of updates and user management. Consumers often purchase these devices without fully understanding the risks associated with always-online connectivity, leaving them exposed to data breaches, unauthorized surveillance, and cyberattacks.
+The growing reliance on internet-connected devices has created significant security and privacy concerns for consumers. Many Internet of Things (IoT) devices designed for home use such as smart cameras, doorbells, speakers, and appliances are inherently insecure due to poor security measures at launch or become vulnerable over time due to a lack of updates and user management. Consumers often purchase these devices without fully understanding the risks associated with always-online connectivity, leaving them exposed to data breaches, unauthorized surveillance, and cyberattacks.
 
 ## Project Goals
 - Identify categories of IoT devices that pose security risks in home environments due to weak security protocols, poor update policies, or lack of user awareness.
