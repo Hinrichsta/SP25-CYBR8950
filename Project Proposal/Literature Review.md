@@ -3,7 +3,10 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 ## Literature Review
 
 ### Home Automation - Josh
-
+    Terms used:
+    - Smarthome automationand privacy
+    - Home assistant privacy
+    - Connected home privacy
 
 - [UL Solutions named Lead Administrator in the first-ever U.S. Federal Cybersecurity Labeling Program](https://www.ul.com/services/ul-verified-iot-device-security-rating)
     - UL Laboratories has traditionally certified electrical appliances for safety (fire shock, etc.), and  is now stepping into certify IoT devices for electronic safety (privacy)
