@@ -34,18 +34,26 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
   - [Evaluating privacy and security risks in smart home entertainment appliances, from a communication perspective](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1480238&dswid=4736)
 
 ### Cameras - Tyler
-- Security issues with Smart Home Cameras
-  - [Smart Home Security Cameras and Shifting Lines of Creepiness: A Design-Led Inquiry](https://dl-acm-org.leo.lib.unomaha.edu/doi/10.1145/3290605.3300275)  
-- Security issues with Home Security Cameras
-  - [Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service](https://ieeexplore.ieee.org/abstract/document/9155516)
-  - [Investigating Privacy Concerns of Wi-Fi Cameras in the Context of Smart Home Security](https://www.jsr.jofsr.org/index.php/path/article/view/2248)
-  - [Security and privacy issues affecting cloud-based IP camera](https://ieeexplore.ieee.org/abstract/document/8249043)
-  - [Smart IoT Devices in the Home: Security and Privacy Implications](https://ieeexplore.ieee.org/abstract/document/8371556)
- 
-  - #### Added by Josh, I ran across this doing SmartHome stuff, but thought it was interesting as it adds the human perspective from Nannies.  Also for disccsion, should be add drones, to the camera category, since most consumer drones mainly are cameras...today.
-     - [Bystanders’ Privacy: The Perspectives of Nannies on Smart Home Surveillance](https://www.usenix.org/conference/foci20/presentation/bernd)
-     - [Security, Privacy, and Safety Aspects of Civilian Drones: A Survey](https://dl.acm.org/doi/abs/10.1145/3001836)
+    Terms used:
+    - Security issues with Smart Home Cameras
+    - Security issues with Home Security Cameras
+    - Home Security camera privacy
 
+- [Smart Home Security Cameras and Shifting Lines of Creepiness: A Design-Led Inquiry](https://dl-acm-org.leo.lib.unomaha.edu/doi/10.1145/3290605.3300275)  
+  - This looks at the design of Smart Home cameras from a design point of view.  Focusing on how much cameras are being designed to gather as much data as possible.
+    - Citation: Pierce, J. (2019). Smart Home Security Cameras and Shifting Lines of Creepiness: A Design-Led Inquiry. CHI Conference on Human Factors in Computing Systems (pp. 1–14). New York, NY, USA: Association for Computing Machinery.
+- [Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service](https://ieeexplore.ieee.org/abstract/document/9155516)
+  - Looking at camera usage and streaming of those cameras by users.  Digs into the kind of behaviors that users have with their cameras and how to better handle them.
+    - Citation: Li, J., Li, Z., Tyson, G., & Xie, G. (2020). Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service. IEEE INFOCOM 2020 - IEEE Conference on Computer Communications, (pp. 387-396). Toronto, ON, Canada.
+- [Investigating Privacy Concerns of Wi-Fi Cameras in the Context of Smart Home Security](https://www.jsr.jofsr.org/index.php/path/article/view/2248)
+  - Looks at user of WiFi cameras, how they use them, and what the user perceptions of the security risks of their cameras.
+    - Khalil, M. K., Al Ajmi, Z., Al Ajmi, H., & Naidu, V. R. (2023). Investigating Privacy Concerns of Wi-Fi Cameras in the Context of Smart Home Security. Journal of Student Research. 
+- [Security and privacy issues affecting cloud-based IP camera](https://ieeexplore.ieee.org/abstract/document/8249043)
+  - The Paper analyzes the main privacy concerns of cameras and what might happen when the data is leaked.  There is a focus on the cloud storage of the videos and how someone may access the cameras.
+    - Citation: Liranzo, J., & Hayajneh, T. (2017). Security and privacy issues affecting cloud-based IP camera. 2017 IEEE 8th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference (UEMCON), (pp. 458-465). New York, NY, USA.
+- [Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service](https://ieeexplore.ieee.org/abstract/document/9266572)
+  - This paper is on analyzing the close integration of security cameras into people's lives, and how it can change peoples behaviors in how they use them and interact with them.  It then takes that information and extrapolates it to how attackers may use that information.
+    - Citation: Li, J., Li, Z., Tyson, G., & Xie, G. (2022). Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service. IEEE Transactions on Mobile Computing, 2344-2357.
 
  
 ### Applicances - Lucas
