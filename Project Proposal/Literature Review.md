@@ -3,19 +3,26 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 ## Literature Review
 
 ### Home Automation - Josh
- - No particular term, but included since we talked about it as a group.  UL traditionally was a certifiation for anything electrical, certify phyiscal safety, looks liek they are getting into Cyber with IoT devices, which are indeed all electric.
-    - [UL Solutions named Lead Administrator in the first-ever U.S. Federal Cybersecurity Labeling Program](https://www.ul.com/services/ul-verified-iot-device-security-rating)
-- Smart Home Privacy - (general)
-    - [A risk analysis of a smart home automation system](https://www.sciencedirect.com/science/article/abs/pii/S0167739X15002812)
-- Smart home speakers (from a control system perspective vs. entertainment)
-    - [Alexa, Are You Listening?: Privacy Perceptions, Concerns and Privacy-seeking Behaviors with Smart Speakers](https://dl.acm.org/doi/abs/10.1145/3274371)
-- Smart Thermostats (of which most are also Alex and/or Google speakers) - also general
-   - [Security and Privacy Issues with Smart Thermostats – A First Look](https://digital.library.unt.edu/ark:/67531/metadc1036560/)
-- Smart Home Security Systems (AKA, DO it yourself vs. the tradditional ADT, etc..)
-   - [Emerging Trends in Smart Home Security,
-Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1434&context=amcis2016)
-- Smart Smoke Alarms - This is interesting as it discuss the concerns of using the cloud vs. local to analyze video to detect a fire.
-   - [A Privacy-Preserving Iot-Based Fire Detector](https://ieeexplore.ieee.org/abstract/document/9389543)
+
+
+- [UL Solutions named Lead Administrator in the first-ever U.S. Federal Cybersecurity Labeling Program](https://www.ul.com/services/ul-verified-iot-device-security-rating)
+    - UL Laboratories has traditionally certified electrical appliances for safety (fire shock, etc.), and  is now stepping into certify IoT devices for electronic safety (privacy)
+        - Citation: “UL Verified IoT Device Security Rating.” UL Solutions
+- [A risk analysis of a smart home automation system](https://www.sciencedirect.com/science/article/abs/pii/S0167739X15002812)
+    - This is a very broad look at smart home appliances.
+        - Citation: Jacobsson, Andreas, et al. “A Risk Analysis of a Smart Home Automation System.” Future Generation Computer Systems, vol. 56, Mar. 2016, pp. 719–33. ScienceDirect
+- [Alexa, Are You Listening?: Privacy Perceptions, Concerns and Privacy-seeking Behaviors with Smart Speakers](https://dl.acm.org/doi/abs/10.1145/3274371)
+    - Since most smart homes devices require a speaker (or app) for control, this examines priavy concerns with speakers that have microphones that are always listening.
+        - Citation: Lau, Josephine, et al. “Alexa, Are You Listening? Privacy Perceptions, Concerns and Privacy-Seeking Behaviors with Smart Speakers.” Proc. ACM Hum.-Comput. Interact., vol. 2, no. CSCW, Nov. 2018, p. 102:1-102:31. ACM Digital Library
+- [Security and Privacy Issues with Smart Thermostats – A First Look](https://digital.library.unt.edu/ark:/67531/metadc1036560/)
+    - This specifically looks a one very critical smart home device with broad capabilities.  Even consumers with no desire to have an entirely smart home are now more likely to have a smart thermostat with the availability of non smart thermostats limited.
+        - Citation: Awojobi, Abiodun, and Hsia-Ching Chang. “Security and Privacy Issues with Smart Thermostats – A First Look.” 13th International Conference on Knowledge Management, October 25-26, 2017. Dallas, TX, United States, 26 Oct. 2017
+- [Emerging Trends in Smart Home Security, Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1434&context=amcis2016) 
+    - This looks at forensics and criminology in smart home devices.
+        - Citation: Plachkinova, Miloslava, et al. Emerging Trends in Smart Home Security, Privacy, and Digital Forensics. 2016. Semantic Scholar
+- [A Privacy-Preserving Iot-Based Fire Detector](https://ieeexplore.ieee.org/abstract/document/9389543)
+    - This looks are one particularly critical smart home device with life saving implications, and also adds in an examingation of the risk factor of relying on the cloud (and Internet) for these types of devices to operate
+        - Citation: Altowaijri, Abdullah H., et al. “A Privacy-Preserving Iot-Based Fire Detector.” IEEE Access, vol. 9, 2021, pp. 51393–402. IEEE Xplore
 
 
 ### Entertainment - Logan
@@ -47,27 +54,25 @@ Privacy, and Digital Forensics ](https://web.archive.org/web/20200323123821id_/h
       - IoT "Appliance" Best Practice
       - Survey of IoT        
 
-  - [An experimental study of security and privacy risks with emerging household appliances](https://ieeexplore.ieee.org/document/6997469)  
-        - Citation: Kim, J.Y., Lee, E.A., & Lee, K.M. (2014). Security and Performance Considerations for Smart Home Environments. IEEE Communications Magazine.
+  - [Experimental evaluation of cybersecurity threats to the smart-home](https://ieeexplore.ieee.org/document/8384143)  
+      -  This paper provides experimental data on IoT security risks, supporting our buying guide with real-world vulnerabilities, device evaluations, and security recommendations.
+          - Citation: Sivanathan, A., Loi, F., Gharakheili, H. H., & Sivaraman, V. (2017). Experimental evaluation of cybersecurity threats to the smart-home. University of New South Wales, Sydney, Australia. IEEE Xplore.
 
   - [Emerging "cyber hygiene" practices for the Internet of Things (IoT): Professional issues in consulting clients and educating users on IoT privacy and security](https://ieeexplore.ieee.org/document/8013965)
-     - Oravec (2017) focuses on the role of consumer education and cyber hygiene in mitigating IoT security risks. The study highlights how many users lack awareness of best security practices, often leading to misconfigurations and data breaches. Additionally, it discusses the professional responsibility of various industries, including legal and IT professionals, in guiding consumers toward better cybersecurity habits. The paper stresses the need for standardized security guidelines and increased public awareness to reduce the risks associated with IoT adoption.
+     - This article focuses on the role of consumer education and cyber hygiene in mitigating IoT security risks. The study highlights how many users lack awareness of best security practices, often leading to misconfigurations and data breaches. Discussing the professional responsibility of various industries in guiding consumers toward better cybersecurity habits. The paper stresses the need for standardized security guidelines and increased public awareness to reduce the risks associated with IoT adoption.
         - Citation: Oravec, J.A. (2017). Emerging Cyber Hygiene Practices for the Internet of Things (IoT): Professional Issues in Consulting Clients and Educating Users on IoT Privacy and Security. IEEE. 
 
   - [A Survey on Exploring the Effectiveness of IOT Based Home Security Systems](https://ieeexplore.ieee.org/document/10128178)
-    - Smart home IoT security presents significant challenges, as outlined in several key studies. Anupriya and Muthumanikandan (2023) explore the effectiveness of IoT-based home security systems, emphasizing how interconnected devices create increased attack surfaces. Their research highlights key vulnerabilities, including weak encryption, authentication flaws, and a lack of regular firmware updates, which make smart home environments more susceptible to cyber threats. The study underscores the need for improved security frameworks to protect consumer data and ensure the safe operation of IoT devices.
+    - In this article the authors explore the effectiveness of IoT-based home security systems. Focusing on how interconnected devices create increased attack surfaces. Their research highlights key vulnerabilities, including weak encryption, authentication flaws, and a lack of regular firmware updates. The study underscores the need for improved security frameworks to protect consumer data and ensure the safe operation of IoT devices.
         - Citation: Anupriya S.R & Dr. Muthumanikandan V. (2023). A Survey on Exploring the Effectiveness of IoT-Based Home Security Systems. International Conference on Computer Communication and Informatics (ICCCI). 
 
   - [Ranking Security of IoT-Based Smart Home Consumer Devices](https://ieeexplore.ieee.org/document/9698229)
-    - Allifah and Zualkernan (2022) introduce an Analytic Hierarchy Process (AHP) model to systematically rank the security of smart home IoT devices. Their research evaluates multiple security factors, including network vulnerabilities, device security flaws, and cloud-based risks. The findings reveal that network security, particularly Man-in-the-Middle attacks, poses the greatest threat to IoT consumers. The study also highlights the risks of default credentials, insecure APIs, and weak encryption in many consumer IoT products. By providing a structured security ranking, this research helps consumers make more informed decisions when purchasing smart home devices.
+    - The authors research evaluates multiple security factors like vulnerabilities, device security flaws, and cloud-based risks. The study also highlights the risks of default credentials, insecure APIs, and weak encryption in many consumer IoT products. The structured ranking system provides examples and idea of how to best showcase discovered information. 
         - Citation: Allifah, N.M. & Zualkernan, I.A. (2022). Ranking Security of IoT-Based Smart Home Consumer Devices. IEEE Access. 
     
   - [Analysis of Security Challenges and Issues in IoT Enabled Smart Homes](https://ieeexplore.ieee.org/document/9683324)
-    - These researchers argue that securing IoT systems requires a multi-layered approach that encompasses physical security, data encryption, and robust access control mechanisms. Various encryption protocols, such as end-to-end encryption and lightweight cryptography, have been proposed to mitigate data breaches, while advancements in machine learning are being explored to predict and prevent potential threats. The integration of blockchain technology is gaining attention as a potential solution to enhance the integrity and transparency of IoT networks.
-        - Citation: (2021). Analysis of Security Challenges and Issues in IoT Enabled Smart Homes. IEEE Conference Publication.
-
-
-  Lit Review - Abstract
+    - These researchers argue that securing IoT systems requires a multi-layered approach that encompasses physical security, data encryption, and robust access control mechanisms. Various encryption protocols like encryption and lightweight cryptography are used to mitigate data breaches. Highlighting how the implementation of blockchain technologies is going to vastly improve the integrity of network traffic for these devices. 
+        - Citation: Alqahtani, A. S., Alharthi, M. A., & Alharthi, M. A. (2021). Analysis of Security Challenges and Issues in IoT Enabled Smart Homes. In 2021 International Conference on Computer and Information Sciences (ICCIS). IEEE Conference Publication.
 
 
 
