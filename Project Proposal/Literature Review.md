@@ -32,7 +32,7 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
     Terms used:
     - Security issues with smart Televisions
     - Solutions for Security Issues within smart entertainment devices
-    - Security Issues with gaming consoles?
+    - Security Issues with gaming consoles
     
 - [An Overview of Architecture and Security Issues of a Smart TV](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9488939)
   - The study examines the architecture and operation of Smart TVs, focusing on security vulnerabilities such as DDoS attacks, man-in-the-middle attacks, masquerading, and other cyber threats. Smart TVs interact with various interfaces, including email, cameras, internet connectivity, and media players, making them susceptible to exploitation.
@@ -40,10 +40,16 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
     
 - [Smart Home IoT Communication Protocols and Advances in their Security and Interoperability](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10339739)
   - The evolution of smart homes, driven by IoT architecture, enables seamless integration of devices using various communication protocols for automation and security. However, interoperability challenges and security risks have led to the development of cryptographic protections and the Matter standard to enhance device compatibility and safeguard privacy.
-    - Citation: Holguin, I., & Errapotu, S. M. (2023). "Smart Home IoT Communication Protocols and Advances in their Security and Interoperability." 2023 7th Cyber Security in Networking Conference (CSNet), Montreal, QC, Canada, pp. 208-211. IEEE Xplore. DOI: 10.1109/CSNet59123.2023.10339739.
+    - Citation: Holguin, I., & Errapotu, S. M. (2023). "Smart Home IoT Communication Protocols and Advances in their Security and Interoperability." 2023 7th Cyber Security in Networking Conference (CSNet), Montreal, QC, Canada, pp. 208-211. IEEE Xplore. 
 - [Evaluating privacy and security risks in smart home entertainment appliances, from a communication perspective](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1480238&dswid=4736)
   - This study examines the security and privacy risks associated with smart home entertainment devices, focusing on network traffic interception in off-the-shelf gaming consoles like the PlayStation 4. Experimental results reveal that sensitive data, including images, can be extracted from wireless communications, highlighting vulnerabilities in connected entertainment systems.
-    - Citation: Malmö högskola/Teknik och samhälle. (2016). Evaluating Privacy and Security Risks in Smart Home Entertainment Appliances, from a Communication Perspective. URN: urn:nbn:se:mau:diva-20365.
+    - Citation: Malmö högskola/Teknik och samhälle. (2016). Evaluating Privacy and Security Risks in Smart Home Entertainment Appliances, from a Communication Perspective. 
+- [Not so Smart: On Smart TV Apps](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/7411840)
+  - This study analyzes security vulnerabilities in Smart TV apps, revealing that some popular applications transmit login data over unencrypted channels, exposing users to credential theft. Additionally, malicious apps on Samsung Smart TVs can access Single Sign-On credentials, potentially compromising all linked devices, including smartphones and tablets.
+    - Citation: Niemietz, M., Somorovsky, J., Mainka, C., & Schwenk, J. (2015). Not So Smart: On Smart TV Apps. 2015 International Workshop on Secure Internet of Things (SIoT), Vienna, Austria, pp. 72-81. IEEE Xplore.
+- [A Taxonomy of Privacy, Trust, and Security Breach Incidents of Internet-of-Things Linked to F(M).A.A.N.G. Corporations](http://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9817225)
+  - This study examines privacy, trust, and security risks associated with IoT devices connected to major tech companies like Facebook (Meta), Apple, Amazon, Netflix, and Google (F(M)AANG). Using case studies of IoT security breaches, the research highlights vulnerabilities exploited by malicious actors and proposes a Safe Computing Practices Model (SCPM) to enhance end-user security.
+    - Citation: Published in: 2022 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, June 6-9, 2022. IEEE Xplore. DOI: 10.1109/AIIoT54504.2022.9817225.
 
 ### Cameras - Tyler
     Terms used:
