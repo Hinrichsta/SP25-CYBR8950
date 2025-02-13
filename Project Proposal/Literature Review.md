@@ -34,9 +34,16 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
     - Solutions for Security Issues within smart entertainment devices
     - Security Issues with gaming consoles?
     
-  - [An Overview of Architecture and Security Issues of a Smart TV](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9488939)
-  - [Smart Home IoT Communication Protocols and Advances in their Security and Interoperability](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10339739)
-  - [Evaluating privacy and security risks in smart home entertainment appliances, from a communication perspective](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1480238&dswid=4736)
+- [An Overview of Architecture and Security Issues of a Smart TV](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9488939)
+  - The study examines the architecture and operation of Smart TVs, focusing on security vulnerabilities such as DDoS attacks, man-in-the-middle attacks, masquerading, and other cyber threats. Smart TVs interact with various interfaces, including email, cameras, internet connectivity, and media players, making them susceptible to exploitation.
+     - Citation: Santani, A., Gangaramani, M., Chopra, B., Choudhary, P., & Samdani, K. (2021). "An Overview of Architecture and Security Issues of a Smart TV." 2021 6th International Conference on Communication and Electronics Systems (ICCES), Coimbatore, India, pp. 1835-1843. IEEE Xplore.
+    
+- [Smart Home IoT Communication Protocols and Advances in their Security and Interoperability](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10339739)
+  - The evolution of smart homes, driven by IoT architecture, enables seamless integration of devices using various communication protocols for automation and security. However, interoperability challenges and security risks have led to the development of cryptographic protections and the Matter standard to enhance device compatibility and safeguard privacy.
+    - Citation: Holguin, I., & Errapotu, S. M. (2023). "Smart Home IoT Communication Protocols and Advances in their Security and Interoperability." 2023 7th Cyber Security in Networking Conference (CSNet), Montreal, QC, Canada, pp. 208-211. IEEE Xplore. DOI: 10.1109/CSNet59123.2023.10339739.
+- [Evaluating privacy and security risks in smart home entertainment appliances, from a communication perspective](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1480238&dswid=4736)
+  - This study examines the security and privacy risks associated with smart home entertainment devices, focusing on network traffic interception in off-the-shelf gaming consoles like the PlayStation 4. Experimental results reveal that sensitive data, including images, can be extracted from wireless communications, highlighting vulnerabilities in connected entertainment systems.
+    - Citation: Malmö högskola/Teknik och samhälle. (2016). Evaluating Privacy and Security Risks in Smart Home Entertainment Appliances, from a Communication Perspective. URN: urn:nbn:se:mau:diva-20365.
 
 ### Cameras - Tyler
     Terms used:
