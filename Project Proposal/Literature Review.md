@@ -29,11 +29,13 @@ https://mlhale.github.io/CYBR8950/projects/milestone1.html#project-methodology
 
 
 ### Entertainment - Logan
-- Security issues with smart Televisions
+    Terms used:
+    - Security issues with smart Televisions
+    - Solutions for Security Issues within smart entertainment devices
+    - Security Issues with gaming consoles?
+    
   - [An Overview of Architecture and Security Issues of a Smart TV](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9488939)
-- Solutions for Security Issues within smart entertainment devices
   - [Smart Home IoT Communication Protocols and Advances in their Security and Interoperability](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10339739)
-- Security Issues with gaming consoles?
   - [Evaluating privacy and security risks in smart home entertainment appliances, from a communication perspective](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1480238&dswid=4736)
 
 ### Cameras - Tyler
