@@ -4,6 +4,24 @@
   - Week 1-2 - Identify IoT Device Categories  
 Objective: Develop a comprehensive classification of IoT devices based on their functions, usage, and security implications to establish a foundation for further analysis.
 
+  Sub-Tasks:
+  1.  Research IoT Device Types
+      - Categorize IoT devices by industry (e.g., consumer, industrial, medical, automotive, smart home, etc.).
+      - Identify common security challenges associated with each category.
+  2.  Analyze Market Trends
+      - Gather data on widely adopted IoT devices.
+      - Review industry reports, market studies, and cybersecurity trend analyses.
+  3.  Define Key Security Features & Risks  
+      - Assess fundamental security concerns across different IoT categories.
+      - Identify critical security features that should be present in these devices.
+      - Analyze upkeep of software over lifespan of devices.
+  4.  Create an Organized Taxonomy
+      - Structure the identified categories into a well-documented format.
+      - Develop a clear framework that can be referenced throughout the project.
+  5.  Draft the initial Report & Seek Feedback
+      - Document findings and initial categorizations.
+      - Share the report with classmates, and Dr. Hale for feedback on comprehensiveness and clarity.
+        
   - Week 2-3 - Gather Case Studies on IoT Vulnerabilities  
 Objective: Collect and review academic literature, industry reports, and real-world case studies to build a well-supported discussion on IoT security across various device categories.
 
@@ -23,6 +41,7 @@ Objective: Collect and review academic literature, industry reports, and real-wo
   5.  Compile findings into a structured report to serve as evidence supporting the overarching project
       - Organize the collected research into a structured format with key takeaways.
       - Ensure readability by using summary sections.
+
 
 - Tyler
   - Week 3-4 - Analyze IoT Security Weaknesses  
