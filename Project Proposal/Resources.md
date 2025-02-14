@@ -1,0 +1,6 @@
+- UNO Criss Library
+  - Scholarly Article Databases
+  - IEEE
+- Personal IoT Devices
+  - We all have IoT devices that we own
+  - Josh has a large collection of devices
