@@ -1,6 +1,6 @@
 ## Literature Review
 
-### Home Automation - Josh
+### Home Automation
     Terms used:
     - Smarthome automationand privacy
     - Home assistant privacy
@@ -26,7 +26,7 @@
         - Citation: Altowaijri, Abdullah H., et al. “A Privacy-Preserving Iot-Based Fire Detector.” IEEE Access, vol. 9, 2021, pp. 51393–402. IEEE Xplore
 
 
-### Entertainment - Logan
+### Entertainment
     Terms used:
     - Security issues with smart Televisions
     - Solutions for Security Issues within smart entertainment devices
@@ -49,7 +49,7 @@
   - This study examines privacy, trust, and security risks associated with IoT devices connected to major tech companies like Facebook (Meta), Apple, Amazon, Netflix, and Google (F(M)AANG). Using case studies of IoT security breaches, the research highlights vulnerabilities exploited by malicious actors and proposes a Safe Computing Practices Model (SCPM) to enhance end-user security.
     - Citation: Published in: 2022 IEEE World AI IoT Congress (AIIoT), Seattle, WA, USA, June 6-9, 2022. IEEE Xplore. DOI: 10.1109/AIIoT54504.2022.9817225.
 
-### Cameras - Tyler
+### Cameras
     Terms used:
     - Security issues with Smart Home Cameras
     - Security issues with Home Security Cameras
@@ -72,7 +72,7 @@
     - Citation: Li, J., Li, Z., Tyson, G., & Xie, G. (2022). Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service. IEEE Transactions on Mobile Computing, 2344-2357.
 
  
-### Applicances - Lucas
+### Applicances
     - Terms Used:
       - IoT "Appliance" Security
       - IoT "Appliance" Best Practice
