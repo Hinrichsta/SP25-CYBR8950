@@ -2,7 +2,7 @@
 
 ### Home Automation
     Terms used:
-    - Smarthome automationand privacy
+    - Smarthome automation and privacy
     - Home assistant privacy
     - Connected home privacy
 
