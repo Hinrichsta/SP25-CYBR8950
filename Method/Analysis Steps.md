@@ -48,3 +48,32 @@ The higher the score the better
 2. Provide a total scoring at the bottom of the matrix
 3. Give a summary describing the product, the manufacturer, platform, and reasoning for the score.
 4. Give final recommendations
+
+
+(Lucas) Additional or find a way to concatenate to above:
+## Initial Information Gathering
+    ## Device Specifications:
+
+    ### Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
+Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
+Communication Protocols:
+
+    ### Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
+Firmware Details:
+
+    ### Collect information on the device's firmware version and update history to evaluate potential vulnerabilities.
+
+## Analysis
+    ## Data Transmission Security:
+
+    ### Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
+Authentication and Authorization Mechanisms:
+
+    ### Evaluate the strength and implementation of user authentication and authorization controls.
+Physical Security:
+
+    ### Analyze the device's susceptibility to physical tampering or unauthorized access.
+Compliance and Regulatory Standards:
+
+    ### Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
+
