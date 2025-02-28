@@ -1,6 +1,6 @@
 ## Technical Plan
 
-- Week 1-2 - Identify IoT Device Categories  
+- Week 1 - Identify IoT Device Categories  
 Objective: Develop a comprehensive classification of IoT devices based on their functions, usage, and security implications to establish a foundation for further analysis.
    
     - Sub-Tasks:  
@@ -21,7 +21,7 @@ Objective: Develop a comprehensive classification of IoT devices based on their 
            - Document findings and initial categorizations.
            - Share the report with classmates, and Dr. Hale for feedback on comprehensiveness and clarity.
         
-- Week 2-3 - Gather Case Studies on IoT Vulnerabilities  
+- Week 3 - Gather Case Studies on IoT Vulnerabilities  
 Objective: Collect and review academic literature, industry reports, and real-world case studies to build a well-supported discussion on IoT security across various device categories.
    
     - Sub-Tasks: 
@@ -41,19 +41,15 @@ Objective: Collect and review academic literature, industry reports, and real-wo
             - Organize the collected research into a structured format with key takeaways.
             - Ensure readability by using summary sections.
 
-- Week 3-4 - Analyze IoT Security Weaknesses  
+- Week 4-5 - Assessing IoT Security: Weaknesses and Manufacturer Practices  
 Objective: Look at listing of disclosed vulnerabilities within the IoT space, and find some major and minor breaches in this space.  Then gather manufacturer information for future analysis
    
-    - Sub-Tasks:  
+    - Weaknesses Sub-Tasks:  
         1. Gather IoT device breach data
         2. Find Major and minor breachs
            -  Gather details on the devices, time, manufacturer, and the nature of the vulnerability
         3. Apply our categorization to these data points
-
-- Week 4-5 - Evaluate Manufacturer Security Practices  
-Objective: Look at the issues that Manufacturers have have had with their devices, what their response was, and how many people were affected by them. 
-   
-    - Sub-Tasks:  
+    - Manufacturer Sub-Tasks:  
         1. Find manufaturer responses to the vulnerabilities/data breaches
         2. Create a categorization as to how appropriate the response was
         3. Categorize each vulnerability/breach by how well the manufacturer responded
