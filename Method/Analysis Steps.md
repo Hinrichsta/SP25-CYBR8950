@@ -18,7 +18,7 @@
    - Google Scholar or IEEE
    - Some other Database of case studies
 10. Breach/Vulnerability Reports
-   - CVSS database
+     - CVSS database
 
 
 ## Analysis
@@ -42,9 +42,9 @@
    - Public Disclosures
    - Time Frame Between when Vulnerability was disclosed and Patch deployed
 10. Company Vulnerability Transparency
-   - Were patches silently deployed or publically shared
-   - Were vulnerabilities disclosed publically,y and how did the company respond
-   - Company bug bounty programs
+     - Were patches silently deployed or publically shared
+     - Were vulnerabilities disclosed publically,y and how did the company respond
+     - Company bug bounty programs
 
 
 ## Scoring
