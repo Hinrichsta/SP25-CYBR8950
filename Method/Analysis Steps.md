@@ -1,34 +1,51 @@
 ## Initial Information Gathering
-1. Decide on the device that will be getting analyzed
+1. Decide on the device that will be analyzed
 2. Find manufacturer information
    - Company
      - Parent Company?
    - Country of origin
-3. Platform/ecosystem
+3. Device Specifications
+   - Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
+   - Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
+4. Communication Protocols
+   - Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
+6. Platform/ecosystem
    - Does it use its own or a different companies
    - Is that platform hosted on a PaaS
-4. Research Studies including this device.
+7. Firmware Details:
+   - Collect information on the device's firmware version and update history to evaluate potential vulnerabilities. 
+9. Research Studies including this device.
    - Google Scholar or IEEE
    - Some other Database of case studies
-5. Breach/Vulnerability Reports
+10. Breach/Vulnerability Reports
    - CVSS database
+
 
 ## Analysis
 1. Internet/Network Requirements
 2. Cloud Requirements
-3. Data Storage Requirements
-4. Data Gathering
+3. Data Transmission Security
+   - Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
+4. Authentication and Authorization Mechanisms
+   - Evaluate the strength and implementation of user authentication and authorization controls.
+5. Physical Security
+   - Analyze the device's susceptibility to physical tampering or unauthorized access.
+6. Data Storage Requirements
+7. Data Gathering
    - Terms of Service
    - Case Studies
    - General Research
-5. Company Vulnerability Remediation
+8. Compliance and Regulatory Standards
+   - Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
+9. Company Vulnerability Remediation
    - CVSS database
    - Public Disclosures
    - Time Frame Between when Vulnerability was disclosed and Patch deployed
-6. Company Vulnerability Tansparency
+10. Company Vulnerability Transparency
    - Were patches silently deployed or publically shared
-   - Were vulnerabilities disclosed publically and how did the company respond
+   - Were vulnerabilities disclosed publically,y and how did the company respond
    - Company bug bounty programs
+
 
 ## Scoring
 The higher the score the better
@@ -49,34 +66,4 @@ The higher the score the better
 3. Give a summary describing the product, the manufacturer, platform, and reasoning for the score.
 4. Give final recommendations
 
-
-(Lucas) Additional or find a way to concatenate to above:
-## Initial Information Gathering
-1. Device Specifications:
-
-   - Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
-   - Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
-
-2. Communication Protocols:
-
-   - Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
-
-3. Firmware Details:
-
-   - Collect information on the device's firmware version and update history to evaluate potential vulnerabilities.
-
-## Analysis
-1. Data Transmission Security:
-   - Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
-   
-2. Authentication and Authorization Mechanisms:
-   - Evaluate the strength and implementation of user authentication and authorization controls.
-
-3. Physical Security:
-
-   - Analyze the device's susceptibility to physical tampering or unauthorized access.
-
-4. Compliance and Regulatory Standards:
-
-   - Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
 
