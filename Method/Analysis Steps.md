@@ -52,31 +52,31 @@ The higher the score the better
 
 (Lucas) Additional or find a way to concatenate to above:
 ## Initial Information Gathering
-    ## Device Specifications:
+1. Device Specifications:
 
-1. Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
-2. Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
+   - Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
+   - Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
 
-    ## Communication Protocols:
+2. Communication Protocols:
 
-1. Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
-   
-    ## Firmware Details:
+   - Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
 
-1. Collect information on the device's firmware version and update history to evaluate potential vulnerabilities.
+3. Firmware Details:
+
+   - Collect information on the device's firmware version and update history to evaluate potential vulnerabilities.
 
 ## Analysis
-    ## Data Transmission Security:
-1. Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
+1. Data Transmission Security:
+   - Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
    
-    ## Authentication and Authorization Mechanisms:
-1. Evaluate the strength and implementation of user authentication and authorization controls.
+2. Authentication and Authorization Mechanisms:
+   - Evaluate the strength and implementation of user authentication and authorization controls.
 
-    ## Physical Security:
+3. Physical Security:
 
-1. Analyze the device's susceptibility to physical tampering or unauthorized access.
+   - Analyze the device's susceptibility to physical tampering or unauthorized access.
 
-    ## Compliance and Regulatory Standards:
+4. Compliance and Regulatory Standards:
 
-1. Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
+   - Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
 
