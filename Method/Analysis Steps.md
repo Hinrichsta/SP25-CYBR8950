@@ -54,26 +54,29 @@ The higher the score the better
 ## Initial Information Gathering
     ## Device Specifications:
 
-    ### Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
-Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
-Communication Protocols:
+1. Hardware Interfaces: Identify all physical interfaces (e.g., USB, JTAG, Serial Ports) to assess potential physical access vulnerabilities.
+2. Software Interfaces: Document all software interfaces (e.g., HTTP, SNMP) to understand exposure points.
 
-    ### Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
-Firmware Details:
+    ## Communication Protocols:
 
-    ### Collect information on the device's firmware version and update history to evaluate potential vulnerabilities.
+1. Determine the protocols used (e.g., Wi-Fi, Bluetooth, Zigbee) and assess their security implications.
+   
+    ## Firmware Details:
+
+1. Collect information on the device's firmware version and update history to evaluate potential vulnerabilities.
 
 ## Analysis
     ## Data Transmission Security:
+1. Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
+   
+    ## Authentication and Authorization Mechanisms:
+1. Evaluate the strength and implementation of user authentication and authorization controls.
 
-    ### Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
-Authentication and Authorization Mechanisms:
+    ## Physical Security:
 
-    ### Evaluate the strength and implementation of user authentication and authorization controls.
-Physical Security:
+1. Analyze the device's susceptibility to physical tampering or unauthorized access.
 
-    ### Analyze the device's susceptibility to physical tampering or unauthorized access.
-Compliance and Regulatory Standards:
+    ## Compliance and Regulatory Standards:
 
-    ### Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
+1. Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
 
