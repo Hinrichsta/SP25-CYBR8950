@@ -1,7 +1,7 @@
 | Phase  |  Task Name  |  Start Date  |  End Date  |  Milestone | Status |
 | :----: | :---------: | :----------: | :--------: | :--------: | :----: |
 | Week 1 |  Identify IoT Device Categories |  Day 1 |  Day 5  | Initial Research Complete | Complete |
-| Week 2 |  Create Research Method |  Day 5 |  Day 10 |  Security Case Study Compilation | In Progress |
+| Week 2 |  Create Research Method |  Day 5 |  Day 10 |  Research Method Built | In Review |
 | Week 3 |  Gather Case Studies on IoT Vulnerabilities |  Day 10 |  Day 15 |  Security Case Study Compilation | In Progress |
 | Week 4-5 |  Assessing IoT Security: Weaknesses and Manufacturer Practices |  Day 15 |  Day 25 |  Vulnerability Report | Not Started |
 | Week 5-6 |  Investigate Consumer IoT Management Challenges |  Day 20 |  Day 30 |  Consumer Awareness Report | Not Started |

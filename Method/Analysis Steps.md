@@ -24,6 +24,9 @@
 ## Analysis
 1. Internet/Network Requirements
 2. Cloud Requirements
+   - Privacy
+   - Bandwidth/performance
+   - Feature set
 3. Data Transmission Security
    - Assess whether data transmitted between the device and other entities is encrypted and follows secure protocols.
 4. Authentication and Authorization Mechanisms
@@ -37,13 +40,13 @@
    - General Research
 8. Compliance and Regulatory Standards
    - Check if the device adheres to relevant industry standards and regulations (e.g., GDPR, HIPAA).
-9. Company Vulnerability Remediation
+9.  Company Vulnerability Remediation
    - CVSS database
    - Public Disclosures
    - Time Frame Between when Vulnerability was disclosed and Patch deployed
 10. Company Vulnerability Transparency
      - Were patches silently deployed or publically shared
-     - Were vulnerabilities disclosed publically,y and how did the company respond
+     - Were vulnerabilities disclosed publically, and how did the company respond
      - Company bug bounty programs
 
 
