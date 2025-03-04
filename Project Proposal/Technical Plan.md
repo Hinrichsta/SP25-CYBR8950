@@ -1,6 +1,6 @@
 ## Technical Plan
 
-- Week 1 - Identify IoT Device Categories  
+- Week 1-2 - Identify IoT Device Categories/Create Research Method
 Objective: Develop a comprehensive classification of IoT devices based on their functions, usage, and security implications to establish a foundation for further analysis.
    
     - Sub-Tasks:  
@@ -20,6 +20,10 @@ Objective: Develop a comprehensive classification of IoT devices based on their 
         5. Draft the initial Report & Seek Feedback
            - Document findings and initial categorizations.
            - Share the report with classmates, and Dr. Hale for feedback on comprehensiveness and clarity.
+        6. Create Research Method - Analysis Steps and Analysis Matrix
+           - Create Analysis Steps - This will help equalize the Analysis Step criteria and make a uniform reearch paper.
+           - Create Analysis Matrix - This will help create a matrix/rurbric to score the devices within the categories. 
+          
         
 - Week 3 - Gather Case Studies on IoT Vulnerabilities  
 Objective: Collect and review academic literature, industry reports, and real-world case studies to build a well-supported discussion on IoT security across various device categories.
