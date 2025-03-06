@@ -1,0 +1,11 @@
+- Cameras to Review
+  - [Google Nest](https://store.google.com/category/nest_cams?hl=en-US)
+    - https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1464437&dswid=6664
+    - https://www.tandfonline.com/doi/abs/10.1080/15295036.2022.2143838
+  - [Amazon Ring](https://ring.com/collections/home-security-cameras)
+    - https://dl.acm.org/doi/abs/10.1145/3555125
+    - https://www.tandfonline.com/doi/full/10.1080/09505431.2021.1983797
+  - [Blink](https://blinkforhome.com/)
+  - TP-Link
+    - https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1619459&dswid=8884
+    - Not Cameras but may be useful - https://dl.acm.org/doi/abs/10.1145/3282894.3289735
