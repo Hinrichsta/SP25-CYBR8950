@@ -1,7 +1,7 @@
 # Entertainment
 IoT has become a key part of entertainment, with gaming consoles like PlayStation, Xbox, and Switch relying on internet connectivity for cloud saves and online play. Streaming devices such as Roku, Chromecast, and Fire Stick provide easy access to digital content but raise concerns about data security. Smart speakers like Alexa and Google Nest enhance convenience but continuously listen, posing privacy risks. Even children's toys, like VTech products, now connect online, introducing potential security vulnerabilities.
 
-## Sony, Playstation 5
+## Sony, [Playstation 5](https://www.playstation.com/en-us/ps5/?smcid=pdc%3Aen-us%3Aps5-games%3Aprimary%20nav%3Amsg-ps5%3Aps5) & Playstation Network
 - Sony is one of the biggest entertainment and gaming companies in the world, and PlayStation is one of the leading gaming platforms on the market. This also means they have extensive data collection and online services integrated into their ecosystem.
 - All of their data is stored on Sony’s proprietary cloud platform and is developed to run within their PlayStation Network (PSN) system.
 - They are generally consistent with releasing security patches and updates for their consoles and online services.
