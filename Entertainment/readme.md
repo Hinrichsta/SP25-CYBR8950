@@ -18,16 +18,16 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
   - [Cloud Data Breach Disclosures: the Consumer and their Personally Identifiable Information (PII)](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9532579)
   - [A cloud you can trust](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/6085778)
 
-## Roku Television/Google Chromecast devices/Amazon Fire TV Stick
+## Roku Television
 - bullet
 - bullet
 - bullet
 - ### Concerns
-   - bullet
-   - bullet
+   - [RokuControl-Conducting MITM Attacks on Roku](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9946502)
+   - [SoK: Security Evaluation of Home-Based IoT Deployments](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/8835392)
    - bullet
 
-## Amazon Alexa / Google Nest (smart speakers)
+## Amazon Alexa (smart speakers)
 - bullet
 - bullet
 - bullet
