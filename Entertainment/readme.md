@@ -1,14 +1,22 @@
 # Entertainment
 IoT has become a key part of entertainment, with gaming consoles like PlayStation, Xbox, and Switch relying on internet connectivity for cloud saves and online play. Streaming devices such as Roku, Chromecast, and Fire Stick provide easy access to digital content but raise concerns about data security. Smart speakers like Alexa and Google Nest enhance convenience but continuously listen, posing privacy risks. Even children's toys, like VTech products, now connect online, introducing potential security vulnerabilities.
 
-## Microsoft Xbox Series X / Sony Playstation 5 / Nintendo Switch
-- bullet
-- bullet
-- bullet
+## Sony, Playstation 5
+- Sony is one of the biggest entertainment and gaming companies in the world, and PlayStation is one of the leading gaming platforms on the market. This also means they have extensive data collection and online services integrated into their ecosystem.
+- All of their data is stored on Sony’s proprietary cloud platform and is developed to run within their PlayStation Network (PSN) system.
+- They are generally consistent with releasing security patches and updates for their consoles and online services.
 - ### Concerns
-   - bullet
-   - bullet
-   - bullet
+   - Sony collects a significant amount of user data, including gameplay activity, purchases, and interactions on PSN.
+   - A PlayStation account and internet connection are required for many features, including online multiplayer and cloud saves.
+   - Sony has faced past security breaches, including major incidents affecting PSN.
+### Documentation
+- Manufacturer Information
+  - https://www.playstation.com/en-us/privacy-security-safety/
+  - https://www.playstation.com/en-us/legal/privacy-policy/
+  - https://www.playstation.com/en-us/legal/psn-terms-of-service/
+- Case Studies
+  - [Cloud Data Breach Disclosures: the Consumer and their Personally Identifiable Information (PII)](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9532579)
+  - [A cloud you can trust](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/6085778)
 
 ## Roku Television/Google Chromecast devices/Amazon Fire TV Stick
 - bullet
