@@ -1,4 +1,5 @@
 # Entertainment
+IoT has become a key part of entertainment, with gaming consoles like PlayStation, Xbox, and Switch relying on internet connectivity for cloud saves and online play. Streaming devices such as Roku, Chromecast, and Fire Stick provide easy access to digital content but raise concerns about data security. Smart speakers like Alexa and Google Nest enhance convenience but continuously listen, posing privacy risks. Even children's toys, like VTech products, now connect online, introducing potential security vulnerabilities.
 
 ## Microsoft Xbox Series X / Sony Playstation 5 / Nintendo Switch
 - bullet
