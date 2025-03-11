@@ -9,6 +9,8 @@
    - There are different versions of Tuya's backend over the years, with some improvement in new versions, but many older devices are still manufactured and marketted.
    - Tuya is the [world's leading](https://www.atlantis-press.com/proceedings/icssed-22/125973899) smart home company and very little has been written about their security, however there is plenty about the company as a whole.
    - Anyone can manufacture a SmartLife device and get it certified that does anything they want.  Tuya enforces only standards of operability, not functionality.
+   - Numerous CVE's - [Example: CVE-2024-3764 Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-3764)
+   - Researchers have [urged the US government] (https://www.voanews.com/a/east-asia-pacific_voa-news-china_cybersecurity-experts-worried-chinese-firms-control-smart-devices/6209815.html) to ban Tuya devices over privacy concerns.
 
 ## Govee Temperature and Other sensors (water, weather, etc.)
 - GoveeLife operates a similiar Saas service to Tuya/SmartLife, but they don't sell this service.  They offer different products under different iterations of the Govee name, GoveeLife/Home/SmartLife (confusing), etc.  
@@ -18,6 +20,7 @@
   - The GoveeLife app requires location permissions, which is used for proximately controls of lights.  However like many apps, this is a global setting, so even if I only have temp sensors, I still have to give this permission.
   - Govee devices [do not use encryption](https://community.home-assistant.io/t/security-concerns-with-govee-devices-seeking-solutions-and-alternatives-h5072-h5075/683314/2), and instead Govee has implemented a device safety feature.  This features, which is not enabled by default means that once a Govee device has connected to one installation of the app, it can only connect to that copy of the running app.  This prevents other control devices on your network from connecting to it, but does not prevent network sniffing of the plain text data.  This is a strange work-around for not using encryption - likely related to the low compute power of the sensors and gateway.  The Govee API gateway however does require SSL.
   - Govee devices are [considered to be rather chatty](https://hal.science/hal-04936304/), despite not being ask to do anything.  
+   - [Govee CVE - CVE-2023-3612](https://nvd.nist.gov/vuln/detail/CVE-2023-3612)
 
 ## Utec/UHome/ULTRALOQ Locks
 - Several different models of locks are offered.Local options unclude fingerprint, pin pad, BlueTooth, and NFC.  All offer, and require cloud for at least setup.  Some use a gateway, others offer native WiFi.
@@ -25,6 +28,8 @@
 - ### Concerns  
   - [This](https://ieeexplore.ieee.org/abstract/document/9537052) focuses on the biometrics that many locks use, which are stored by the SaaS provider vs. the device in most cases, which does not eliminate the cloud requirement.  Most PIN pad devices do store PINs locally to eliminate the cloud requirement as a failsafe.
   - [Focus on consumer](https://dl.acm.org/doi/abs/10.1145/2897845.2897886)  vs. industrial access control systems.
+  - Previous but addressed [CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt) in Bluetooth personal area network (out of scope)
+  - [Additional information](https://threatpost.com/smart-lock-turns-out-to-be-not-so-smart-or-secure/146091/) on CVE's since the CVE are now gone.
 
 ## Kidde Alarms  
 - Kiddie is a well known manufacturer of traditional smoke, fire, and CO alarms.  They have recently began offering WiFi equipped 110 volt AC alarms, some of which can also do air quality monitoring.  These devices can function as traditional alarms with a siren/light, but using the app offer typical smart home integration.
@@ -33,6 +38,7 @@
   - Kidde went their own way, with their app and ecosystem.  It is poorly designed and implemented. 
   - The subscription service is misleading, but due to a bug in the app, you can subscribe and cancel, and the service remains.
   - Kidde is doing US based support, for a device designed and manufactured in China which is an odd choice as they don't seem to know anything about how their system works.
+  - The initial products were subject to false alarms and [recalled](https://www.kidde.com/home-safety/en/us/support/product-alerts/recall-kidde-trusense/), not because of their IoT alarms but basic traditional alarm functionality.
 
 ## EcoBee Thermostats  
 - Thermostats are one of the most common smart home devices found in many homes, where no other smart home devices may be used.
@@ -44,6 +50,7 @@
 - EcoBee partners only with Amazon Alexa, likely because of Google's competing Nest thermostat.  There is limited Google Home integration.  But this means your EcoBee thermostat is also an Alexa Speaker (covered in another category)
  - EcoBee thermostats work by proximity sensing.  They know if you are home or now.
  https://ijitra.com/index.php/ijitra/article/view/48/39
+ - [Numerous CVEs](https://app.opencve.io/cve/?vendor=ecobee).  One example includes default root credentials.
 
 
 ## Shared Concerns  
