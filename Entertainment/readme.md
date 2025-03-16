@@ -1,5 +1,8 @@
 # Entertainment
+
+
 IoT has become a key part of entertainment, with gaming consoles like PlayStation, Xbox, and Switch relying on internet connectivity for cloud saves and online play. Streaming devices such as Roku, Chromecast, and Fire Stick provide easy access to digital content but raise concerns about data security. Smart speakers like Alexa and Google Nest enhance convenience but continuously listen, posing privacy risks. Even children's toys, like VTech products, now connect online, introducing potential security vulnerabilities.
+
 
 ## Sony, [Playstation 5](https://www.playstation.com/en-us/ps5/?smcid=pdc%3Aen-us%3Aps5-games%3Aprimary%20nav%3Amsg-ps5%3Aps5) & Playstation Network
 - Sony is one of the biggest entertainment and gaming companies in the world, and PlayStation is one of the leading gaming platforms on the market. This also means they have extensive data collection and online services integrated into their ecosystem.
@@ -18,14 +21,27 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
   - [Cloud Data Breach Disclosures: the Consumer and their Personally Identifiable Information (PII)](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9532579)
   - [A cloud you can trust](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/6085778)
 
-## Roku Television
-- bullet
-- bullet
-- bullet
+
+## [Roku](https://www.roku.com/what-is-roku) Television
+- Roku is a leading brand in smart TVs and streaming devices, offering access to thousands of apps and channels. Their platform integrates online services, including content recommendations, ads, and data collection.
+- User data, such as preferences and viewing history, is stored on Roku’s cloud platform and linked to Roku accounts.
+- They regularly release software updates for security and performance improvements.
 - ### Concerns
+   - Roku collects significant user data, including viewing habits, app usage, device information, and advertising interactions. This data is used for targeted ads and content recommendations.
+   - Consumer Reports found that some Roku TVs were susceptible to remote access exploits, allowing attackers to control TVs over the network. Roku addressed the issue with a security update. [(2018 CVE Vulnerability Details)](https://www.cvedetails.com/cve/CVE-2018-11314/)
+   - Roku has been criticized for sharing user data with third-party advertisers. In 2023, a lawsuit alleged that Roku failed to properly protect user data, leading to privacy concerns about data sales and tracking.
+   - A Roku account and an internet connection are required for full functionality, including access to streaming services and software updates.
+### Documentation
+- Manufacturer Information
+  - https://docs.roku.com/published/userprivacypolicy
+  - https://docs.roku.com/published/deviceplayereula
+    - [Protecting your Roku account](https://www.roku.com/blog/protecting-your-roku-account?srsltid=AfmBOorvJW5GU8DqZHgsEzlm63RDcyCyXjyOBSK3z8fLMA4OxxByQRau)    
+- Case Studies
    - [RokuControl-Conducting MITM Attacks on Roku](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9946502)
    - [SoK: Security Evaluation of Home-Based IoT Deployments](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/8835392)
-   - bullet
+   - [Security Properties of Virtual Remotes and SPOOKing their
+violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
+     - read section 2.2.3 of this [document](https://dl.acm.org/doi/pdf/10.1145/3579856.3582834) 
 
 ## Amazon Alexa (smart speakers)
 - bullet
