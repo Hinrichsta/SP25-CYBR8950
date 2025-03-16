@@ -45,14 +45,28 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
 violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
      - read section 2.2.3 of this [document](https://dl.acm.org/doi/pdf/10.1145/3579856.3582834) 
 
+
 ## Amazon Alexa (smart speakers)
-- bullet
-- bullet
-- bullet
+- Amazon is one of the largest technology companies, and Alexa is a leading voice assistant platform, integrated into smart speakers, displays, and various IoT devices. This also means Amazon collects extensive user data to improve services and enable personalized experiences.
+- All data is stored on Amazon’s cloud infrastructure and processed within their Alexa ecosystem.
+- Amazon regularly releases updates to improve security, privacy controls, and functionality.
 - ### Concerns
-   - bullet
-   - bullet
-   - bullet
+   - Amazon collects significant user data, including voice recordings, smart home interactions, and usage patterns.
+   - Alexa devices require an Amazon account and an internet connection for full functionality.
+   - Past privacy concerns include reports of human reviewers analyzing voice recordings and security flaws exposing user data.
+### Documentation
+- Manufacturer Information
+  - [Meet Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5)
+  - [Alexa+ Trust & Privacy](https://www.amazon.com/b?node=203453976011&ref=dp_btf_xaa_spp_d_p5)
+    - [Security Layers](https://www.amazon.com/b/?node=23638098011&ref=aucc_en_us_web_dom_xaa_evgn_tx_0016)
+    - [Alexa Privacy (may not be accessilbe without acccount)](https://www.amazon.com/alexa-privacy/apd/home?ref=aucc_en_us_web_dom_xaa_evgn_tx_0021)
+  - [Amazon Vulnerability Research Program (VRP)](https://hackerone.com/amazonvrp?type=team)
+  - [Amazon Echo Software Security Updates](https://www.amazon.com/gp/help/customer/display.html?nodeId=GMZQWNQRVENX4GTQ)
+- Case Studies
+  - [Alexa, Are You Listening?: Privacy Perceptions, Concerns and Privacy-seeking Behaviors with Smart Speakers](https://dl.acm.org/doi/abs/10.1145/3274371)
+  - [Alexa, is the skill always safe? Uncover Lenient Skill Vetting Process and Protect User Privacy at Run Time](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10554785)
+  - [A Survey on Amazon Alexa Attack Surfaces](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9369553)
+  - [Alexa Skills: Security Vulnerabilities and Countermeasures](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10066153)
 
 ## Vtech Toys
 - [The Internet of Toys](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1266124)
