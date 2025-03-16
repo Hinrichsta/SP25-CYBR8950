@@ -35,6 +35,8 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
 - Manufacturer Information
   - https://docs.roku.com/published/userprivacypolicy
   - https://docs.roku.com/published/deviceplayereula
+  - https://docs.roku.com/published/deviceplayereula
+    - [The Roku Channel Terms of Use](https://docs.roku.com/published/therokuchannel-userstermsandconditions)
     - [Protecting your Roku account](https://www.roku.com/blog/protecting-your-roku-account?srsltid=AfmBOorvJW5GU8DqZHgsEzlm63RDcyCyXjyOBSK3z8fLMA4OxxByQRau)    
 - Case Studies
    - [RokuControl-Conducting MITM Attacks on Roku](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9946502)
