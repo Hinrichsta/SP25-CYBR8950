@@ -46,7 +46,7 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
      - read section 2.2.3 of this [document](https://dl.acm.org/doi/pdf/10.1145/3579856.3582834) 
 
 
-## Amazon Alexa (smart speakers)
+## [Amazon Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5) (smart speakers)
 - Amazon is one of the largest technology companies, and Alexa is a leading voice assistant platform, integrated into smart speakers, displays, and various IoT devices. This also means Amazon collects extensive user data to improve services and enable personalized experiences.
 - All data is stored on Amazon’s cloud infrastructure and processed within their Alexa ecosystem.
 - Amazon regularly releases updates to improve security, privacy controls, and functionality.
@@ -56,7 +56,6 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
    - Past privacy concerns include reports of human reviewers analyzing voice recordings and security flaws exposing user data.
 ### Documentation
 - Manufacturer Information
-  - [Meet Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5)
   - [Alexa+ Trust & Privacy](https://www.amazon.com/b?node=203453976011&ref=dp_btf_xaa_spp_d_p5)
     - [Security Layers](https://www.amazon.com/b/?node=23638098011&ref=aucc_en_us_web_dom_xaa_evgn_tx_0016)
     - [Alexa Privacy (may not be accessilbe without acccount)](https://www.amazon.com/alexa-privacy/apd/home?ref=aucc_en_us_web_dom_xaa_evgn_tx_0021)
@@ -68,11 +67,19 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
   - [A Survey on Amazon Alexa Attack Surfaces](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9369553)
   - [Alexa Skills: Security Vulnerabilities and Countermeasures](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10066153)
 
-## Vtech Toys
-- [The Internet of Toys](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1266124)
-- [Pictures of Children' 'In Vtech Hack](https://www.bbc.com/news/technology-34971337)
-- bullet
+## [Vtech](https://www.vtechkids.com/) Toys (can't decide on which particular toy)
+- VTech is a major manufacturer of electronic learning toys, offering smart devices designed for children. Their products often include internet connectivity, cloud storage, and interactive features, which also means they collect and process user data.
+- All data is stored on VTech’s cloud platform "VTech Cloud" and linked to user accounts, primarily through services like Kid Connect.
+- VTech provides software updates to improve security and functionality.
 - ### Concerns
-   - bullet
-   - bullet
-   - bullet
+   - VTech collects personal data, including children's names, birthdates, and voice recordings.
+   - Many features require an account and internet connection.
+   - In 2015, VTech suffered a major data breach, exposing the personal information of over 6 million children and parents.
+### Documentation
+- Manufacturer Information
+  - [Privacy Policy](https://www.vtechda.com/legal/version/view.aspx?country=US&lang=eng&x=4&y=1)
+  - [Recall Information](https://www.vtechkids.com/recall)
+- Case Studies
+  - [The Internet of Toys](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1266124)
+  - [Pictures of Children' 'In Vtech Hack](https://www.bbc.com/news/technology-34971337)
+  - [Electronic Toy Maker VTech Settles FTC Allegations That it Violated Children’s Privacy Law and the FTC Act](https://www.ftc.gov/news-events/news/press-releases/2018/01/electronic-toy-maker-vtech-settles-ftc-allegations-it-violated-childrens-privacy-law-ftc-act)
