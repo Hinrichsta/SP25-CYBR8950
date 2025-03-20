@@ -12,7 +12,9 @@
 - ### Case Studies
    - In 2014, a large-scale cyberattack leveraged over 100,000 smart devices, including refrigerators, to form a botnet. This network was used to send approximately 750,000 malicious emails over a two-week period. The incident highlighted the potential risks associated with unsecured IoT appliances and the ease with which they can be exploited for malicious purposes. https://www.mcafee.com/blogs/mobile-security/internet-of-things-cyberattack/
    - Research conducted by VTO Labs revealed that smart refrigerators could store extensive information about their owners. This data retention poses privacy risks, as unauthorized access to the appliance could lead to the exposure of sensitive personal information. The findings underscore the need for robust security measures to protect consumer data in IoT devices. https://www.technologyreview.com/2023/05/08/1072708/hack-smart-fridge-digital-forensics/
-
+- ### Security
+   - SSL Certificate Validation Issue: Samsung's RF28HMELBSR smart refrigerator was found to improperly validate SSL certificates, making it susceptible to man-in-the-middle attacks and exposing user credentials. ​https://blog.checkpoint.com/security/oems-have-flaws-too-exposing-two-new-lg-vulnerabilities/
+   - Regarding Beko smart refrigerators, there are no publicly documented CVEs specific to their models at this time. However, it's essential for consumers to remain vigilant and ensure all smart appliances are regularly updated to mitigate potential security risks.​
 
 ## Smart Ovens
 - Smart ovens integrate internet connectivity to offer features like remote monitoring and recipe downloads. However, these conveniences come with potential security risks that consumers should be aware of.
@@ -27,7 +29,8 @@
    - A vulnerability in LG smart home devices allowed hackers to remotely control ovens, posing serious safety hazards. Unauthorized users could turn ovens on or off, increasing the risk of fires or accidents, highlighting major security flaws in IoT appliances. https://www.securityweek.com/security-flaw-could-have-let-hackers-turn-smart-ovens/
    - AEG smart ovens were discovered to frequently ping various websites, even when not necessary, raising privacy concerns about potential data exposure. These constant network queries could make user data vulnerable to interception and cyberattacks, emphasizing risks related to unnecessary smart appliance communication.
  https://hackaday.com/2023/02/03/smart-ovens-are-doing-dumb-checks-for-internet-connectivity/
-
+- ### Security
+   - 
  
 ## Shared Concerns
 - Many IoT appliances have short update cycles, this leaves the devices vulnerable over time. Buyers should choose brands that commit to long-term security updates and avoid devices without clear patch policies. This is something that buyers should be aware of and companies should be committed to expressing for long-term and repeat consumers. 
