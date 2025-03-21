@@ -57,7 +57,7 @@
 - Ecobee thermostats require the Internet, they can operate in a failsafe mode only without it. 
 - ### Concerns  
 - EcoBee has [closed their public api](https://www.ecobee.com/en-us/developers/) to future development - need to look at the why.
-- EcoBee has integrations and provides [flexible load management](https://www.ecobee.com/en-us/utilities/) with select utility providers, providing usage statistics to the utilities and allowing the utility some control over your thermostat.  This also means you usage data is shared or sold as has been used in many [reports](https://www.sciencedirect.com/science/article/abs/pii/S0360132323006558)
+- EcoBee has integrations and provides [flexible load management data](https://www.ecobee.com/en-us/utilities/) with select utility providers, providing usage statistics to the utilities and allowing the utility some control over your thermostat.  This also means you usage data is shared or sold as has been used in many [reports](https://www.sciencedirect.com/science/article/abs/pii/S0360132323006558)
 - EcoBee has gradually removed more and more functionality from the thermostat, and placed it only within the app.
 - EcoBee partners only with Amazon Alexa, likely because of Google's competing Nest thermostat.  There is limited Google Home integration.  But this means your EcoBee thermostat is also an Alexa Speaker (covered in another category)
  - EcoBee thermostats work by proximity sensing.  They know if you are home or now.
