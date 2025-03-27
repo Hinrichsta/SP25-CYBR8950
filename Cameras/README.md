@@ -25,7 +25,7 @@ All of the security cameras that we look at have their own apps that are require
 ### Security 
 #### Disclosures
   - https://support.google.com/product-documentation/topic/12823571?hl=en&ref_topic=12974021&sjid=4997332173582231755-NC
-    - Google's cameras are a part of the Next ecosytem.  As such breaches of the entire ecosystem would constitute a breach of the cameras.  If the cameras would be the entire focus of the breach it is noted.
+    - Google's cameras are a part of the Nest ecosytem.  As such breaches of the entire ecosystem would constitute a breach of the cameras.  If the cameras would be the entire focus of the breach it is noted.
     - Not all of these breaches are necessarily Google Specific.  They are disclosing all vulnerabilities that they may affected by, and patching them.  Most appear to be 3rd party related disclosures.
     - Disclosures
       - August 2022 - Home/Cast
