@@ -1,5 +1,6 @@
 Home Automation Rubic
 - [Tuya](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/tuya.md)
+- [TGovee](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Govee.md)
 
 | Risk Category                  | Samsung Fridge | Beko Fridge | LG Oven | AEG Oven |
 |--------------------------------|----------------|-------------|---------|----------|
