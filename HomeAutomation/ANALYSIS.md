@@ -1,4 +1,4 @@
-Home Automation Rubic
+# Home Automation Rubic
 - [Tuya](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Tuya.md)
 - [Govee](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Govee.md)
 - [Utec](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Utec.md)
