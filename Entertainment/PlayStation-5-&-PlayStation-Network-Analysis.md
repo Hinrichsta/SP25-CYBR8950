@@ -54,11 +54,11 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection |  |  |
-| Requires Constant Connection to Company Cloud Infrastructure |  |  |
-| Data Storage Requirements |  |  |
-| Data Gathering Risk Score |  |  |
-| Company Vulnerability Remediation Score |  |  |
-| Company Vulnerability Transparency Score |  |  | 
+| Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Some features require connection to Sony’s cloud, but offline play is possible. |
+| Data Storage Requirements | Hybrid | Uses both local storage and cloud storage for different types of data. |
+| Data Gathering Risk Score | 2 | Collects significant user data, including purchases, interactions, and gameplay activity. |
+| Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
+| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
 
 ### Total Score: xx
