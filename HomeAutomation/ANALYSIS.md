@@ -2,7 +2,7 @@ Home Automation Rubic
 - [Tuya](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Tuya.md)
 - [Govee](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Govee.md)
 
-| Risk Category                  | Samsung Fridge | Beko Fridge | LG Oven | AEG Oven |
+| Risk Category                  | Tuya | Govee | Utec | AEG Oven |
 |--------------------------------|----------------|-------------|---------|----------|
 | Internet Required              | Yes            | Partial     | Yes     | Partial  |
 | Cloud Dependency               | Yes            | Partial     | Yes     | Partial  |
