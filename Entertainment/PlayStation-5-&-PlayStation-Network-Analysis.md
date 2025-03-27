@@ -61,4 +61,4 @@
 | Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
 | Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
 
-### Total Score: xx
+### Total Score: 9/15
