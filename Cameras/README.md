@@ -17,6 +17,7 @@ All of the security cameras that we look at have their own apps that are require
   - https://support.google.com/googlenest/answer/9242083
   - https://safety.google/nest/#cameras
   - [Nest Aware (Subscription for Data Storage)](https://store.google.com/product/nest_aware?hl=en-US)
+  - [Data Requirements](https://support.google.com/googlenest/answer/9245832?hl=en)
 - Case Studies
   - https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1464437&dswid=6664
   - https://www.tandfonline.com/doi/abs/10.1080/15295036.2022.2143838
