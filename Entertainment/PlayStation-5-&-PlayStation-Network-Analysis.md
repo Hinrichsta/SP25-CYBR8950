@@ -52,7 +52,7 @@
         - **2024 PlayStation WebKit vulnerability** – Affected both PlayStation 4 and 5, allowing potential code execution
 
 ## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
+| Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection |  |  |
 | Requires Constant Connection to Company Cloud Infrastructure |  |  |
