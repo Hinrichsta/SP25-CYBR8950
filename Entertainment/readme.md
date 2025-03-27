@@ -73,7 +73,7 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
      - read section 2.2.3 of this [document](https://dl.acm.org/doi/pdf/10.1145/3579856.3582834) 
 
 
-## [Amazon Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5) (smart speakers)
+## [Amazon Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5)
 - Amazon is one of the largest technology companies, and Alexa is a leading voice assistant platform, integrated into smart speakers, displays, and various IoT devices. This also means Amazon collects extensive user data to improve services and enable personalized experiences.
 - All data is stored on Amazon’s cloud infrastructure and processed within their Alexa ecosystem.
 - Amazon regularly releases updates to improve security, privacy controls, and functionality.
@@ -94,7 +94,7 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
   - [A Survey on Amazon Alexa Attack Surfaces](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9369553)
   - [Alexa Skills: Security Vulnerabilities and Countermeasures](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10066153)
 
-## [Vtech](https://www.vtechkids.com/) Toys (can't decide on which particular toy)
+## [Vtech](https://www.vtechkids.com/) Toys 
 - VTech is a major manufacturer of electronic learning toys, offering smart devices designed for children. Their products often include internet connectivity, cloud storage, and interactive features, which also means they collect and process user data.
 - All data is stored on VTech’s cloud platform "VTech Cloud" and linked to user accounts, primarily through services like Kid Connect.
 - VTech provides software updates to improve security and functionality.
