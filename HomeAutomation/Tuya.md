@@ -9,6 +9,7 @@
 - **Authentication**
     - SmartLife or Tuya Account
 - **Data Transmission Security**
+    -Bluetooth
     - HTTPS - SSL/TLS or plain text
 - **Physical Security**
     - Easy to disasmble and flash 3rd party firmware to.
