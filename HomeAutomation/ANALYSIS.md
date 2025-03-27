@@ -1,6 +1,9 @@
 Home Automation Rubic
 - [Tuya](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Tuya.md)
 - [Govee](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Govee.md)
+- [Utec](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Utec.md)
+- [Kidde](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Kidde.md)
+- [Ecobee](https://github.com/Hinrichsta/SP25-CYBR8950/blob/main/HomeAutomation/Ecobee.md)
 
 | Risk Category                  | Tuya | Govee | Utec | Kiddde | Ecobee |
 |--------------------------------|----------------|-------------|---------|----------|----------|
