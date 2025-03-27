@@ -37,3 +37,16 @@
 - Some smart fridges and ovens require constant cloud connectivity, like many IoT devices, and they could lose critical features or stop working if the manufacturer discontinues support. Buyers should check if essential functions work offline before purchasing, or companies should be required to express with a rating system or symbol of compliance with this requirement.
 - These appliances that collect and transmit user data, are sometimes communicating without encryption or user control opt-in. Buyers should seek out security certifications such as IASME IoT Security Assured and disable unnecessary cloud features to limit data exposure. Companies should also be required to allow users to opt-in to this type of data collection. 
 - Many users neglect to update firmware or change default passwords, making their devices easy targets for hackers. Buyers should regularly update their devices, change default credentials, and follow manufacturer security guidelines to protect their privacy and security. If companies and manufacturers are unable or unwilling to provide this documentation and instruction there should be a rating system similar to the FTC that makes consumers aware.
+
+
+| Risk Category                  | Samsung Fridge | Beko Fridge | LG Oven | AEG Oven |
+|--------------------------------|----------------|-------------|---------|----------|
+| Internet Required              | Yes            | Partial     | Yes     | Partial  |
+| Cloud Dependency               | Yes            | Partial     | Yes     | Partial  |
+| Data Storage Requirement       | Cloud          | Hybrid      | Cloud   | Hybrid   |
+| Data Gathering Risk (1–5)      | 4              | 2           | 3       | 3        |
+| Vulnerability History (1–5)    | 5              | 1           | 4       | 2        |
+| Patch Performance (1–5)        | 2              | 4           | 3       | 3        |
+| Transparency (1–5)             | 2              | 4           | 3       | 2        |
+| **Total Risk Score**           | **1**          | **11**      | **13**  | **10**   |
+
