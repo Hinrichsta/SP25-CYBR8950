@@ -44,9 +44,8 @@
 | Internet Required              | Yes            | Partial     | Yes     | Partial  |
 | Cloud Dependency               | Yes            | Partial     | Yes     | Partial  |
 | Data Storage Requirement       | Cloud          | Hybrid      | Cloud   | Hybrid   |
-| Data Gathering Risk (1–5)      | 4              | 2           | 3       | 3        |
-| Vulnerability History (1–5)    | 5              | 1           | 4       | 2        |
-| Patch Performance (1–5)        | 2              | 4           | 3       | 3        |
-| Transparency (1–5)             | 2              | 4           | 3       | 2        |
-| **Total Risk Score**           | **1**          | **11**      | **13**  | **10**   |
+| Data Gathering Risk (1–5)      | 2              | 4           | X       | X        |
+| Vulnerability History (1–5)    | 2              | 5           | X       | X        |
+| Transparency (1–5)             | 4              | 4           | X       | X        |
+| **Total Risk Score**           | **8**          | **13**      | **XX**  | **XX**   |
 
