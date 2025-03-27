@@ -1,0 +1,25 @@
+# Smart Fridge
+## Analysis
+- **Name**: 
+- **Manufacturer**: 
+- **Country of Origin**: 
+- **Platform**: 
+- **Internet Requirements**:
+    - 
+- **Authentication**
+    - 
+- **Data Transmission Security**
+    - 
+- **Physical Security**
+    - 
+- **Storage**
+    - 
+        - 
+- **Data Requirements**
+    - 
+- **Data Gathering**
+    -    
+- **Vulnerability Remediation**
+    - 
+- **Vulnerability Transparency**
+    - 
