@@ -1,4 +1,4 @@
-# Govee Sensors
+# Utec/UHome/ULTRALOQ Locks
 ## Analysis
 - **Name**: Govee, Govee Life
 - **Manufacturer**: Govee
