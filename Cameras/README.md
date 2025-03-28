@@ -7,3 +7,33 @@
 | Data Gathering Risk Score | 1 | Google is always gathering data, and notoriously gathers as much as possible.  They utilize video sent to their cloud to grow their services and to gather data on their users.  Once you are a part of the ecosystem everything you do with that account is tracked even beyond just the cameras |
 | Company Vulnerability Remediation Score | 3 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022 |
 | Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
+
+## [Wyze Cameras](Cameras\Wyze-Analysis.md)
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection |  |  |
+| Requires Constant Connection to Company Cloud Infrastructure |  |  |
+| Data Storage Requirements |  |  |
+| Data Gathering Risk Score |  |  |
+| Company Vulnerability Remediation Score |  |  |
+| Company Vulnerability Transparency Score |  |  | 
+
+## [Blink Cameras](Cameras\Blink-Analysis.md)
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection |  |  |
+| Requires Constant Connection to Company Cloud Infrastructure |  |  |
+| Data Storage Requirements |  |  |
+| Data Gathering Risk Score |  |  |
+| Company Vulnerability Remediation Score |  |  |
+| Company Vulnerability Transparency Score |  |  | 
+
+## [TP-Link Camera](Cameras\TP-Link-Analysis.md)
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection |  |  |
+| Requires Constant Connection to Company Cloud Infrastructure |  |  |
+| Data Storage Requirements |  |  |
+| Data Gathering Risk Score |  |  |
+| Company Vulnerability Remediation Score |  |  |
+| Company Vulnerability Transparency Score |  |  | 
