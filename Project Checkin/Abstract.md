@@ -9,7 +9,7 @@ To achieve this, we systematically analyze IoT security risks using documented v
 
 evaluate manufacturer transparency regarding security updates and consumer protection measures.
 
-findings emphasize the need for stronger consumer awareness and proactive security measures when selecting, configuring, and maintaining IoT devices. By offering a practical, security-oriented buying guide, we empower consumers to make informed decisions, mitigate cybersecurity risks, and encourage industry improvements in IoT security practices. This work contributes to broader efforts in enhancing smart home security and protecting user privacy in an increasingly connected world.
+findings emphasize the need for stronger consumer awareness and proactive security measures when selecting, configuring, and maintaining IoT devices. By offering a practical, security-oriented buying guide, we empower consumers to make informed decisions, mitigate cybersecurity risks, and encourage industry improvements in IoT security practices. This work contributes to broader efforts in enhancing smart home security and protecting user privacy
 
 
 ## abstract (so far)
