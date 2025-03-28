@@ -1,4 +1,4 @@
-# Govee Sensors
+# Kidde Alarms
 ## Analysis
 - **Name**: Govee, Govee Life
 - **Manufacturer**: Govee
