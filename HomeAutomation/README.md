@@ -1,4 +1,4 @@
-## [Tuya](HomeAutomation\Tuya.md)
+## [Tuya](HomeAutomation/Tuya.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | While there is local storage in cameras it cannot be accessed.  All video must be stored and accessed from the internet. |
