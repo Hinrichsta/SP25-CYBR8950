@@ -1,4 +1,4 @@
-# Govee Sensors
+# Govee Temperature and Other sensors (water, weather, etc.)
 ## Analysis
 - **Name**: Govee, Govee Life
 - **Manufacturer**: Govee
