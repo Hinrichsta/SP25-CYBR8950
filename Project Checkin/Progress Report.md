@@ -20,9 +20,9 @@ Data gathering on some of this can be sparse at best, and sometimes is non-exist
 ## Ongoing Risks
 |Risk name (value)  | Impact (1-5) | Likelihood (1-5) | Update |
 |-------------------|--------------|------------------|-------------|
-| Meeting Scheduling (9) | 3 | 3 | We have regularly scheduled meetings that have only been missed due to weather causing major outages |
-| Research and Data Collection (12)| 4 | 3 | Data gathering has not had any major issues, there has been some minor difficulties but nothing stopping progress |
+| Meeting Scheduling (9) | 3 | 3 | We have regularly scheduled meetings that have only been missed due to weather causing major outages. |
+| Research and Data Collection (12)| 4 | 3 | Data gathering has not had any major issues, there has been some minor difficulties but nothing stopping progress. |
 | Scope Creep (15) | 3 | 5 | We had to adjust our timeline to better fit what we wanted to do, but we are currently on track to complete in the time originally alotted. |
-| Communication (6) | 3 | 2 | Communication has not been an issue for this group overall.  We keep in regular communication through various means and do good to keep each other informed of our progress |
+| Communication (6) | 3 | 2 | Communication has not been an issue for this group overall.  We keep in regular communication through various means and do good to keep each other informed of our progress. |
 | Evolving Standards (12) | 4 | 3 | Standards stagnation has not been an issue, and the overall field has not had much change during this project. |
 
