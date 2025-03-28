@@ -1,4 +1,4 @@
-#### working thoughts
+### working thoughts
 
 Consumers increasingly adopt IoT devices for convenience and automation in their homes, yet many remain unaware of the security risks associated with always-online connectivity. Smart home devices such as cameras, appliances, home automation, and entertainment devices are particularly vulnerable due to weak security protocols, poor update policies, and unchanged default settings, exposing users to data breaches, unauthorized access, and cyber threats. 
 
