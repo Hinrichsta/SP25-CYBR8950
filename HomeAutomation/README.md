@@ -1,4 +1,4 @@
-## [Tuya](Tuya.md)
+## [Tuya/SmartLife switches and bulbs](Tuya.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | While there is local storage in cameras it cannot be accessed.  All video must be stored and accessed from the internet. |
@@ -38,7 +38,7 @@
 | Company Vulnerability Remediation Score |  |  |
 | Company Vulnerability Transparency Score |  |  | 
 
-## [Ecobee](Ecobee.md)
+## [Ecobee Thermostats](Ecobee.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection |  |  |
