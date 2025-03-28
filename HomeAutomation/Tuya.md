@@ -1,4 +1,4 @@
-# Tuya
+# Tuya/SmartLife switches and bulbs
 ## Analysis
 - **Name**: Govee, Govee Life
 - **Manufacturer**: Govee
