@@ -8,7 +8,7 @@
 | Company Vulnerability Remediation Score | 3 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022 |
 | Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
 
-## [Govee Temperature and Other sensors (water, weather, etc.)](HomeAutomation\Govee.md)
+## [Govee Temperature and Other sensors (water, weather, etc.)](Govee.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection |  |  |
@@ -18,7 +18,7 @@
 | Company Vulnerability Remediation Score |  |  |
 | Company Vulnerability Transparency Score |  |  | 
 
-## [Utec/UHome/ULTRALOQ Locks](HomeAutomation\Utec.md)
+## [Utec/UHome/ULTRALOQ Locks](Utec.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection |  |  |
@@ -28,7 +28,7 @@
 | Company Vulnerability Remediation Score |  |  |
 | Company Vulnerability Transparency Score |  |  | 
 
-## [Kidde Alarms](HomeAutomation\Kidde.md)
+## [Kidde Alarms](Kidde.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection |  |  |
@@ -38,7 +38,7 @@
 | Company Vulnerability Remediation Score |  |  |
 | Company Vulnerability Transparency Score |  |  | 
 
-## [Ecobee](HomeAutomation\Ecobee.md)
+## [Ecobee](Ecobee.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection |  |  |
