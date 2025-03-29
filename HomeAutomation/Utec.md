@@ -1,56 +1,42 @@
-# Utec/UHome/ULTRALOQ Locks
+# U-tec/UHome/ULTRALOQ Locks
 ## Analysis
-- **Name**: Govee, Govee Life
-- **Manufacturer**: Govee
-- **Country of Origin**: China
-- **Platform**: GoveeLife
+- **Name**: U-tec/UHome/ULTRALOQ
+- **Manufacturer**: Utec
+- **Country of Origin**: US
+- **Platform**: U-Tec
 - **Internet Requirements**:
-    - Requires internet connection to access all video
-    - Requires connectiontion to Google Cloud Services to access all videos
+    - Locks can operate in standalone mode, however the applicaiton requires Internet to set it up the first time.  
 - **Authentication**
-    - Nest account can require MFA, but doesn't by default
-    - There is family sharing, which anybody can be invited to view cameras
+   - Plain username and password.
+   - 4 digit PINs are used within the application for certain functions, however they are optional.  
 - **Data Transmission Security**
-    - Cameras can use WEP, WPA, WPA2, WPA3 encryption for Wireless
-    - Only communicates over Wireless
+    - Bluetooth only can be used in a failsafe mode and for intial configuration, but is always enabled as well.
+    - All devices either have built-ini WiFi, or use a Bluetooth to WiFi gateway and HTTPs to cloud services.  
 - **Physical Security**
-    - There is no physical port on them
-    - Wired cameras use a magnetic connector to power the camera
+    - Most devices have the option for a backup physical key.
 - **Storage**
-    - Data is stored in the cloud
-    - 3 tiers of data storage at a subscription price
-        - Free - 3 hours of video event storage
-        - Nest Aware - 30 days of video event storage
-        - Nest Aware + - 60 days of video event storage and 10 days of 24/7 video storage
-    - Most cameras have local storage
-        - Used for when network is lost
-        - Cannot be accessed
+    - Configuration data is stored in the cloud, such as lock users and password, as well as ACL's for those users.
+    - Biometrics are stored locally
+    - PINs are stored locally and in the cloud.
 - **Data Requirements**
-    - 1-4 Mbps to upload camera
+    - Low
 - **Data Gathering**
-  - Google is one of the largest internet companies out there and is notorious for gathering as much data on you as possible
-  - They utilize facial recognition within their camera system, and have location data if you are signed into their services
-  - Utilize Voice and Audio information as well as purchase information to serve targeted ads
-  - Expect everything that you do within this ecosystem to be monitored, analyzed and stored
+  - A log is kept of all lock activity in the cloud.
+  - Biometrics are stored in the device vs. cloud.
 - **Vulnerability Remediation**
-  - They appear to have some issues prior to 2022 with a major breach in 2019 that affected every Nest user
-    - They had purchased Nest origianlly in early 2014
-  - Since 2022 they have been patching vulnerabilities effectively and publically disclosing them
-  - There hasn't been a major breach since, but there have been isolated incidents where users report hearing voices coming from their cameras they don't recognize
-    - This could be attributed to misconfigured family sharing, or compromised accounts.
+  - U-Tec has addressed some, but not all common Bluetooth vulnerabilities via firmware updates.
 - **Vulnerability Transparency**
-  - Has a bug bounty program put out by the company where they regularly payout reports and and very transparent with the program
-  - Each major security vulnerability patch is clearly posted and documented for users to find.
-    - CVE reports are posted and addressed with clarity
+  - Previous but addressed [CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt) in Bluetooth personal area network (out of scope)
+  - [Additional information](https://threatpost.com/smart-lock-turns-out-to-be-not-so-smart-or-secure/146091/) on CVE's since the CVE are now gone.
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | While there is local storage in cameras it cannot be accessed.  All video must be stored and accessed from the internet. |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | The only location that you can access the videos is from the Google Nest/Home apps, and all video is constantly uploaded there for analysis for events. |
-| Data Storage Requirements | Cloud | Local storage is minimal, is used for when there is network or power loss, and cannot be accessed.  All video must be stored in the cloud to be usuable |
-| Data Gathering Risk Score | 1 | Google is always gathering data, and notoriously gathers as much as possible.  They utilize video sent to their cloud to grow their services and to gather data on their users.  Once you are a part of the ecosystem everything you do with that account is tracked even beyond just the cameras |
-| Company Vulnerability Remediation Score | 3 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022 |
-| Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
+| Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
+| Requires Constant Connection to Company Cloud Infrastructure | Sometimes | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort phyiscal key. |
+| Data Storage Requirements | Cloud | Critical data is stored in the cloud and on the device. |
+| Data Gathering Risk Score | 3 | Proximity data is optional.  Biometrics stored in the device vs. the Cloud was a wise choice. |
+| Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquieries. |
+| Company Vulnerability Transparency Score | 3 | All disclosed vulnerabilities have been common to Bluetooth vs. specific vulnerabilities in the device of their systems. | 
 
-### Total Score: 7
+### Total Score: 9
