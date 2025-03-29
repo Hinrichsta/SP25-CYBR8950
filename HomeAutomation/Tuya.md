@@ -17,7 +17,7 @@
 - **Storage**
     - These devices don't collect data per say, however useage information is collected in the cloud for energy use metrics.  
 - **Data Requirements**
-    - Very small non sensitive data. 
+    - Low, small non sensitive data. 
 - **Data Gathering**
   - All possible permissions are requested by the application regardless of need as the app can control many different devices.  
   - Overall usage infomration is collected, but only used if the end user wants to do enegy consumption metrics.  
