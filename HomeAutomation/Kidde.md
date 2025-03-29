@@ -13,8 +13,8 @@
 - **Physical Security**
     - There is no physical port.  
 - **Storage**
-    - Hisortical events are stored within the cloud.
-    - For advanced air quality sensors, it is not clear what data is stored since Kidde uses their own propietary air quality metric.
+    - Historical events are stored within the Cloud.
+    - For advanced air quality sensors, it is not clear what data is stored since Kidde uses their own proprietary air quality metric.
 - **Data Requirements**
     - Minimal
 - **Data Gathering**
