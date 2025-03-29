@@ -5,17 +5,16 @@
 - **Country of Origin**: US
 - **Platform**: U-Tec
 - **Internet Requirements**:
-    - Locks can operate in standalone mode, however the applicaiton requires Internet to set it up the first time.  
+    - Locks can operate in standalone mode, however the application requires Internet to set it up the first time.  
 - **Authentication**
    - Plain username and password.
    - 4 digit PINs are used within the application for certain functions, however they are optional.  
 - **Data Transmission Security**
-    - Bluetooth only can be used in a failsafe mode and for intial configuration, but is always enabled as well.
-    - All devices either have built-ini WiFi, or use a Bluetooth to WiFi gateway and HTTPs to cloud services.
+    - Bluetooth only can be used in a failsafe mode and for initial configuration, but is always enabled as well.
+    - All devices either have built-in WiFi, or use a Bluetooth to WiFi gateway and HTTPs to cloud services.
     - HTTPs.  
-    - Only communicates over Wireless 2.4ghz with standard WPA#.  
 - **Physical Security**
-    - Most devices have the option for a backup physical key.
+    - Most devices have the option for a backup physical key, local PIN Pad, or local biomtric.
 - **Storage**
     - Configuration data is stored in the cloud, such as lock users and password, as well as ACL's for those users.
     - Biometrics are stored locally
@@ -29,17 +28,17 @@
 - **Vulnerability Remediation**
   - U-Tec has addressed some, but not all common Bluetooth vulnerabilities via firmware updates.
 - **Vulnerability Transparency**
-  - Previous but addressed [CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt) in Bluetooth personal area network (out of scope)
+  - Previous, but addressed [CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt) in Bluetooth personal area network (out of scope)
   - [Additional information](https://threatpost.com/smart-lock-turns-out-to-be-not-so-smart-or-secure/146091/) on CVE's since the CVE are now gone.
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
-| Requires Constant Connection to Company Cloud Infrastructure | Sometimes | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort phyiscal key. |
+| Requires Constant Connection to Company Cloud Infrastructure | Sometimes | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort physical key. |
 | Data Storage Requirements | Cloud | Critical data is stored in the cloud and on the device. |
 | Data Gathering Risk Score | 3 | Proximity data is optional.  Biometrics stored in the device vs. the Cloud was a wise choice. |
-| Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquieries. |
+| Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquiries. |
 | Company Vulnerability Transparency Score | 3 | All disclosed vulnerabilities have been common to Bluetooth vs. specific vulnerabilities in the device of their systems. | 
 
 ### Total Score: 9
