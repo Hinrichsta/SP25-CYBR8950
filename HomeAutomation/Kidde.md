@@ -1,18 +1,16 @@
 # Kidde Alarms
 ## Analysis
-- **Name**: Govee, Govee Life
-- **Manufacturer**: Govee
-- **Country of Origin**: China
-- **Platform**: GoveeLife
+- **Name**: Kidde
+- **Manufacturer**: Carrier Global Corporation
+- **Country of Origin**: US/China
+- **Platform**: Kidde
 - **Internet Requirements**:
-    - Requires internet connection to access all video
-    - Requires connectiontion to Google Cloud Services to access all videos
+    - Required Internet connection for remote notifications
 - **Authentication**
-    - Nest account can require MFA, but doesn't by default
-    - There is family sharing, which anybody can be invited to view cameras
+    - Username and non-case sensitive password
 - **Data Transmission Security**
-    - Cameras can use WEP, WPA, WPA2, WPA3 encryption for Wireless
-    - Only communicates over Wireless
+    - HTTP or HTTPs, this depends on the model of device you have purchased as older devices are HTTP only and use HTTP only Tuya services.  
+    - Only communicates over Wireless 2.4ghz with standard WPA#. 
 - **Physical Security**
     - There is no physical port on them
     - Wired cameras use a magnetic connector to power the camera
