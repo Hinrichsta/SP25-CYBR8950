@@ -11,7 +11,9 @@
    - 4 digit PINs are used within the application for certain functions, however they are optional.  
 - **Data Transmission Security**
     - Bluetooth only can be used in a failsafe mode and for intial configuration, but is always enabled as well.
-    - All devices either have built-ini WiFi, or use a Bluetooth to WiFi gateway and HTTPs to cloud services.  
+    - All devices either have built-ini WiFi, or use a Bluetooth to WiFi gateway and HTTPs to cloud services.
+    - HTTPs.  
+    - Only communicates over Wireless 2.4ghz with standard WPA#.  
 - **Physical Security**
     - Most devices have the option for a backup physical key.
 - **Storage**
