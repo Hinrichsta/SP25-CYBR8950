@@ -17,7 +17,7 @@
 - **Storage**
   - Govee stores some data locally, and all data in the cloud, which is not disclosed clearly and was discovered via testings (delete the app and some data comes back).
 - **Data Requirements**
-    - Very small, generally non sensitive data.
+    - Low, generally non sensitive data.
     - But, Govee devices are [considered to be rather chatty](https://hal.science/hal-04936304/), despite not being ask to do anything which is concerning with HTTPs devices as it is not known what they are doing.  
 - **Data Gathering**
   - All possible permissions are requested by the application regardless of need as the app can control many different devices.  
