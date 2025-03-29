@@ -1,4 +1,4 @@
-## [Tuya/SmartLife switches and bulbs](Tuya.md)
+## [Tuya/SmartLife switches and bulbs](Tuya-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | There is no local communication option past setup.   |
@@ -8,7 +8,7 @@
 | Company Vulnerability Remediation Score | 1 | They seem to have remediated issues via new products vs. patching or updating firmware on existing products as evidence by the various backends. |
 | Company Vulnerability Transparency Score | 1 | Tuya has never disclosed vulnerabilities in products. | 
 
-## [Govee Temperature and Other sensors (water, weather, etc.)](Govee.md)
+## [Govee Temperature and Other sensors (water, weather, etc.)](Govee-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | No | While local connectivity is an option after intial setup, most users would not chose this option as it is not the default. |
@@ -18,7 +18,7 @@
 | Company Vulnerability Remediation Score | 1 | Like Tuya, Govee has not disclosed vulnerabilities of addressed them and instead focused on new products. |
 | Company Vulnerability Transparency Score | 1 | Govee has never disclosed vulnerabilities in products. | 
 
-## [U-tec/UHome/ULTRALOQ Locks](utec.md)
+## [U-tec/UHome/ULTRALOQ Locks](utec-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
@@ -28,7 +28,7 @@
 | Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquiries. |
 | Company Vulnerability Transparency Score | 3 | All disclosed vulnerabilities have been common to Bluetooth vs. specific vulnerabilities in the device of their systems. | 
 
-## [Kidde Alarms](Kidde.md)
+## [Kidde Alarms](Kidde-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | No | Can be setup with no connection at all, with limited functionality. |
@@ -38,7 +38,7 @@
 | Company Vulnerability Remediation Score | 4 | Kidde has addressed product issues, but not faced IoT issues yet. |
 | Company Vulnerability Transparency Score | 3 | Given they have addressed product safety issues they score well.  But this product has not been on the market long enough for full IoT analysis.  It is not likely to score well at a later time as Kidde did their own IoT backend rather than use a common platform. | 
 
-# [Ecobee Thermostats](Ecobee.md)
+# [Ecobee Thermostats](Ecobee-Analysis.md)
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
