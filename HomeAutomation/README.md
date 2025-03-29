@@ -39,7 +39,6 @@
 | Company Vulnerability Transparency Score | 3 | Given they have addressed product safety issues they score well.  But this product has not been on the market long enough for full IoT analysis.  It is not likely to score well at a later time as Kidde did their own IoT backend rather than use a common platform. | 
 
 ## [Ecobee Thermostats](Ecobee-Analysis.md)
-## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | No | Can function as a stand alone device |
