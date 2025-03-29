@@ -2,53 +2,37 @@
 ## Analysis
 - **Name**: Kidde
 - **Manufacturer**: Carrier Global Corporation
-- **Country of Origin**: US/China
+- **Country of Origin**: US/China (unclear)
 - **Platform**: Kidde
 - **Internet Requirements**:
     - Required Internet connection for remote notifications
 - **Authentication**
     - Username and non-case sensitive password
 - **Data Transmission Security**
-    - HTTP or HTTPs, this depends on the model of device you have purchased as older devices are HTTP only and use HTTP only Tuya services.  
-    - Only communicates over Wireless 2.4ghz with standard WPA#. 
+    - HTTPs WiFi (after initial Bluetooth setup)
 - **Physical Security**
-    - There is no physical port on them
-    - Wired cameras use a magnetic connector to power the camera
+    - There is no physical port.  
 - **Storage**
-    - Data is stored in the cloud
-    - 3 tiers of data storage at a subscription price
-        - Free - 3 hours of video event storage
-        - Nest Aware - 30 days of video event storage
-        - Nest Aware + - 60 days of video event storage and 10 days of 24/7 video storage
-    - Most cameras have local storage
-        - Used for when network is lost
-        - Cannot be accessed
+    - Hisortical events are stored within the cloud.
+    - For advanced air quality sensors, it is not clear what data is stored since Kidde uses their own propietary air quality metric.
 - **Data Requirements**
-    - 1-4 Mbps to upload camera
+    - Minimal
 - **Data Gathering**
-  - Google is one of the largest internet companies out there and is notorious for gathering as much data on you as possible
-  - They utilize facial recognition within their camera system, and have location data if you are signed into their services
-  - Utilize Voice and Audio information as well as purchase information to serve targeted ads
-  - Expect everything that you do within this ecosystem to be monitored, analyzed and stored
+  - Only the expected data appears to be gathered.
 - **Vulnerability Remediation**
-  - They appear to have some issues prior to 2022 with a major breach in 2019 that affected every Nest user
-    - They had purchased Nest origianlly in early 2014
-  - Since 2022 they have been patching vulnerabilities effectively and publically disclosing them
-  - There hasn't been a major breach since, but there have been isolated incidents where users report hearing voices coming from their cameras they don't recognize
-    - This could be attributed to misconfigured family sharing, or compromised accounts.
+  - All reported vulnerabilities were related to the device itself and its core functionality vs. it IoT services.
 - **Vulnerability Transparency**
-  - Has a bug bounty program put out by the company where they regularly payout reports and and very transparent with the program
-  - Each major security vulnerability patch is clearly posted and documented for users to find.
-    - CVE reports are posted and addressed with clarity
+  - The initial products were subject to false alarms and [recalled](https://www.kidde.com/home-safety/en/us/support/product-alerts/recall-kidde-trusense/), not because of their IoT alarms but basic traditional alarm functionality.
+  - Kidde alarms have been the subject of my personal research (Josh) because if the lack of public information I can find on them, and the issues I have had with them.
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | While there is local storage in cameras it cannot be accessed.  All video must be stored and accessed from the internet. |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | The only location that you can access the videos is from the Google Nest/Home apps, and all video is constantly uploaded there for analysis for events. |
-| Data Storage Requirements | Cloud | Local storage is minimal, is used for when there is network or power loss, and cannot be accessed.  All video must be stored in the cloud to be usuable |
-| Data Gathering Risk Score | 1 | Google is always gathering data, and notoriously gathers as much as possible.  They utilize video sent to their cloud to grow their services and to gather data on their users.  Once you are a part of the ecosystem everything you do with that account is tracked even beyond just the cameras |
-| Company Vulnerability Remediation Score | 3 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022 |
-| Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
+| Requires Constant Internet Connection | No | Can be setup with no connection at all, with limited functionality. |
+| Requires Constant Connection to Company Cloud Infrastructure | No | The device can function as a traditional and inter-connected alarm via standard 3 wire systems (interconnect).
+| Data Storage Requirements | Cloud | Event data is stored in the Cloud, as well as air quality monitoring data. |
+| Data Gathering Risk Score | 4 | Only the required data is collected. |
+| Company Vulnerability Remediation Score | 4 | Kidde has addressed product issues, but not faced IoT issues yet. |
+| Company Vulnerability Transparency Score | 3 | Given they have addressed product safety issues they score well.  But this product has not been on the market long enough for full IoT analysis.  It is not likely to score well at a later time as Kidde did their own IoT backend rather than use a common platform. | 
 
-### Total Score: 7
+### Total Score: 11
