@@ -11,7 +11,6 @@
     - Plain username and password.  
 - **Data Transmission Security**
     - HTTP or HTTPs, this depends on the model of device you have purchased as older devices are HTTP only and use HTTP only Tuya services.  
-    - Only communicates over Wireless 2.4ghz with standard WPA#.  
 - **Physical Security**
     - These devices can usually be flashed with third party firmware.
     - But no physical connection (port) other than the AC electrical connection.
