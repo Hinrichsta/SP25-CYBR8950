@@ -15,7 +15,7 @@
 - **Physical Security**
     - There is no physical port on them
 - **Storage**
- - Govee stores some data locally, and all data in the cloud, which is not disclosed clearly and was discovered via testings (delete the app and some data comes back).
+  - Govee stores some data locally, and all data in the cloud, which is not disclosed clearly and was discovered via testings (delete the app and some data comes back).
 - **Data Requirements**
     - Very small, generally non sensitive data.
     - But, Govee devices are [considered to be rather chatty](https://hal.science/hal-04936304/), despite not being ask to do anything which is concerning with HTTPs devices as it is not known what they are doing.  
