@@ -18,7 +18,7 @@
 | Company Vulnerability Remediation Score | 1 | Like Tuya, Govee has not disclosed vulnerabilities of addressed them and instead focused on new products. |
 | Company Vulnerability Transparency Score | 1 | Govee has never disclosed vulnerabilities in products. | 
 
-## [U-tec/UHome/ULTRALOQ Locks](utec-Analysis.md)
+## [U-tec/UHome/ULTRALOQ Locks](Utec-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
