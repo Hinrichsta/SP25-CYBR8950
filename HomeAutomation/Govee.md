@@ -13,7 +13,7 @@
     - For Internet, all communication is HTTPs via an open API (with limited documentation) for most new devices
     - But older Govee devices [do not use encryption](https://community.home-assistant.io/t/security-concerns-with-govee-devices-seeking-solutions-and-alternatives-h5072-h5075/683314/2), and instead Govee has implemented a device safety feature.  This features, which is not enabled by default means that once a Govee device has connected to one installation of the app, it can only connect to that copy of the running app.  This prevents other control devices on your network from connecting to it, but does not prevent network sniffing of the plain text data.  This is a strange work-around for not using encryption - likely related to the low compute power of the sensors and gateway.  The Govee API gateway however does require SSL.
 - **Physical Security**
-    - There is no physical port on them
+    - There is no physical port.  
 - **Storage**
   - Govee stores some data locally, and all data in the cloud, which is not disclosed clearly and was discovered via testings (delete the app and some data comes back).
 - **Data Requirements**
