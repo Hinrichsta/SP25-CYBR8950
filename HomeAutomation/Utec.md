@@ -21,10 +21,11 @@
     - Biometrics are stored locally
     - PINs are stored locally and in the cloud.
 - **Data Requirements**
-    - Low
+    - Low, but sensitive data; (PINs), ACLs, access logs.
 - **Data Gathering**
   - A log is kept of all lock activity in the cloud.
   - Biometrics are stored in the device vs. cloud.
+  - Location is required for optional proximity.
 - **Vulnerability Remediation**
   - U-Tec has addressed some, but not all common Bluetooth vulnerabilities via firmware updates.
 - **Vulnerability Transparency**
