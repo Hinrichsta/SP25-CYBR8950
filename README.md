@@ -20,7 +20,7 @@ Consumers continually purchase IoT devices for relatives and themselves without 
 ### [Home Automation](HomeAutomation/README.md)
 
 ## Analysis Workflow
-![Diagram](https://raw.githubusercontent.com/Hinrichsta/SP25-CYBR8950/refs/heads/main/supportingdocs/IoT_Security_Evaluation-Buying_Guide_Process_Diagram.png)
+![Process Flow Diagram](supportingdocs/IoT_Security_Evaluation-Buying_Guide_Process_Diagram.png)
 
 ## [Timeline](<Project Proposal\Timeline.md>)
 | Phase  |  Task Name  |  Start Date  |  End Date  |  Milestone | Status |
