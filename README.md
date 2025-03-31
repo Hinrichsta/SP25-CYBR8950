@@ -14,10 +14,10 @@ Consumers continually purchase IoT devices for relatives and themselves without 
 - Thursdays: 6:30 -7:30
 
 # Device Analysis by Category
-### [Appliances](Appliances\README.md)
-### [Cameras](Cameras\README.md)
-### [Entertainment](Entertainment\readme.md)
-### [Home Automation](HomeAutomation\README.md)
+### [Appliances](Appliances/README.md)
+### [Cameras](Cameras/README.md)
+### [Entertainment](Entertainment/readme.md)
+### [Home Automation](HomeAutomation/README.md)
 
 ## Analysis Workflow
 ![Diagram](supportingdocs\IoT_Security_Evaluation-Buying_Guide_Process_Diagram.png)
