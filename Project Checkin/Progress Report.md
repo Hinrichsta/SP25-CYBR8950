@@ -28,3 +28,5 @@ Data gathering on some of this can be sparse at best, and sometimes is non-exist
 | Communication (6) | 3 | 2 | Communication has not been an issue for this group overall.  We keep in regular communication through various means and do good to keep each other informed of our progress. |
 | Evolving Standards (12) | 4 | 3 | Standards stagnation has not been an issue, and the overall field has not had much change during this project. |
 
+## Process Flow Diagram
+![Process Flow Diagram](supportingdocs/IoT_Security_Evaluation-Buying_Guide_Process_Diagram.png)
