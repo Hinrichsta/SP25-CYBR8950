@@ -34,7 +34,7 @@ Consumers continually purchase IoT devices for relatives and themselves without 
 | Week 7-8 |  Review and Refine Security Guidelines |  Day 30 |  Day 40  | Final Recommendations | Not Started |
 | Week 8-10 |   Finalize Documentation & Publish on GitHub |  Day 35 |  Day 50  | Project Completion | Not Started |
 
-## [Risks](Project Proposal\Risks.md)
+## [Risks](<Project Proposal\Risks.md>)
 |Risk name (value)  | Impact (1-5) | Likelihood (1-5) | Description |
 |-------------------|--------------|------------------|-------------|
 | Meeting Scheduling (9) | 3 | 3 | The group is spread out accross the different timezones, scheduling our meetings where everyone can reasonably attend may have some issues. |
