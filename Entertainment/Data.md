@@ -23,31 +23,30 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
 
 ### Security
 #### Disclosures
+   - April 2011 – PlayStation Network Data Breach
+      - One of the largest data breaches in gaming history, exposing 77 million accounts. The breach resulted in PSN being taken offline for nearly a month.
+   - November 2022 – PlayStation 5 Kernel Exploit (CVE-2022-3349)
+      - A kernel vulnerability allowing unauthorized code execution was disclosed by a security researcher. Sony issued a patch shortly after.
+   - September 2023 – PlayStation Network API Exposure
+      - A researcher identified a flaw that could allow unauthorized access to certain PSN account details, later patched by Sony.
+   - December 2023 – PlayStation 5 Firmware Exploit (CVE-2022-33917)
+      - Security researchers discovered a new exploit in the firmware allowing privilege escalation, leading to homebrew execution. Sony released a security update.
+   - March 2024 – PlayStation Network Phishing Campaign
+      - Users reported a widespread phishing campaign targeting PSN accounts, attempting to steal credentials and payment information. Sony advised users to enable 2FA and be cautious of phishing attempts.
+#### Breaches
+   - 2011 – PlayStation Network Data Breach
+      - One of the largest gaming-related breaches, affecting 77 million users. Data including names, addresses, email accounts, and credit card details were compromised.
+   - 2014 – Sony Pictures Hack
+      - While not directly related to PlayStation, this attack by a hacker group resulted in the leak of sensitive Sony corporate data, emails, and unreleased films.
+   - 2023 – Sony Alleged Ransomware Attack
+      - Reports surfaced of a ransomware group claiming to have breached Sony and exfiltrated a significant amount of data. Sony did not confirm the full extent of the breach.
+      - Notes
+         - Sony maintains a Bug Bounty / HackerOne program for both playstation and related services
+         - Users are strongly advised to enable two-factor authentication (2FA) on their PlayStation accounts.
+         - Sony does not always publicly disclose all security vulnerabilities, but they consistently release patches and firmware updates.
   - SECURE@SONY
     - https://hackerone.com/sony
     - https://hackerone.com/playstation
-    - Disclosures
-      - April 2011 – PlayStation Network Data Breach
-        - One of the largest data breaches in gaming history, exposing 77 million accounts. The breach resulted in PSN being taken offline for nearly a month.
-      - November 2022 – PlayStation 5 Kernel Exploit (CVE-2022-3349)
-        - A kernel vulnerability allowing unauthorized code execution was disclosed by a security researcher. Sony issued a patch shortly after.
-      - September 2023 – PlayStation Network API Exposure
-        - A researcher identified a flaw that could allow unauthorized access to certain PSN account details, later patched by Sony.
-      - December 2023 – PlayStation 5 Firmware Exploit (CVE-2022-33917)
-        - Security researchers discovered a new exploit in the firmware allowing privilege escalation, leading to homebrew execution. Sony released a security update.
-      - March 2024 – PlayStation Network Phishing Campaign
-        - Users reported a widespread phishing campaign targeting PSN accounts, attempting to steal credentials and payment information. Sony advised users to enable 2FA and be cautious of phishing attempts.
-    - Breaches
-      - 2011 – PlayStation Network Data Breach
-        - One of the largest gaming-related breaches, affecting 77 million users. Data including names, addresses, email accounts, and credit card details were compromised.
-      - 2014 – Sony Pictures Hack
-        - While not directly related to PlayStation, this attack by a hacker group resulted in the leak of sensitive Sony corporate data, emails, and unreleased films.
-      - 2023 – Sony Alleged Ransomware Attack
-        - Reports surfaced of a ransomware group claiming to have breached Sony and exfiltrated a significant amount of data. Sony did not confirm the full extent of the breach.
-    - Notes
-      - Sony maintains a Bug Bounty / HackerOne program for both playstation and related services
-      - Users are strongly advised to enable two-factor authentication (2FA) on their PlayStation accounts.
-      - Sony does not always publicly disclose all security vulnerabilities, but they consistently release patches and firmware updates.
 
 ## [Roku](https://www.roku.com/what-is-roku) Television
 - Roku is a leading brand in smart TVs and streaming devices, offering access to thousands of apps and channels. Their platform integrates online services, including content recommendations, ads, and data collection.
@@ -74,7 +73,6 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
 
 ### Security
 #### Disclosures
-
 
 
 ## [Amazon Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5)
