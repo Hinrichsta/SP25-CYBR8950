@@ -94,6 +94,7 @@ All of the security cameras that we look at have their own apps that are require
   - No statement on when it was established, or its metrics
   - No outstanding changes since its setup in 2023
   - Have made payouts in the last 3 months
+- [MFA](https://support.wyze.com/hc/en-us/articles/8559141097755-2FA-Updates-and-FAQs)
 
 
 
