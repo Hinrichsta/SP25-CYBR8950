@@ -12,6 +12,7 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
    - Sony collects a significant amount of user data, including gameplay activity, purchases, and interactions on PSN.
    - A PlayStation account and internet connection are required for many features, including online multiplayer and cloud saves.
    - Sony has faced past security breaches, including major incidents affecting PSN.
+
 ### Documentation
 - Manufacturer Information
   - https://www.playstation.com/en-us/privacy-security-safety/
@@ -22,6 +23,7 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
   - [A cloud you can trust](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/6085778)
 
 ### Security
+
 #### Disclosures
    - April 2011 – PlayStation Network Data Breach
       - One of the largest data breaches in gaming history, exposing 77 million accounts. The breach resulted in PSN being taken offline for nearly a month.
@@ -33,6 +35,7 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
       - Security researchers discovered a new exploit in the firmware allowing privilege escalation, leading to homebrew execution. Sony released a security update.
    - March 2024 – PlayStation Network Phishing Campaign
       - Users reported a widespread phishing campaign targeting PSN accounts, attempting to steal credentials and payment information. Sony advised users to enable 2FA and be cautious of phishing attempts.
+
 #### Breaches
    - 2011 – PlayStation Network Data Breach
       - One of the largest gaming-related breaches, affecting 77 million users. Data including names, addresses, email accounts, and credit card details were compromised.
@@ -57,6 +60,7 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
    - Consumer Reports found that some Roku TVs were susceptible to remote access exploits, allowing attackers to control TVs over the network. Roku addressed the issue with a security update. [(CVE-2018-11314)](https://www.cvedetails.com/cve/CVE-2018-11314/)
    - Roku has been criticized for sharing user data with third-party advertisers. In 2023, a lawsuit alleged that Roku failed to properly protect user data, leading to privacy concerns about data sales and tracking.
    - A Roku account and an internet connection are required for full functionality, including access to streaming services and software updates.
+
 ### Documentation
 - Manufacturer Information
   - https://docs.roku.com/published/userprivacypolicy
@@ -72,6 +76,7 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
      - read section 2.2.3 of this [document](https://dl.acm.org/doi/pdf/10.1145/3579856.3582834) 
 
 ### Security
+
 #### Disclosures
    - 2018 – Roku Remote Control API Exploit [(CVE-2018-11314)](https://www.cvedetails.com/cve/CVE-2018-11314/)
       - Certain Roku TVs were vulnerable to unauthenticated remote control over the local network, allowing attackers to spoof input using open APIs. Roku addressed the issue with a firmware update.
@@ -84,6 +89,7 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
    - January & March 2024 – Roku Credential Stuffing Incidents
       - Attackers used leaked credentials from other breaches to access Roku accounts and make unauthorized purchases. Roku reset passwords and enforced two-factor authentication (2FA) on affected accounts.
          - *No CVE – based on reused credentials rather than a system vulnerability.*
+
 #### Breaches
    - 2024 – [Credential Stuffing Breaches](https://www.intego.com/mac-security-blog/roku-leaks-576000-accounts-its-second-data-breach-of-2024/)
       - Two separate waves of attacks affected over half a million Roku accounts, exploiting reused login credentials from unrelated data breaches. Some accounts were used to purchase streaming subscriptions and devices.
@@ -98,6 +104,7 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
    - Amazon collects significant user data, including voice recordings, smart home interactions, and usage patterns.
    - Alexa devices require an Amazon account and an internet connection for full functionality.
    - Past privacy concerns include reports of human reviewers analyzing voice recordings and security flaws exposing user data.
+
 ### Documentation
 - Manufacturer Information
   - [Alexa+ Trust & Privacy](https://www.amazon.com/b?node=203453976011&ref=dp_btf_xaa_spp_d_p5)
@@ -112,8 +119,22 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
   - [Alexa Skills: Security Vulnerabilities and Countermeasures](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10066153)
 
 ### Security
+
 #### Disclosures
-  - 
+   - May 2023 - Near-Ultrasound Command Injection [(CVE-2023-33248)](https://nvd.nist.gov/vuln/detail/CVE-2023-33248)
+      - Certain Echo Dot 2nd and 3rd generation devices running software version 8960323972 were susceptible to inaudible voice commands transmitted at frequencies between 16–22 kHz. This "near-ultrasound" attack could allow unauthorized command execution without user awareness.​ 
+   - 2022 - Alexa vs. Alexa” (AvA) Attack [(CVE-2022-25809)](https://cyber.vumetric.com/vulns/CVE-2022-25809/unspecified-vulnerability-in-amazon-echo-dot-firmware/)
+      - An improper neutralization vulnerability in 3rd and 4th generation Echo Dot devices allowed attackers to execute arbitrary voice commands via malicious Alexa skills or paired Bluetooth devices.​ This could allow for unintended actions via self-triggered commands.
+   - April 2020 - Echo Show Remote Code Execution [(ZDI-20-537)](https://www.zerodayinitiative.com/advisories/ZDI-20-537/)
+      - A vulnerability in the Echo Show's handling of arrays could lead to an integer overflow, allowing remote attackers to execute arbitrary code if a user visited a malicious page or opened a malicious file.​
+   - June 2018 - Alexa Skill Eavesdropping [(CVE-2018-11567)](https://nvd.nist.gov/vuln/detail/CVE-2018-11567)
+      - Prior to April 27, 2018, a flaw in the reprompt feature of Amazon Echo devices could be exploited by malicious Alexa skills to eavesdrop on users, capturing speech not intended for Alexa.
+   - October 2017 - KRACK Attack [(CVE-2017-13077)](https://www.cvedetails.com/cve/CVE-2017-13077/) & [(CVE-2017-13078)](https://www.cvedetails.com/cve/CVE-2017-13078/)
+      - First-generation Echo and 8th-generation Kindle devices were vulnerable to KRACK attacks, allowing attackers to decrypt WPA2-encrypted traffic and potentially intercept sensitive information.
+    
+#### Breaches
+   - August 2020 - [Alexa Web Services Exploitation](https://research.checkpoint.com/2020/amazons-alexa-hacked/)
+      - Security researchers discovered vulnerabilities in Alexa's web services that could allow attackers to access users' voice history and personal data by tricking them into clicking malicious links. [Another Article](https://www.wired.com/story/amazon-alexa-bug-exposed-voice-history-hackers/)
 
 ## [Vtech](https://www.vtechkids.com/) Toys 
 - VTech is a major manufacturer of electronic learning toys, offering smart devices designed for children. Their products often include internet connectivity, cloud storage, and interactive features, which also means they collect and process user data.
