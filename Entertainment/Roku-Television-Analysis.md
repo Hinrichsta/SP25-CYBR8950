@@ -1,4 +1,4 @@
-# Roku
+# Roku Television
 ## Analysis  
 - **Name**: Roku Television & Roku Platform
 - **Manufacturer**: Roku, Inc.
