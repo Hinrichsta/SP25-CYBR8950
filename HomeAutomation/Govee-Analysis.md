@@ -37,3 +37,6 @@
 | Company Vulnerability Transparency Score | 1 | Govee has never disclosed vulnerabilities in products. | 
 
 ### Total Score: 6
+
+
+Note:  There are several Govee names, and some Govee devices (bulbs, small appliances, etc. are actually Tuya/SmartLife).
