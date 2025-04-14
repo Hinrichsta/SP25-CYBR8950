@@ -72,6 +72,10 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
 violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
      - read section 2.2.3 of this [document](https://dl.acm.org/doi/pdf/10.1145/3579856.3582834) 
 
+### Security
+#### Disclosures
+
+
 
 ## [Amazon Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5)
 - Amazon is one of the largest technology companies, and Alexa is a leading voice assistant platform, integrated into smart speakers, displays, and various IoT devices. This also means Amazon collects extensive user data to improve services and enable personalized experiences.
