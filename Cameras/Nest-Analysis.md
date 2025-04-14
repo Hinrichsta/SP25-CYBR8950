@@ -6,7 +6,7 @@
 - **Platform**: Google Home
 - **Internet Requirements**:
     - Requires internet connection to access all video
-    - Requires connectiontion to Google Cloud Services to access all videos
+    - Requires connection to Google Cloud Services to access all videos
 - **Authentication**
     - Nest account can require MFA, but doesn't by default
     - There is family sharing, which anybody can be invited to view cameras
@@ -26,7 +26,7 @@
         - Used for when network is lost
         - Cannot be accessed
 - **Data Requirements**
-    - 1-4 Mbps to upload camera
+    - 1-4 Mbps/camera
 - **Data Gathering**
   - Google is one of the largest internet companies out there and is notorious for gathering as much data on you as possible
   - They utilize facial recognition within their camera system, and have location data if you are signed into their services
