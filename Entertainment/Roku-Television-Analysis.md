@@ -53,7 +53,7 @@
         - **2023 – Roku Indoor Camera SE**
            - (CVE-2023-6322) – Buffer overflow in message parsing
            - (CVE-2023-6324) – DTLS hash-based hijack enabling command access
-        - ** 2024 - Credential Stuffing Incidents - Over 500,000 Roku accounts compromised due to reused passwords from unrelated breaches. Roku enforced 2FA and reset passwords.
+        - **2024 - Credential Stuffing Incidents** - Over 500,000 Roku accounts compromised due to reused passwords from unrelated breaches. Roku enforced 2FA and reset passwords.
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
