@@ -25,11 +25,11 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
 #### Disclosures
    - April 2011 – PlayStation Network Data Breach
       - One of the largest data breaches in gaming history, exposing 77 million accounts. The breach resulted in PSN being taken offline for nearly a month.
-   - November 2022 – PlayStation 5 Kernel Exploit (CVE-2022-3349)
+   - November 2022 – PlayStation 5 Kernel Exploit [(CVE-2022-3349)](https://www.cvedetails.com/cve/CVE-2022-3349/)
       - A kernel vulnerability allowing unauthorized code execution was disclosed by a security researcher. Sony issued a patch shortly after.
    - September 2023 – PlayStation Network API Exposure
       - A researcher identified a flaw that could allow unauthorized access to certain PSN account details, later patched by Sony.
-   - December 2023 – PlayStation 5 Firmware Exploit (CVE-2022-33917)
+   - December 2023 – PlayStation 5 Firmware Exploit 
       - Security researchers discovered a new exploit in the firmware allowing privilege escalation, leading to homebrew execution. Sony released a security update.
    - March 2024 – PlayStation Network Phishing Campaign
       - Users reported a widespread phishing campaign targeting PSN accounts, attempting to steal credentials and payment information. Sony advised users to enable 2FA and be cautious of phishing attempts.
@@ -54,7 +54,7 @@ IoT has become a key part of entertainment, with gaming consoles like PlayStatio
 - They regularly release software updates for security and performance improvements.
 - ### Concerns
    - Roku collects significant user data, including viewing habits, app usage, device information, and advertising interactions. This data is used for targeted ads and content recommendations.
-   - Consumer Reports found that some Roku TVs were susceptible to remote access exploits, allowing attackers to control TVs over the network. Roku addressed the issue with a security update. [(2018 CVE Vulnerability Details)](https://www.cvedetails.com/cve/CVE-2018-11314/)
+   - Consumer Reports found that some Roku TVs were susceptible to remote access exploits, allowing attackers to control TVs over the network. Roku addressed the issue with a security update. [(CVE-2018-11314)](https://www.cvedetails.com/cve/CVE-2018-11314/)
    - Roku has been criticized for sharing user data with third-party advertisers. In 2023, a lawsuit alleged that Roku failed to properly protect user data, leading to privacy concerns about data sales and tracking.
    - A Roku account and an internet connection are required for full functionality, including access to streaming services and software updates.
 ### Documentation
@@ -73,7 +73,22 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
 
 ### Security
 #### Disclosures
-
+   - 2018 – Roku Remote Control API Exploit [(CVE-2018-11314)](https://www.cvedetails.com/cve/CVE-2018-11314/)
+      - Certain Roku TVs were vulnerable to unauthenticated remote control over the local network, allowing attackers to spoof input using open APIs. Roku addressed the issue with a firmware update.
+   - 2022 – Realtek SDK File Modification Vulnerability [(CVE-2022-27152)](https://nvd.nist.gov/vuln/detail/CVE-2022-27152)
+      - A vulnerability in Roku devices using Realtek chipsets could allow attackers to modify arbitrary files via insecure SDK behavior. Patched in newer firmware releases.
+   - November 2023 – Roku Indoor Camera SE Vulnerabilities
+      - Security researchers disclosed two critical vulnerabilities in the Roku Indoor Camera SE firmware. These flaws allowed privilege escalation and arbitrary code execution.
+         - [(CVE-2023-6322)](https://nvd.nist.gov/vuln/detail/CVE-2023-6322) – Buffer overflow vulnerability in message parsing
+         - [(CVE-2023-6324)](https://nvd.nist.gov/vuln/detail/CVE-2023-6324) – DTLS hash-based hijack allowing command access
+   - January & March 2024 – Roku Credential Stuffing Incidents
+      - Attackers used leaked credentials from other breaches to access Roku accounts and make unauthorized purchases. Roku reset passwords and enforced two-factor authentication (2FA) on affected accounts.
+         - *No CVE – based on reused credentials rather than a system vulnerability.*
+#### Breaches
+   - 2024 – [Credential Stuffing Breaches](https://www.intego.com/mac-security-blog/roku-leaks-576000-accounts-its-second-data-breach-of-2024/)
+      - Two separate waves of attacks affected over half a million Roku accounts, exploiting reused login credentials from unrelated data breaches. Some accounts were used to purchase streaming subscriptions and devices.
+#### Special Interest
+   - In 2023, Roku faced increased legal scrutiny over its data practices. Notably, the company updated its [Terms of Service](https://www.lifewire.com/roku-tos-update-8606211) to include clauses that make it challenging for users to initiate lawsuits or participate in class-action suits. 
 
 ## [Amazon Alexa](https://www.amazon.com/Meet-the-new-Alexa/dp/B0DCCNHWV5)
 - Amazon is one of the largest technology companies, and Alexa is a leading voice assistant platform, integrated into smart speakers, displays, and various IoT devices. This also means Amazon collects extensive user data to improve services and enable personalized experiences.
@@ -95,6 +110,10 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
   - [Alexa, is the skill always safe? Uncover Lenient Skill Vetting Process and Protect User Privacy at Run Time](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10554785)
   - [A Survey on Amazon Alexa Attack Surfaces](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/9369553)
   - [Alexa Skills: Security Vulnerabilities and Countermeasures](https://ieeexplore-ieee-org.leo.lib.unomaha.edu/document/10066153)
+
+### Security
+#### Disclosures
+  - 
 
 ## [Vtech](https://www.vtechkids.com/) Toys 
 - VTech is a major manufacturer of electronic learning toys, offering smart devices designed for children. Their products often include internet connectivity, cloud storage, and interactive features, which also means they collect and process user data.
