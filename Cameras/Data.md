@@ -16,6 +16,7 @@ All of the security cameras that we look at have their own apps that are require
   - https://support.google.com/googlenest/answer/9681538/#3-hour-ebr
   - https://support.google.com/googlenest/answer/9242083
   - https://safety.google/nest/#cameras
+  - https://support.google.com/googlenest/answer/9259110?hl=en#zippy=%2Cnest-cam-outdoor-or-indoor-battery
   - [Nest Aware (Subscription for Data Storage)](https://store.google.com/product/nest_aware?hl=en-US)
   - [Data Requirements](https://support.google.com/googlenest/answer/9245832?hl=en)
 - Case Studies

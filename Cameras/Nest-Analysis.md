@@ -5,43 +5,51 @@
 - **Country of Origin**: US Owned Company | Manufactured in Taiwan and Malaysia
 - **Platform**: Google Home
 - **Internet Requirements**:
-    - Requires internet connection to access all video
-    - Requires connection to Google Cloud Services to access all videos
+    - Requires internet connection to access all video[^1].
+    - Requires connection to Google Cloud Services to access all videos[^1].  
+[^1]: [Nest Camera Video Storage](https://support.google.com/googlenest/answer/9242083)
 - **Authentication**
-    - Nest account can require MFA, but doesn't by default
-    - There is family sharing, which anybody can be invited to view cameras
+    - Nest account can require MFA, but doesn't by default.
+    - There is family sharing, which anybody can be invited to view cameras.
 - **Data Transmission Security**
-    - Cameras can use WEP, WPA, WPA2, WPA3 encryption for Wireless
-    - Only communicates over Wireless
+    - Cameras can use WEP, WPA, WPA2, WPA3 encryption for Wireless[^2].
+    - Only communicates over Wireless[^2].
 - **Physical Security**
-    - There is no physical port on them
-    - Wired cameras use a magnetic connector to power the camera
+    - There is no physical port on the Main Outdoor/Indoor Camera Line.
+      - Cameras use a magnetic connector to power the camera[^2].  
+[^2]: [Camera Technical Specifications](https://support.google.com/googlenest/answer/9259110?hl=en#zippy=%2Cnest-cam-outdoor-or-indoor-battery)
 - **Storage**
-    - Data is stored in the cloud
-    - 3 tiers of data storage at a subscription price
-        - Free - 3 hours of video event storage
-        - Nest Aware - 30 days of video event storage
-        - Nest Aware + - 60 days of video event storage and 10 days of 24/7 video storage
-    - Most cameras have local storage
-        - Used for when network is lost
-        - Cannot be accessed
+    - Data is stored in the cloud[^1].
+    - 3 tiers of data storage at a subscription price[^3].
+        - Free - 3 hours of video event storage.
+        - Nest Aware - 30 days of video event storage.
+        - Nest Aware + - 60 days of video event storage and 10 days of 24/7 video storage.
+    - Most cameras have local storage[^1].
+        - Used for when network is lost.
+        - Cannot be accessed.
+[^3]: [Nest Subscription Storage](https://support.google.com/googlenest/answer/9681538/#3-hour-ebr)
 - **Data Requirements**
-    - 1-4 Mbps/camera
+    - 1-4 Mbps/camera[^4]  
+[^4]: [Camera Bandwidth](https://support.google.com/googlenest/answer/9245832#zippy=%2Cupload-bandwidth-used-by-cameras-and-doorbells%2Cnest-cam-battery-and-nest-cam-wired)
 - **Data Gathering**
-  - Google is one of the largest internet companies out there and is notorious for gathering as much data on you as possible
-  - They utilize facial recognition within their camera system, and have location data if you are signed into their services
-  - Utilize Voice and Audio information as well as purchase information to serve targeted ads
-  - Expect everything that you do within this ecosystem to be monitored, analyzed and stored
+  - Google is one of the largest internet companies out there and is notorious for gathering as much data on you as possible.
+  - They utilize facial recognition within their camera system, and have location data if you are signed into their services[^5].
+  - Utilize Voice and Audio information as well as purchase information to serve targeted ads.
+  - Expect everything that you do within this ecosystem to be monitored, analyzed and stored.  
+[^5]: [Privacy Policy](https://policies.google.com/privacy?hl=en0)
 - **Vulnerability Remediation**
-  - They appear to have some issues prior to 2022 with a major breach in 2019 that affected every Nest user
-    - They had purchased Nest origianlly in early 2014
-  - Since 2022 they have been patching vulnerabilities effectively and publically disclosing them
-  - There hasn't been a major breach since, but there have been isolated incidents where users report hearing voices coming from their cameras they don't recognize
-    - This could be attributed to misconfigured family sharing, or compromised accounts.
+  - They appear to have some issues prior to 2022 with a major breach in 2019 that affected every Nest user[^6].
+    - They had purchased Nest origianlly in early 2014.
+  - Since 2022 they have been patching vulnerabilities effectively and publically disclosing them[^7].
+  - There hasn't been a major breach since, but there have been isolated incidents where users report hearing voices coming from their cameras they don't recognize.
+    - This could be attributed to misconfigured family sharing, or compromised accounts.  
+[^6]: [Nest 19 Security Breach](https://www.popularmechanics.com/technology/security/a26214078/google-nest-hack-warning/)
+[^7]: [Security Bulletins](https://support.google.com/product-documentation/topic/12823571?hl=en&ref_topic=12974021&sjid=4997332173582231755-NC)
 - **Vulnerability Transparency**
-  - Has a bug bounty program put out by the company where they regularly payout reports and and very transparent with the program
-  - Each major security vulnerability patch is clearly posted and documented for users to find.
-    - CVE reports are posted and addressed with clarity
+  - Has a bug bounty program put out by the company where they regularly payout reports and and very transparent with the program.[^8]
+  - Each major security vulnerability patch is clearly posted and documented for users to find.[^7]
+    - CVE reports are posted and addressed with clarity.
+[^8]: [Bug Bounty Program](https://bughunters.google.com/about/rules/android-friends/6171833274204160/android-and-google-devices-security-reward-program-rules)
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -54,3 +62,5 @@
 | Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
 
 ### Total Score: 7
+
+#### Citations
