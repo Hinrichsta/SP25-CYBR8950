@@ -1,4 +1,4 @@
-# Google Nest Cameras
+# Wyze Cameras
 ## Analysis
 - **Name**: Wyze
 - **Manufacturer**: Wyze Labs Inc
