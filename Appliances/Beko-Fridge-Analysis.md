@@ -1,27 +1,29 @@
 # Beko Smart Fridge
 ## Analysis
-- **Name**: 
-- **Manufacturer**: 
-- **Country of Origin**: 
-- **Platform**: 
+- **Name**:Beko Smart Fridge 
+- **Manufacturer**: Beko US - Parent Company: Arçelik A.Ş.
+- **Country of Origin**: Turkey
+- **Platform**: HomeWiz IoT Ecosystem
 - **Internet Requirements**:
-    - a
+    - Not required to utilize device, but remote control features are unavailable if not connected. 
 - **Authentication**
-    - a
+    - User authentication is required to access HomeWiz App, MFA not enforced by default.
+    - Requires Wi-Fi credentials during setup and stores information like temperature logs, usage stats, and connected account info.
 - **Data Transmission Security**
-    - a
+    - HomeWiz has a IASME IoT Security Assured certification, and this confirms they use encrypted communication protocols HTTPS/TLS for cloud interactions and data transmissions between the device and app.
 - **Physical Security**
-    - a
+    - Standard appliance security with screws and accessible parts. Could lead to tampering or data theft with physical access.
 - **Storage**
-    - a
+    - Operates with hybrid storage because it stores device settings locally, but cloud-connected features like usage logs, app preferences, notifications are stored on HomeWhiz servers.
 - **Data Requirements**
-    - a
+    - No specific bandwidth requirements disclosed, but expected to function on a 2.4GHz Wi-Fi network with standard home broadband.
 - **Data Gathering**
-  - a
+  - Collects telemetry for things like performance diagnostics, opening/closing doors, and energy consumption data. Data is reportedly only used for app-based functionality and user notifications.
 - **Vulnerability Remediation**
-  - a
+  - Beko's parent company Arçelik has implemented structured vulnerability remediation processes and reporting tools. They operate a policy of coordinated disclosure for dealing with reports of security vulnerabilities and issues.
 - **Vulnerability Transparency**
-  - a
+  - There are no publicly disclosed CVEs identified for Beko smart fridges as of the writing of this research. However, Arçelik's participation in third-party audits and participation in IASME certification shows they have a proactive approach to transparency, even if individual disclosures are not posted on public registries like the National Vulnerability Database.
+  - No Bug bounty program available, but they do take reports of vulnerabilities. 
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -34,3 +36,13 @@
 | Company Vulnerability Transparency Score |  |  | 
 
 ### Total Score: 
+
+#### Citations
+https://www.bekoplc.com/vulnerability-disclosure-procedure/
+https://www.homewhiz.com/security/
+https://www.beko.com/gulf/ae-en/Blog/tips-and-tricks/smart-home-integration-with-beko-appliances
+https://documents.beko.com/WM/7178571300/en-GB/126007307153201419.html
+https://iasme.co.uk/blog/one-smart-beko-fridge-and-its-journey-to-become-iot-security-assured-a-case-study-with-arcelik/
+
+
+
