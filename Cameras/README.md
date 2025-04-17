@@ -8,6 +8,8 @@
 | Company Vulnerability Remediation Score | 3 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022 |
 | Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
 
+### Total Score: 7
+
 ## [Wyze Cameras](Cameras\Wyze-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
@@ -18,15 +20,19 @@
 | Company Vulnerability Remediation Score | 2 | They did not start disclosing vulnerabilities until about 2022 when they had their first major breach.  Since then they have done better with disclosures and making sure that the information is shared.  Their bug bounty program while existent is lacking. |
 | Company Vulnerability Transparency Score | 1 | They do not make any effort to put their vulnerability patches into their patch notes.  Instead they are put into a seperate location in their forums that is difficult to find.  It does appear that it is getting updated, but you wouldn't know it without regularly checking.  They also do not appear to have been disclosing anything before 2022 which is an issue to start. | 
 
+### Total Score: 7
+
 ## [Blink Cameras](Cameras\Blink-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection |  |  |
-| Requires Constant Connection to Company Cloud Infrastructure |  |  |
-| Data Storage Requirements |  |  |
-| Data Gathering Risk Score |  |  |
-| Company Vulnerability Remediation Score |  |  |
-| Company Vulnerability Transparency Score |  |  | 
+| Requires Constant Internet Connection | Yes | Internet is required when viewing videos as a Blink account is required to view all videos. |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | An account is required even when viewing videos in local storage |
+| Data Storage Requirements | Cloud | Local storage is an option, but only if specifically configured and video is only backed up to local storage rather than being stored while being recorded.  Otherwise all storage is cloud based |
+| Data Gathering Risk Score | 3 | Does not sell data to 3rd party companies, but all data is shared with partner companies.  They are a subsidiary of Amazon as such Amazon has access to all data. |
+| Company Vulnerability Remediation Score | 2 | Patches are applied regularly, and of the vulnerabilites that were discovered they were patched promptly.  The same can be said about the breach that they experienced. |
+| Company Vulnerability Transparency Score | 1 | THey do not state exactly what was patched in their patch notes, nor are vulnerabilities publically disclosed.  As such there is no transparency to their patching process | 
+
+### Total Score: 6
 
 ## [TP-Link Camera](Cameras\TP-Link-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -37,3 +43,5 @@
 | Data Gathering Risk Score |  |  |
 | Company Vulnerability Remediation Score |  |  |
 | Company Vulnerability Transparency Score |  |  | 
+
+### Total Score: 

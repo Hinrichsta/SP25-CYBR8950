@@ -62,5 +62,3 @@
 | Company Vulnerability Transparency Score | 3 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified. | 
 
 ### Total Score: 7
-
-#### Citations
