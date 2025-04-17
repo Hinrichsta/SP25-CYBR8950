@@ -34,14 +34,14 @@
 
 ### Total Score: 6
 
-## [TP-Link Camera](Cameras\TP-Link-Analysis.md)
+## [Tapo Cameras](Cameras\TP-Link-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection |  |  |
-| Requires Constant Connection to Company Cloud Infrastructure |  |  |
-| Data Storage Requirements |  |  |
-| Data Gathering Risk Score |  |  |
-| Company Vulnerability Remediation Score |  |  |
-| Company Vulnerability Transparency Score |  |  | 
+| Requires Constant Internet Connection | Hybrid  | Internet connection is required for initial setup, but beyond that the connection is not required beyond that. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | You need to connect for initials setup, and to access and download videos through the app. |
+| Data Storage Requirements | Hybrid | Both local and CLoud storage are available, and able to be easily used.  Cloud storage does require a subscription, but you only get a few advantages over local storage |
+| Data Gathering Risk Score | 1 | TP-Link actively gathers and sells the data of their users.  They will use their data for targets advertising.  They are also a company based in China, and subject to the Chinese Government |
+| Company Vulnerability Remediation Score | 3 | They do regularly patch their products, and make sure to cover disclosed vulnerabilities before the actual disclosure |
+| Company Vulnerability Transparency Score | 2 | Their patch notes do not actively share the patches of bugs and vulnerabilities, it is also quite difficult to access the patch notes.  They do share disclosures in CVEs, and periodically share security advisories, but do not actively share things | 
 
-### Total Score: 
+### Total Score: 6

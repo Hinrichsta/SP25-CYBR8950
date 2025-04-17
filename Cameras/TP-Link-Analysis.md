@@ -22,8 +22,11 @@
 - **Physical Security**
   - Cameras have a MicroSD card Slot that supports up to a 512GB card[^4].
     - SD card slot is easily accessible on most cameras
-  - Cameras use a Built in Battery which is rechargable through a Solar Panel, or through a power adapter[^4]  
+  - Cameras use a Built in Battery which is rechargable through a Solar Panel, or through a power adapter[^4] 
+  - Some Cameras do use a USB Type C charging cable
+    - It is only covered.[^8]
 [^4]: [Camera Specifications](https://www.tp-link.com/us/support/faq/3395/)
+[^8]: [Camera Quick Start Guide](https://static.tp-link.com/upload/manual/2024/202404/20240403/7106511087_Tapo%20C410(US)1.0_QIG.pdf)
 - **Storage**
   - Video can be locally stored using a MicroSD card[^4]
     - Locally stored video can be accessed through the app
@@ -35,20 +38,33 @@
     - Can live stream up to 4 cameras from one app.
     - Other users can also stream at the same time.
 - **Data Gathering**
-  - a
+  - Tapo is a company under TP-Link and uses their Privacy Policy
+  - Gathers Data relating to location, how you got to their website, and what you access on their site[^6].
+  - They also gather data related to your account, and will get data from partners[^6].
+  - They utilize your information for targeted advertising and sell/share your data with their partnerts[^6].
+    - Targeted advertising includes their own and 3rd party.  
+[^6]: [TP-Link Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US)
 - **Vulnerability Remediation**
-  - a
+  - Firmware Releases appear to happen every 1-4 months, and isn't on a consistent Schedule[^7]
+  - Their Patch notes are mostly related to improvements and not patches and big fixes
+  - They do appear to post security advisories when patching large vulnerabilities, and recommend upgradings[^9].  
+[^7]: [Firmware Release notes for C402](https://www.tp-link.com/us/support/download/tapo-c402/#Firmware-Release-Notes)
+[^9]: [Security Advisory](https://www.tp-link.com/us/support/faq/3722/)
 - **Vulnerability Transparency**
-  - a
+  - Able to find 1 Security Advisory relating to cameras on their Website[^9]
+  - CVEs for cameras are shared and patches for them are shown[^10]
+    - This does not appear to be shared directly in their patch notes
+  - No major breaches have been seen relating to Tapo, but TP-Link itself has had breaches in the past.
+[^10]: [Vulnerabilites List](/Data.md#disclosures-4)
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection |  |  |
-| Requires Constant Connection to Company Cloud Infrastructure |  |  |
-| Data Storage Requirements |  |  |
-| Data Gathering Risk Score |  |  |
-| Company Vulnerability Remediation Score |  |  |
-| Company Vulnerability Transparency Score |  |  | 
+| Requires Constant Internet Connection | Hybrid  | Internet connection is required for initial setup, but beyond that the connection is not required beyond that. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | You need to connect for initials setup, and to access and download videos through the app. |
+| Data Storage Requirements | Hybrid | Both local and CLoud storage are available, and able to be easily used.  Cloud storage does require a subscription, but you only get a few advantages over local storage |
+| Data Gathering Risk Score | 1 | TP-Link actively gathers and sells the data of their users.  They will use their data for targets advertising.  They are also a company based in China, and subject to the Chinese Government |
+| Company Vulnerability Remediation Score | 3 | They do regularly patch their products, and make sure to cover disclosed vulnerabilities before the actual disclosure |
+| Company Vulnerability Transparency Score | 2 | Their patch notes do not actively share the patches of bugs and vulnerabilities, it is also quite difficult to access the patch notes.  They do share disclosures in CVEs, and periodically share security advisories, but do not actively share things | 
 
-### Total Score: 
+### Total Score: 6
