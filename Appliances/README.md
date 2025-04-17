@@ -1,3 +1,14 @@
+## [LG Smart Oven](Appliances\LG-Oven-Analysis.md)
+
+
+## [AEG Smart Oven](Appliances\AEG-Oven-Analysis.md)
+
+
+## [Samsung Smart Fridge](Appliances\Samsung-Fridge-Analysis.md)
+
+
+## [Beko Smart Fridge](Appliances\Beko-Fridge-Analysis.md)
+
 # Appliances
 
 ## Smart Fridge 
