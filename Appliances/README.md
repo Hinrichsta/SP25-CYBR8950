@@ -1,4 +1,4 @@
-## [LG Smart Oven](Appliances\LG-Oven-Analysis.md)
+## [LG Smart Oven](LG-Oven-Analysis.md)
 
 
 ## [AEG Smart Oven](Appliances\AEG-Oven-Analysis.md)
