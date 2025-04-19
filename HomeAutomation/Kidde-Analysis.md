@@ -19,10 +19,11 @@
     - Minimal
 - **Data Gathering**
   - Only the expected data appears to be gathered.
+  - Unclear which company or parent company privacy policy applies [^1][^2]
 - **Vulnerability Remediation**
   - All reported vulnerabilities were related to the device itself and its core functionality vs. it IoT services.
 - **Vulnerability Transparency**
-  - The initial products were subject to false alarms and [recalled](https://www.kidde.com/home-safety/en/us/support/product-alerts/recall-kidde-trusense/), not because of their IoT alarms but basic traditional alarm functionality.
+  - The initial products were subject to false alarms and recalled, not because of their IoT alarms but basic traditional alarm functionality. [^3]
   - Kidde alarms have been the subject of my personal research (Josh) because if the lack of public information I can find on them, and the issues I have had with them.
 
 ## Scoring rubric
@@ -36,3 +37,7 @@
 | Company Vulnerability Transparency Score | 3 | Given they have addressed product safety issues they score well.  But this product has not been on the market long enough for full IoT analysis.  It is not likely to score well at a later time as Kidde did their own IoT backend rather than use a common platform. | 
 
 ### Total Score: 11
+
+[^1]: [Carrier Privacy Policy](https://www.kidde.com/home-safety/en/us/legal/privacy-notice/)  
+[^2]: [KGB Privacy](https://www.kidde.com/home-safety/en/us/legal/privacy-notice/)    
+[^3]: [Product Recalls](https://www.kidde.com/home-safety/en/us/support/product-alerts/recall-kidde-trusense/)    
