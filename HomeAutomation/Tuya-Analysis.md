@@ -2,8 +2,8 @@
 ## Analysis
 - **Name**: Tuya
 - **Manufacturer**: Tuya
-- **Country of Origin**: China
-- **Platform**: SmartLife (most common) or Tuya (same)
+- **Country of Origin**: China[^1]
+- **Platform**: SmartLife (most common) or Tuya (same) [^2]
 - **Internet Requirements**:
     - Initial setup via Bluetooth, then requires a WiFi connection to Internet for all functions.  
     - Requires an Internet connection for all useful or expected operations.  
@@ -20,12 +20,12 @@
     - Low, generally non sensitive data.
 - **Data Gathering**
   - All possible permissions are requested by the application regardless of need as the app can control many different devices.  
-  - Overall usage information is collected, but only used if the end user wants to do energy consumption metrics.  
+  - Overall usage information is collected, but only used if the end user wants to do energy consumption metrics.  [^3]
 - **Vulnerability Remediation**
   - Firmware is never updated past the initial setup.  
 - **Vulnerability Transparency**
-  - Numerous CVE's - [Example: CVE-2024-3764 Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-3764)
-  - Researchers have [urged the US government] (https://www.voanews.com/a/east-asia-pacific_voa-news-china_cybersecurity-experts-worried-chinese-firms-control-smart-devices/6209815.html) to ban Tuya devices over privacy concerns.
+  - Numerous CVE's - Example: CVE-2024-3764 Detail] [^4]
+  - Researchers have  urged the US government to ban Tuya devices over privacy concerns. [^5]
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
@@ -37,3 +37,9 @@
 | Company Vulnerability Transparency Score | 1 | Tuya has never disclosed vulnerabilities in products. | 
 
 ### Total Score: 6
+
+[^1]: [Tuya SaaS Platform](https://www.atlantis-press.com/proceedings/icssed-22/125973899)  
+[^2]: [World's Leading Supplier of smart home devices](https://www.tuya.com/platform/vas/works-with)
+[^4]: [CVE-2024-3764](https://nvd.nist.gov/vuln/detail/CVE-2024-3764)
+[^5]: [Concerns of Chinese SaaS Cloud Platorms](https://www.voanews.com/a/east-asia-pacific_voa-news-china_cybersecurity-experts-worried-chinese-firms-control-smart-devices/6209815.html)  
+[^3]: [Privacy Policy](https://images.tuyacn.com/app/smart/Privacy_Policy_en.html)
