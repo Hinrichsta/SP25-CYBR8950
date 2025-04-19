@@ -11,20 +11,20 @@
     - Plain username and password.  
 - **Data Transmission Security**
     - For Internet, all communication is HTTPs via an open API (with limited documentation) for most new devices
-    - But older Govee devices [do not use encryption](https://community.home-assistant.io/t/security-concerns-with-govee-devices-seeking-solutions-and-alternatives-h5072-h5075/683314/2), and instead Govee has implemented a device safety feature.  This features, which is not enabled by default means that once a Govee device has connected to one installation of the app, it can only connect to that copy of the running app.  This prevents other control devices on your network from connecting to it, but does not prevent network sniffing of the plain text data.  This is a strange work-around for not using encryption - likely related to the low compute power of the sensors and gateway.  The Govee API gateway however does use SSL.
+    - But older Govee devices do not use encryption, and instead Govee has implemented a device safety feature.  This features, which is not enabled by default means that once a Govee device has connected to one installation of the app, it can only connect to that copy of the running app.  This prevents other control devices on your network from connecting to it, but does not prevent network sniffing of the plain text data.  This is a strange work-around for not using encryption - likely related to the low compute power of the sensors and gateway.  The Govee API gateway however does use SSL. [^1]
 - **Physical Security**
     - There is no physical port.  
 - **Storage**
-  - Govee stores some data locally, and all data in the cloud, which is not disclosed clearly and was discovered via testings (delete the app and some data comes back).
+  - Govee stores some data locally, and all data in the cloud, which is not disclosed clearly and was discovered via testings (delete the app and some data comes back).[^2]
 - **Data Requirements**
     - Low, generally non sensitive data.
-    - But, Govee devices are [considered to be rather chatty](https://hal.science/hal-04936304/), despite not being ask to do anything which is concerning with HTTPs devices as it is not known what they are doing.  
+    - But, Govee devices are considered to be rather chatty, despite not being ask to do anything which is concerning with HTTPs devices as it is not known what they are doing. [^3] 
 - **Data Gathering**
   - All possible permissions are requested by the application regardless of need as the app can control many different devices.  
 - **Vulnerability Remediation**
-    - [Govee CVE - CVE-2023-3612](https://nvd.nist.gov/vuln/detail/CVE-2023-3612)  
+    - Govee CVE - CVE-2023-3612 [^4]  
 - **Vulnerability Transparency**
-  - Very basic [Privacy Policy](https://us.govee.com/pages/privacy-policy?srsltid=AfmBOoos77IPMaQoDdTlP_Xt3Wt2d-gZVVijfFM5jtmRVmissv2iA5hi) which is very minimal compared to Tuya.
+  - Very basic privacy policy which is very minimal compared to Tuya. [^5]
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -40,3 +40,9 @@
 
 
 Note:  There are several Govee names, and some Govee devices (bulbs, small appliances, etc. are actually Tuya/SmartLife).
+
+[^1]: [Encrytption vs. Non-Encryted Traffic](https://community.home-assistant.io/t/security-concerns-with-govee-devices-seeking-solutions-and-alternatives-h5072-h5075/683314/2))
+[^2]: [API Documentation](https://developer.govee.com/docs/getting-started)
+[^3]: [Chatty analysis](https://hal.science/hal-04936304/)
+[^4]: [CVE-2023-3612](https://nvd.nist.gov/vuln/detail/CVE-2023-3612) 
+[^5]: [Privacy Policy](https://us.govee.com/pages/privacy-policy?srsltid=AfmBOoos77IPMaQoDdTlP_Xt3Wt2d-gZVVijfFM5jtmRVmissv2iA5hi)
