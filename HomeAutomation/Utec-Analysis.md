@@ -5,7 +5,7 @@
 - **Country of Origin**: US
 - **Platform**: U-Tec
 - **Internet Requirements**:
-    - Locks can operate in standalone mode, however the application requires Internet to set it up the first time.  
+    - Locks can operate in standalone mode, however the application requires Internet to set it up the first time.  [^1]
 - **Authentication**
    - Plain username and password.
    - 4 digit PINs are used within the application for certain functions, however they are optional.  
@@ -28,8 +28,8 @@
 - **Vulnerability Remediation**
   - U-Tec has addressed some, but not all common Bluetooth vulnerabilities via firmware updates.
 - **Vulnerability Transparency**
-  - Previous, but addressed [CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt) in Bluetooth personal area network (out of scope)
-  - [Additional information](https://threatpost.com/smart-lock-turns-out-to-be-not-so-smart-or-secure/146091/) on CVE's since the CVE are now gone.
+  - Previous, but addressed CVEs in Bluetooth personal area network (out of scope) [^2]
+  - Additional information on CVE's since the CVE are now gone. [^3]
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -42,3 +42,9 @@
 | Company Vulnerability Transparency Score | 3 | All disclosed vulnerabilities have been common to Bluetooth vs. specific vulnerabilities in the device of their systems. | 
 
 ### Total Score: 9
+
+[^1]: [Local Storage of PINs and biomerics](https://ieeexplore.ieee.org/abstract/document/9537052)
+[^2]: [Common Bluetooth CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt)
+[^3]: [Additional CVE references](https://threatpost.com/smart-lock-turns-out-to-be-not-so-smart-or-secure/146091/)
+
+
