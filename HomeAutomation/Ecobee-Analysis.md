@@ -16,23 +16,19 @@
     - HTTPs
 - **Physical Security**
     - There is no physical port.
-    - Thermostat can be geofenced to a small range (purpose unknown).  
+    - Thermostat can be geofenced to a small range (purpose unknown but perhaps physical theft).  
 - **Storage**
-    - Ecobee stores detailed logs of all device activity and corresponding settings, which are used for [flexible load management data](https://www.ecobee.com/en-us/utilities/).  
+    - Ecobee stores detailed logs of all device activity and corresponding settings, which are used for flexible load management data.  [^1]
 - **Data Requirements**
-    - Varies based on use.  When Alexa is enabled, the device can function as an Alexa speaker.
+    - Varies based on use.  When Alexa is enabled, the device can function as an Alexa speaker (covered with cameras).
 - **Data Gathering**
   - Devices can be Amazon Alexa enabled, which is covered in another category.
-  - Proximity or presence information is collected.
+  - Proximity or presence information is collected. [^2]
   - See Flexible load management under Storage. This data is stored regardless, and shared unless opted out. 
 - **Vulnerability Remediation**
-  - They appear to have some issues prior to 2022 with a major breach in 2019 that affected every Nest user
-    - They had purchased Nest originally in early 2014
-  - Since 2022 they have been patching vulnerabilities effectively and publicly disclosing them.  
-  - There hasn't been a major breach since, but there have been isolated incidents where users report hearing voices coming from their cameras they don't recognize.  
-    - This could be attributed to misconfigured family sharing, or compromised accounts.
+  -  To many CVEs to list. [^3]
 - **Vulnerability Transparency**
-  - EcoBee has [closed their public api](https://www.ecobee.com/en-us/developers/) to future development and it was not disclosed as to why.
+  - EcoBee has closed their public api to future development and it was not disclosed as to why. [^4]
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -45,3 +41,11 @@
 | Company Vulnerability Transparency Score | 1 | Govee closed their API rather than addressing issues with it. | 
 
 ### Total Score: 4
+
+[^1]: [Flexible load management](https://www.ecobee.com/en-us/utilities/)
+[^2]: [Proximaty sensing concerns](https://ijitra.com/index.php/ijitra/article/view/48/39)  
+[^3]: [CVE list](https://app.opencve.io/cve/?vendor=ecobee)  
+[^4]: [Closed API and end of Developer Progran](https://www.ecobee.com/en-us/developers/)  
+
+
+
