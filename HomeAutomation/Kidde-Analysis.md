@@ -24,7 +24,7 @@
   - All reported vulnerabilities were related to the device itself and its core functionality vs. it IoT services.
 - **Vulnerability Transparency**
   - The initial products were subject to false alarms and recalled, not because of their IoT alarms but basic traditional alarm functionality. [^3]
-  - Kidde alarms have been the subject of my personal research (Josh) because if the lack of public information I can find on them, and the issues I have had with them.
+  - Kidde alarms have been the subject of my personal research (Josh) because if the lack of public information I can find on them, and the issues I have had with them.  They have generally been reliable, however their air quality monitoring service is buggy at best, and can't be unsigned up for.
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
