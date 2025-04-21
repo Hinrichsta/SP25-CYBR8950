@@ -23,7 +23,7 @@
     - Low, but sensitive data; (PINs), ACLs, access logs.
 - **Data Gathering**
   - A log is kept of all lock activity in the cloud.
-  - Biometrics are stored in the device vs. cloud.
+  - Biometrics are stored in the device vs. cloud.  This is true for the PIN as well.
   - Location is required for optional proximity.
 - **Vulnerability Remediation**
   - U-Tec has addressed some, but not all common Bluetooth vulnerabilities via firmware updates.
