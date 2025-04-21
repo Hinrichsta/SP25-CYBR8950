@@ -43,7 +43,11 @@
   - They also gather data related to your account, and will get data from partners[^6].
   - They utilize your information for targeted advertising and sell/share your data with their partnerts[^6].
     - Targeted advertising includes their own and 3rd party.  
+      - This includes Google, Amazon, and Meta [^11].  
+  - To opt out of their data collection you must contact their support to remove data they have[^6].
+    - email privacy.us@tp-link.com 
 [^6]: [TP-Link Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US)
+[^11]: [Do Not Sell My Info](https://www.tp-link.com/us/about-us/privacy/do-not-sell-my-info/)
 - **Vulnerability Remediation**
   - Firmware Releases appear to happen every 1-4 months, and isn't on a consistent Schedule[^7]
   - Their Patch notes are mostly related to improvements and not patches and big fixes
@@ -64,7 +68,7 @@
 | Requires Constant Connection to Company Cloud Infrastructure | Hybrid | You need to connect for initials setup, and to access and download videos through the app. |
 | Data Storage Requirements | Hybrid | Both local and CLoud storage are available, and able to be easily used.  Cloud storage does require a subscription, but you only get a few advantages over local storage |
 | Data Gathering Risk Score | 1 | TP-Link actively gathers and sells the data of their users.  They will use their data for targets advertising.  They are also a company based in China, and subject to the Chinese Government |
-| Company Vulnerability Remediation Score | 3 | They do regularly patch their products, and make sure to cover disclosed vulnerabilities before the actual disclosure |
+| Company Vulnerability Remediation Score | 2 | They do regularly patch their products, and make sure to cover disclosed vulnerabilities before the actual disclosure |
 | Company Vulnerability Transparency Score | 2 | Their patch notes do not actively share the patches of bugs and vulnerabilities, it is also quite difficult to access the patch notes.  They do share disclosures in CVEs, and periodically share security advisories, but do not actively share things | 
 
-### Total Score: 6
+### Total Score: 5
