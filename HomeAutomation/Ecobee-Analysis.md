@@ -6,10 +6,10 @@
 - **Platform**: Ecobee
 - **Internet Requirements**:
     - Initial setup via Bluetooth, then requires a WiFi connection to Internet for all functions.
-    - Can operate with limited functionality via control screen.
+    - Can operate with limited (basic)functionality via control screen and no connection (including bluetooth)
 - **Authentication**
     - Plain username and password.
-    - Family accounts available.  
+    - Family sharing accounts  
     - Contractor, and group mode available.
     - Amazon Alexa account (optional).  
 - **Data Transmission Security**
@@ -18,17 +18,17 @@
     - There is no physical port.
     - Thermostat can be geofenced to a small range (purpose unknown but perhaps physical theft).  
 - **Storage**
-    - Ecobee stores detailed logs of all device activity and corresponding settings, which are used for flexible load management data.  [^1]
+    - Ecobee stores detailed logs of all device activity and corresponding settings, which are used for flexible load management data.  [^1] [^2]
 - **Data Requirements**
-    - Varies based on use.  When Alexa is enabled, the device can function as an Alexa speaker (covered with cameras).
+    - Varies based on use.  When Alexa is enabled, the device can function as an Alexa speaker/microphone (covered with cameras).
 - **Data Gathering**
-  - Devices can be Amazon Alexa enabled, which is covered in another category.
-  - Proximity or presence information is collected. [^2]
+  - Devices can be Amazon Alexa enabled, which is covered in another category but opens up a whole other realm of data collection.
+  - Proximity or presence information is collected. [^3]
   - See Flexible load management under Storage. This data is stored regardless, and shared unless opted out. 
 - **Vulnerability Remediation**
-  -  To many CVEs to list. [^3]
+  -  To many CVEs to list. [^4]
 - **Vulnerability Transparency**
-  - EcoBee has closed their public api to future development and it was not disclosed as to why. [^4]
+  - EcoBee has closed their public api to future development and it was not disclosed as to why, but there are backdoors which is bothersome. [^5] [^1]
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -43,9 +43,10 @@
 ### Total Score: 4
 
 [^1]: [Flexible load management](https://www.ecobee.com/en-us/utilities/)
-[^2]: [Proximaty sensing concerns](https://ijitra.com/index.php/ijitra/article/view/48/39)  
-[^3]: [CVE list](https://app.opencve.io/cve/?vendor=ecobee)  
-[^4]: [Closed API and end of Developer Progran](https://www.ecobee.com/en-us/developers/)  
+[^2]: [Beestat example](https://app.beestat.io/)
+[^3]: [Proximaty sensing concerns](https://ijitra.com/index.php/ijitra/article/view/48/39)  
+[^4]: [CVE list](https://app.opencve.io/cve/?vendor=ecobee)  
+[^5]: [Closed API and end of Developer Progran](https://www.ecobee.com/en-us/developers/)  
 
 
 
