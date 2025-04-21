@@ -9,6 +9,7 @@
 | Data Gathering Risk Score | 4 | The device's purpose is to collect data, and because of the hardware, it only collects the data it has disclosed. |
 | Company Vulnerability Remediation Score | 1 | Like Tuya, Govee has not disclosed vulnerabilities of addressed them and instead focused on new products. |
 | Company Vulnerability Transparency Score | 1 | Govee has never disclosed vulnerabilities in products. | 
+### Total Score: 6
 
 ## Analysis
 - **Name**: Govee, Govee Life
@@ -36,9 +37,6 @@
     - Govee CVE - CVE-2023-3612 [^4]  
 - **Vulnerability Transparency**
   - Very basic privacy policy which is very minimal compared to Tuya. [^5]
-
-### Total Score: 6
-
 
 Note:  There are several Govee names, and some Govee devices (bulbs, small appliances, etc. are actually Tuya/SmartLife).
 
