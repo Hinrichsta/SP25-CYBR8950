@@ -1,4 +1,15 @@
 # Tuya/SmartLife switches and bulbs
+## Scoring rubric
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | Yes | There is no local communication option past setup.   |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | All control is via API calls to the cloud service.   |
+| Data Storage Requirements | Cloud | You can not opt out of usage collection, even if you are not using it the features that require it.   |
+| Data Gathering Risk Score | 4 | The data that is gathered is not sensitive, but this is the nature of the product. |
+| Company Vulnerability Remediation Score | 1 | They seem to have remediated issues via new products vs. patching or updating firmware on existing products as evidence by the various backends. |
+| Company Vulnerability Transparency Score | 1 | Tuya has never disclosed vulnerabilities in products. | 
+### Total Score: 6
+
 ## Analysis
 - **Name**: Tuya
 - **Manufacturer**: Tuya
@@ -26,17 +37,7 @@
 - **Vulnerability Transparency**
   - Numerous CVE's - Example: CVE-2024-3764 Detail] [^4]
   - Researchers have  urged the US government to ban Tuya devices over privacy concerns. [^5]
-## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | There is no local communication option past setup.   |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | All control is via API calls to the cloud service.   |
-| Data Storage Requirements | Cloud | You can not opt out of usage collection, even if you are not using it the features that require it.   |
-| Data Gathering Risk Score | 4 | The data that is gathered is not sensitive, but this is the nature of the product. |
-| Company Vulnerability Remediation Score | 1 | They seem to have remediated issues via new products vs. patching or updating firmware on existing products as evidence by the various backends. |
-| Company Vulnerability Transparency Score | 1 | Tuya has never disclosed vulnerabilities in products. | 
 
-### Total Score: 6
 
 [^1]: [Tuya SaaS Platform](https://www.atlantis-press.com/proceedings/icssed-22/125973899)  
 [^2]: [World's Leading Supplier of smart home devices](https://www.tuya.com/platform/vas/works-with)
