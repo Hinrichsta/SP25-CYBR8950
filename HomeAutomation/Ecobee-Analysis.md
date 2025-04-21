@@ -8,6 +8,7 @@
 | Data Gathering Risk Score | 1 | A lot of data is collected on usage and proximity/presence.  It knows when you are home and active. |
 | Company Vulnerability Remediation Score | 2 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022.   |
 | Company Vulnerability Transparency Score | 1 | Govee closed their API rather than addressing issues with it. | 
+### Total Score: 4
 
 ## Analysis
 - **Name**: Ecobee
@@ -39,9 +40,6 @@
   -  To many CVEs to list. [^4]
 - **Vulnerability Transparency**
   - EcoBee has closed their public api to future development and it was not disclosed as to why, but there are backdoors which is bothersome. [^5] [^1]
-
-
-### Total Score: 4
 
 [^1]: [Flexible load management](https://www.ecobee.com/en-us/utilities/)
 [^2]: [Beestat example](https://app.beestat.io/)
