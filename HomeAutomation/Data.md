@@ -1,4 +1,4 @@
-# Home automation
+# Home automation - Historical reference only
 
 ## Tuya/SmartLife switches and bulbs.  
 - SmartBulbs and switches fall largely into the same device category as technically they are mostly the same.  The exception would be their are smart bulbs which contains a speaker/microphone, and they would be included under Entertainment->Speakers.  
