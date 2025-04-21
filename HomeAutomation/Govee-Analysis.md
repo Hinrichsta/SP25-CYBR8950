@@ -1,4 +1,15 @@
 # Govee Temperature and Other sensors (water, weather, etc.)
+
+## Scoring rubric
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | No | While local connectivity is an option after intial setup, most users would not chose this option as it is not the default. |
+| Requires Constant Connection to Company Cloud Infrastructure | No | As noted above, for most users this would be a yes.  While the device can be used with just Bluetooth, strange app behavior can occur as this is not the expected configuration. |
+| Data Storage Requirements | Hybrid | It is not entirely clear how much data is stored locally vs. cloud, and how it is synched.  This is likely do to the Bluetooth connection alternative.  They claim to only store 12 months of data, but it has been reported that it is stored longer.  Testing of this statement will be complete May 1st. |
+| Data Gathering Risk Score | 4 | The device's purpose is to collect data, and because of the hardware, it only collects the data it has disclosed. |
+| Company Vulnerability Remediation Score | 1 | Like Tuya, Govee has not disclosed vulnerabilities of addressed them and instead focused on new products. |
+| Company Vulnerability Transparency Score | 1 | Govee has never disclosed vulnerabilities in products. | 
+
 ## Analysis
 - **Name**: Govee, Govee Life
 - **Manufacturer**: Govee
@@ -25,16 +36,6 @@
     - Govee CVE - CVE-2023-3612 [^4]  
 - **Vulnerability Transparency**
   - Very basic privacy policy which is very minimal compared to Tuya. [^5]
-
-## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | No | While local connectivity is an option after intial setup, most users would not chose this option as it is not the default. |
-| Requires Constant Connection to Company Cloud Infrastructure | No | As noted above, for most users this would be a yes.  While the device can be used with just Bluetooth, strange app behavior can occur as this is not the expected configuration. |
-| Data Storage Requirements | Hybrid | It is not entirely clear how much data is stored locally vs. cloud, and how it is synched.  This is likely do to the Bluetooth connection alternative.  They claim to only store 12 months of data, but it has been reported that it is stored longer.  Testing of this statement will be complete May 1st. |
-| Data Gathering Risk Score | 4 | The device's purpose is to collect data, and because of the hardware, it only collects the data it has disclosed. |
-| Company Vulnerability Remediation Score | 1 | Like Tuya, Govee has not disclosed vulnerabilities of addressed them and instead focused on new products. |
-| Company Vulnerability Transparency Score | 1 | Govee has never disclosed vulnerabilities in products. | 
 
 ### Total Score: 6
 
