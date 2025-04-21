@@ -1,4 +1,15 @@
 # U-tec/UHome/ULTRALOQ Locks
+## Scoring rubric
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
+| Requires Constant Connection to Company Cloud Infrastructure | No | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort physical key. |
+| Data Storage Requirements | Cloud | Critical data is stored in the cloud and on the device. |
+| Data Gathering Risk Score | 3 | Proximity data is optional.  Biometrics stored in the device vs. the Cloud was a wise choice. |
+| Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquiries. |
+| Company Vulnerability Transparency Score | 3 | All disclosed vulnerabilities have been common to Bluetooth vs. specific vulnerabilities in the device of their systems. | 
+### Total Score: 9
+
 ## Analysis
 - **Name**: U-tec/UHome/ULTRALOQ
 - **Manufacturer**: Utec
@@ -30,18 +41,6 @@
 - **Vulnerability Transparency**
   - Previous, but addressed CVEs in Bluetooth personal area network (out of scope) [^2]
   - Additional information on CVE's since the CVE are now gone. [^3]
-
-## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
-| Requires Constant Connection to Company Cloud Infrastructure | No | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort physical key. |
-| Data Storage Requirements | Cloud | Critical data is stored in the cloud and on the device. |
-| Data Gathering Risk Score | 3 | Proximity data is optional.  Biometrics stored in the device vs. the Cloud was a wise choice. |
-| Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquiries. |
-| Company Vulnerability Transparency Score | 3 | All disclosed vulnerabilities have been common to Bluetooth vs. specific vulnerabilities in the device of their systems. | 
-
-### Total Score: 9
 
 [^1]: [Local Storage of PINs and biomerics](https://ieeexplore.ieee.org/abstract/document/9537052)
 [^2]: [Common Bluetooth CVEs](https://app.opencve.io/cve/?vendor=u-tec&product=ultraloq_ul3_bt)
