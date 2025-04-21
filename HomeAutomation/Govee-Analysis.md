@@ -20,7 +20,7 @@
     - Low, generally non sensitive data.
     - But, Govee devices are considered to be rather chatty, despite not being ask to do anything which is concerning with HTTPs devices as it is not known what they are doing. [^3] 
 - **Data Gathering**
-  - All possible permissions are requested by the application regardless of need as the app can control many different devices.  
+  - All possible permissions are requested by the application regardless of need as the app can control many different devices.  While location and contacts are not needed for a temp sensor, they still have to be granted.
 - **Vulnerability Remediation**
     - Govee CVE - CVE-2023-3612 [^4]  
 - **Vulnerability Transparency**
