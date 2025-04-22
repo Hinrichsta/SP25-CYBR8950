@@ -1,4 +1,17 @@
 # Wyze Cameras
+
+## Scoring rubric
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | Yes | There is local storage but it cannot be viewed without using the Wyze app |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | The only location that video can be viewed from is the Wyze app, or the browser web view if you have a subscription |
+| Data Storage Requirements | Hybrid | Data can be stored locally, and required if you do not have a subscription.  With a subscription both can be achieved |
+| Data Gathering Risk Score | 3 | Overall they only gather data from their products, and through their connections to third party.  They do not sell data in anyway and it is primarily used for internal information.  The Facial recognition data does NOT require consent from those being recorded, but all data is deleted after 30 days.  They do allow for the opting out of their data collection, but it requires sending an email to their support |
+| Company Vulnerability Remediation Score | 4 | They did not start disclosing vulnerabilities until about 2022 when they had their first major breach.  Since then they have done better with disclosures and making sure that the information is shared.  Their bug bounty program while existent is lacking. |
+| Company Vulnerability Transparency Score | 2 | They do not make any effort to put their vulnerability patches into their patch notes.  Instead they are put into a seperate location in their forums that is difficult to find.  It does appear that it is getting updated, but you wouldn't know it without regularly checking.  They also do not appear to have been disclosing anything before 2022 which is an issue to start. | 
+
+### Total Score: 9
+
 ## Analysis
 - **Name**: Wyze
 - **Manufacturer**: Wyze Labs Inc
@@ -31,7 +44,7 @@
         - Cam Unlimited - 14 days
         - Cam Unlimited Pro - 60 days  
 [^6]: [MicroSD Cards](https://support.wyze.com/hc/en-us/articles/33700416230811-How-do-I-view-my-microSD-card-recordings)
-[^7]: [SUbscription Plans](https://www.wyze.com/pages/compare)
+[^7]: [Subscription Plans](https://www.wyze.com/pages/compare)
 - **Data Requirements**
     - 1-2 Mbps for Standard Definition/camera[^8].
     - 4-7 Mbps for High Definition/camera[^8].  
@@ -71,15 +84,3 @@
     - No Release Notes indicating patching  
 [^14]: [CVE-2024-37066](https://nvd.nist.gov/vuln/detail/CVE-2024-37066)
 [^15]: [CVE-2024-6246](https://nvd.nist.gov/vuln/detail/CVE-2024-6246)
-
-## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | There is local storage but it cannot be viewed without using the Wyze app |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | The only location that video can be viewed from is the Wyze app, or the browser web view if you have a subscription |
-| Data Storage Requirements | Hybrid | Data can be stored locally, and required if you do not have a subscription.  With a subscription both can be achieved |
-| Data Gathering Risk Score | 3 | Overall they only gather data from their products, and through their connections to third party.  They do not sell data in anyway and it is primarily used for internal information.  The Facial recognition data does NOT require consent from those being recorded, but all data is deleted after 30 days.  They do allow for the opting out of their data collection, but it requires sending an email to their support |
-| Company Vulnerability Remediation Score | 4 | They did not start disclosing vulnerabilities until about 2022 when they had their first major breach.  Since then they have done better with disclosures and making sure that the information is shared.  Their bug bounty program while existent is lacking. |
-| Company Vulnerability Transparency Score | 2 | They do not make any effort to put their vulnerability patches into their patch notes.  Instead they are put into a seperate location in their forums that is difficult to find.  It does appear that it is getting updated, but you wouldn't know it without regularly checking.  They also do not appear to have been disclosing anything before 2022 which is an issue to start. | 
-
-### Total Score: 9

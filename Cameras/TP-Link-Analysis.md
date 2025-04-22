@@ -1,4 +1,17 @@
 # Tapo Cameras
+
+## Scoring rubric
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | Hybrid  | Internet connection is required for initial setup, but beyond that the connection is not required beyond that. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | You need to connect for initials setup, and to access and download videos through the app. |
+| Data Storage Requirements | Hybrid | Both local and CLoud storage are available, and able to be easily used.  Cloud storage does require a subscription, but you only get a few advantages over local storage |
+| Data Gathering Risk Score | 1 | TP-Link actively gathers and sells the data of their users.  They will use their data for targets advertising.  They are also a company based in China, and subject to the Chinese Government |
+| Company Vulnerability Remediation Score | 2 | They do regularly patch their products, and make sure to cover disclosed vulnerabilities before the actual disclosure |
+| Company Vulnerability Transparency Score | 2 | Their patch notes do not actively share the patches of bugs and vulnerabilities, it is also quite difficult to access the patch notes.  They do share disclosures in CVEs, and periodically share security advisories, but do not actively share things | 
+
+### Total Score: 5
+
 ## Analysis
 - **Name**: Tapo
 - **Manufacturer**: TP-Link
@@ -60,15 +73,3 @@
     - This does not appear to be shared directly in their patch notes
   - No major breaches have been seen relating to Tapo, but TP-Link itself has had breaches in the past.
 [^10]: [Vulnerabilites List](/Data.md#disclosures-4)
-
-## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Hybrid  | Internet connection is required for initial setup, but beyond that the connection is not required beyond that. |
-| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | You need to connect for initials setup, and to access and download videos through the app. |
-| Data Storage Requirements | Hybrid | Both local and CLoud storage are available, and able to be easily used.  Cloud storage does require a subscription, but you only get a few advantages over local storage |
-| Data Gathering Risk Score | 1 | TP-Link actively gathers and sells the data of their users.  They will use their data for targets advertising.  They are also a company based in China, and subject to the Chinese Government |
-| Company Vulnerability Remediation Score | 2 | They do regularly patch their products, and make sure to cover disclosed vulnerabilities before the actual disclosure |
-| Company Vulnerability Transparency Score | 2 | Their patch notes do not actively share the patches of bugs and vulnerabilities, it is also quite difficult to access the patch notes.  They do share disclosures in CVEs, and periodically share security advisories, but do not actively share things | 
-
-### Total Score: 5

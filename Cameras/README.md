@@ -1,16 +1,21 @@
-## [Google Nest](Cameras\Nest-Analysis.md)
+## [Google Nest](Cameras/Nest-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | While there is local storage in cameras it cannot be accessed.  All video must be stored and accessed from the internet. |
 | Requires Constant Connection to Company Cloud Infrastructure | Yes | The only location that you can access the videos is from the Google Nest/Home apps, and all video is constantly uploaded there for analysis for events. |
 | Data Storage Requirements | Cloud | Local storage is minimal, is used for when there is network or power loss, and cannot be accessed.  All video must be stored in the cloud to be usuable |
-| Data Gathering Risk Score | 2 | Google is always gathering data, and notoriously gathers as much as possible.  They utilize video sent to their cloud to grow their services and to gather data on their users.  Once you are a part of the ecosystem everything you do with that account is tracked even beyond just the cameras |
+| Data Gathering Risk Score | 2 | Google's data gathering is primarily internal, and they do not sell their data to 3rd party entities, although they are one of the largest targets advertising providers.  The more applications that you use in their ecosystem the more data they do gather on you, and the more you are tracked.  There are extensive opt out options that they provide though. |
 | Company Vulnerability Remediation Score | 1 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022.  They don't provide any patch notes for their cameras which is interesting. |
-| Company Vulnerability Transparency Score | 1 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified.  They do not have ANY patch notes for their cameras which is a major issue that should be resolved | 
+| Company Vulnerability Transparency Score | 1 | Their bug bounty program is great and is quite active both from the user and company point of view.  They are lacking in notifications prior to 2022 which is concerning that these started 3 years after their major breach.  They do post all of their updates with the CVE number that can be checked and verified.  They do not have ANY patch notes for their cameras which is a major issue that should be resolved |
 
 ### Total Score: 4
 
-## [Wyze Cameras](Cameras\Wyze-Analysis.md)
+~[Privacy Policy](https://policies.google.com/privacy?hl=en0)~  
+~[Security Bulletins](https://support.google.com/product-documentation/topic/12823571?hl=en&ref_topic=12974021&sjid=4997332173582231755-NC)~  
+~[Nest Camera Video Storage](https://support.google.com/googlenest/answer/9242083)~  
+~[Nest Subscription Storage](https://support.google.com/googlenest/answer/9681538/#3-hour-ebr)~  
+
+## [Wyze Cameras](Cameras/Wyze-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | There is local storage but it cannot be viewed without using the Wyze app |
@@ -22,7 +27,11 @@
 
 ### Total Score: 9
 
-## [Blink Cameras](Cameras\Blink-Analysis.md)
+~[Privacy Policy](https://blinkforhome.com/privacy-policy)~  
+~[Patch Notes](https://support.blinkforhome.com/en_GB/security-and-app-updates/2016136)~  
+~[Storage Options](https://support.blinkforhome.com/en_US/using-your-camera/blink-storage-options)~  
+
+## [Blink Cameras](Cameras/Blink-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | Internet is required when viewing videos as a Blink account is required to view all videos. |
@@ -34,7 +43,12 @@
 
 ### Total Score: 7
 
-## [Tapo Cameras](Cameras\TP-Link-Analysis.md)
+~[Privacy Policy](https://www.wyze.com/policies/privacy-policy)~  
+~[Release Notes](https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware)~  
+~[Subscription Plans](https://www.wyze.com/pages/compare)~  
+~[Disclosures Listings](/Data.md#disclosures-1)~  
+
+## [Tapo Cameras](Cameras/TP-Link-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Hybrid  | Internet connection is required for initial setup, but beyond that the connection is not required beyond that. |
@@ -45,3 +59,7 @@
 | Company Vulnerability Transparency Score | 2 | Their patch notes do not actively share the patches of bugs and vulnerabilities, it is also quite difficult to access the patch notes.  They do share disclosures in CVEs, and periodically share security advisories, but do not actively share things | 
 
 ### Total Score: 5
+
+~[TP-Link Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US)~  
+~[Tapo Care](https://www.tapo.com/us//tapocare/)~  
+~[Vulnerabilites List](/Data.md#disclosures-4)~  
