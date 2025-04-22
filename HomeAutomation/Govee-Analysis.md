@@ -40,7 +40,7 @@
 
 Note:  There are several Govee names, and some Govee devices (bulbs, small appliances, etc. are actually Tuya/SmartLife).
 
-[^1]: [Encrytption vs. Non-Encryted Traffic](https://community.home-assistant.io/t/security-concerns-with-govee-devices-seeking-solutions-and-alternatives-h5072-h5075/683314/2))
+[^1]: [Encrytption vs. Non-Encryted Traffic](https://community.home-assistant.io/t/security-concerns-with-govee-devices-seeking-solutions-and-alternatives-h5072-h5075/683314/2)
 [^2]: [API Documentation](https://developer.govee.com/docs/getting-started)
 [^3]: [Chatty analysis](https://hal.science/hal-04936304/)
 [^4]: [CVE-2023-3612](https://nvd.nist.gov/vuln/detail/CVE-2023-3612) 
