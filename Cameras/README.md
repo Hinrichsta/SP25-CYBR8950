@@ -1,4 +1,4 @@
-## [Google Nest](Cameras/Nest-Analysis.md)
+## [Google Nest](./Nest-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | While there is local storage in cameras it cannot be accessed.  All video must be stored and accessed from the internet. |
@@ -10,12 +10,12 @@
 
 ### Total Score: 4
 
-~[Privacy Policy](https://policies.google.com/privacy?hl=en0)~  
-~[Security Bulletins](https://support.google.com/product-documentation/topic/12823571?hl=en&ref_topic=12974021&sjid=4997332173582231755-NC)~  
-~[Nest Camera Video Storage](https://support.google.com/googlenest/answer/9242083)~  
-~[Nest Subscription Storage](https://support.google.com/googlenest/answer/9681538/#3-hour-ebr)~  
+<sub>[Privacy Policy](https://policies.google.com/privacy?hl=en0)</sub>  
+<sub>[Security Bulletins](https://support.google.com/product-documentation/topic/12823571?hl=en&ref_topic=12974021&sjid=4997332173582231755-NC)</sub>  
+<sub>[Nest Camera Video Storage](https://support.google.com/googlenest/answer/9242083)</sub>  
+<sub>[Nest Subscription Storage](https://support.google.com/googlenest/answer/9681538/#3-hour-ebr)</sub>  
 
-## [Wyze Cameras](Cameras/Wyze-Analysis.md)
+## [Wyze Cameras](./Wyze-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | There is local storage but it cannot be viewed without using the Wyze app |
@@ -27,11 +27,11 @@
 
 ### Total Score: 9
 
-~[Privacy Policy](https://blinkforhome.com/privacy-policy)~  
-~[Patch Notes](https://support.blinkforhome.com/en_GB/security-and-app-updates/2016136)~  
-~[Storage Options](https://support.blinkforhome.com/en_US/using-your-camera/blink-storage-options)~  
+<sub>[Privacy Policy](https://blinkforhome.com/privacy-policy)</sub>  
+<sub>[Patch Notes](https://support.blinkforhome.com/en_GB/security-and-app-updates/2016136)</sub>  
+<sub>[Storage Options](https://support.blinkforhome.com/en_US/using-your-camera/blink-storage-options)</sub>  
 
-## [Blink Cameras](Cameras/Blink-Analysis.md)
+## [Blink Cameras](./Blink-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | Internet is required when viewing videos as a Blink account is required to view all videos. |
@@ -43,12 +43,12 @@
 
 ### Total Score: 7
 
-~[Privacy Policy](https://www.wyze.com/policies/privacy-policy)~  
-~[Release Notes](https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware)~  
-~[Subscription Plans](https://www.wyze.com/pages/compare)~  
-~[Disclosures Listings](/Data.md#disclosures-1)~  
+<sub>[Privacy Policy](https://www.wyze.com/policies/privacy-policy)</sub>  
+<sub>[Release Notes](https://support.wyze.com/hc/en-us/articles/360024852172-Release-Notes-Firmware)</sub>  
+<sub>[Subscription Plans](https://www.wyze.com/pages/compare)</sub>  
+<sub>[Disclosures Listings](/Data.md#disclosures-1)</sub>  
 
-## [Tapo Cameras](Cameras/TP-Link-Analysis.md)
+## [Tapo Cameras](./TP-Link-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Hybrid  | Internet connection is required for initial setup, but beyond that the connection is not required beyond that. |
@@ -60,6 +60,6 @@
 
 ### Total Score: 5
 
-~[TP-Link Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US)~  
-~[Tapo Care](https://www.tapo.com/us//tapocare/)~  
-~[Vulnerabilites List](/Data.md#disclosures-4)~  
+<sub>[TP-Link Privacy Policy](https://privacy.tp-link.com/web/official/privacy-policy?region=US)</sub>  
+<sub>[Tapo Care](https://www.tapo.com/us//tapocare/)</sub>  
+<sub>[Vulnerabilites List](/Data.md#disclosures-4)</sub>  
