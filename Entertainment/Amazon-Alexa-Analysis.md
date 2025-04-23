@@ -1,2 +1,69 @@
-# Amazon Alexa
+# Amazon Alexa & Echo Devices
+
+## Scoring rubric
+| Device Score-Category |  Rating | Reasoning | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | x | Core features work offline, but online services require an internet connection. |
+| Requires Constant Connection to Company Cloud Infrastructure | x | Some features require connection to Sony’s cloud, but offline play is possible. |
+| Data Storage Requirements | x | Uses both local storage and cloud storage for different types of data. |
+| Data Gathering Risk Score | x | Collects significant user data, including purchases, interactions, and gameplay activity. |
+| Company Vulnerability Remediation Score | x | Regular updates and a bug bounty program exist, but some patches are delayed. |
+| Company Vulnerability Transparency Score | x | Discloses major vulnerabilities but does not always provide full details. | 
+
+### Total Score: x/15
+
 ## Analysis  
+- **Name**: Amazon Alexa & Echo Devices
+- **Manufacturer**: Aamazon
+- **Country of Origin**: U.S.-Based Company | Devices Manufactured in China and other regions
+- **Platform**: Alexa Voice Services (AVS)
+
+- **Internet Requirements**:  
+    - Requires an internet connection for voice processing, cloud services, and smart home integration
+    - Amazon account required for full device functionality and personalized services
+    - Cloud services include voice recognition, user preferences, and smart device management
+
+- **Authentication**:  
+    - Amazon accounts require an email address and password
+    - Two-factor authentication (2FA) available and encouraged, especially after past breaches 
+    - Account recovery includes email/phone verification and password reset options
+
+- **Data Transmission Security**:  
+    - Uses HTTPS and TLS encryption for voice data and cloud communication
+    - Voice recordings are encrypted and stored on Amazon’s cloud infrastructure
+    - Past vulnerabilities involved potential voice injection and improper access controls
+
+- **Physical Security**:  
+    - No TPM in most Alexa devices; secure boot mechanisms implemented in newer models
+    - Echo devices are not hardened against physical tampering or offline access
+    - Microphone mute button is physical, offering a hardware-level disconnect
+
+- **Storage**:  
+    - Voice recordings and interaction logs stored in Amazon’s cloud, with user access via account dashboard
+    - No end-user control over encryption of stored voice data
+    - Local device storage used for minimal caching and temporary data
+
+- **Data Requirements**:  
+    - Continuous internet connection needed for real-time processing
+    - Firmware updates delivered periodically and automatically
+    - Voice and smart home data frequently synced to the cloud
+
+- **Data Gathering**:  
+    - Collects voice recordings, device interactions, smart home activity, and usage patterns
+    - Data used for improving AI, personalization, and targeted advertising
+    - Privacy settings allow deletion of voice history and management of permissions, though defaults favor data retention
+
+- **Vulnerability Remediation**:  
+    - Regular firmware and cloud-side updates address vulnerabilities and performance
+    - Amazon Vulnerability Research Program (VRP) offers structured disclosure channels
+    - Actively engages with security researchers and issues timely patches
+ 
+- **Vulnerability Transparency**:  
+    - Major vulnerabilities disclosed via Amazon's security bulletins and coordinated disclosures
+    - **Past breaches and vulnerabilities**:  
+        - **2017 – KRACK Wi-Fi Attack (CVE-2017-13077 & CVE-2017-13078)** –  WPA2 vulnerability in 1st-gen Echo devices
+        - **2018 – Alexa Skill Eavesdropping (CVE-2018-11567)** – Malicious skills could secretly record users
+        - **2020 – Echo Show RCE (ZDI-20-537)** - Integer overflow allowed remote code execution via malicious pages
+        - **2022 – "Alexa vs. Alexa" Attack (CVE-2022-25809)** - Self-triggered voice commands via malicious Bluetooth or skills
+        - **2023 – Near-Ultrasound Command Injection (CVE-2023-33248)** – Inaudible frequency voice injection on Echo Dot 2nd/3rd gen
+        - **2020 – Alexa Web Service Exploitation** – Allowed attackers to access voice history via crafted links
