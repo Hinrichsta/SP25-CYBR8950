@@ -1,4 +1,17 @@
 # PlayStation 5 & PlayStation Network
+
+## Scoring rubric
+| Device Score-Category |  Rating | Reasoning | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Some features require connection to Sony’s cloud, but offline play is possible. |
+| Data Storage Requirements | Hybrid | Uses both local storage and cloud storage for different types of data. |
+| Data Gathering Risk Score | 2 | Collects significant user data, including purchases, interactions, and gameplay activity. |
+| Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
+| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
+
+### Total Score: 9/15
+
 ## Analysis  
 - **Name**: PlayStation 5 & PlayStation Network (PSN)  
 - **Manufacturer**: Sony Interactive Entertainment  
@@ -50,15 +63,3 @@
         - **2011 PlayStation Network breach** – Exposed data of 77 million users, leading to major security overhauls  
         - **2022 PlayStation 4 & 5 exFAT vulnerability (CVE-2022-3349)** – Heap-based buffer overflow risk  
         - **2024 PlayStation WebKit vulnerability** – Affected both PlayStation 4 and 5, allowing potential code execution
-
-## Scoring rubric
-| Device Score-Category |  Rating | Reasoning | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Some features require connection to Sony’s cloud, but offline play is possible. |
-| Data Storage Requirements | Hybrid | Uses both local storage and cloud storage for different types of data. |
-| Data Gathering Risk Score | 2 | Collects significant user data, including purchases, interactions, and gameplay activity. |
-| Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
-| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
-
-### Total Score: 9/15
