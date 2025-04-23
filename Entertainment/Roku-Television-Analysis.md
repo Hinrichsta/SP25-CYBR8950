@@ -1,4 +1,17 @@
 # Roku Television
+
+## Scoring rubric
+| Device Score-Category |  Rating | Reasoning | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection | x | Core features work offline, but online services require an internet connection. |
+| Requires Constant Connection to Company Cloud Infrastructure | x | Some features require connection to Sony’s cloud, but offline play is possible. |
+| Data Storage Requirements | x | Uses both local storage and cloud storage for different types of data. |
+| Data Gathering Risk Score | x | Collects significant user data, including purchases, interactions, and gameplay activity. |
+| Company Vulnerability Remediation Score | x | Regular updates and a bug bounty program exist, but some patches are delayed. |
+| Company Vulnerability Transparency Score | x | Discloses major vulnerabilities but does not always provide full details. | 
+
+### Total Score: x/15
+
 ## Analysis  
 - **Name**: Roku Television & Roku Platform
 - **Manufacturer**: Roku, Inc.
@@ -54,15 +67,3 @@
            - (CVE-2023-6322) – Buffer overflow in message parsing
            - (CVE-2023-6324) – DTLS hash-based hijack enabling command access
         - **2024 - Credential Stuffing Incidents** - Over 500,000 Roku accounts compromised due to reused passwords from unrelated breaches. Roku enforced 2FA and reset passwords.
-
-## Scoring rubric
-| Device Score-Category |  Rating | Reasoning | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection | x | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | x | Some features require connection to Sony’s cloud, but offline play is possible. |
-| Data Storage Requirements | x | Uses both local storage and cloud storage for different types of data. |
-| Data Gathering Risk Score | x | Collects significant user data, including purchases, interactions, and gameplay activity. |
-| Company Vulnerability Remediation Score | x | Regular updates and a bug bounty program exist, but some patches are delayed. |
-| Company Vulnerability Transparency Score | x | Discloses major vulnerabilities but does not always provide full details. | 
-
-### Total Score: x/15
