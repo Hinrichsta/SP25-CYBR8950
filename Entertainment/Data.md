@@ -138,11 +138,11 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
 
 ## [Vtech](https://www.vtechkids.com/) Toys 
 - VTech is a major manufacturer of electronic learning toys, offering smart devices designed for children. Their products often include internet connectivity, cloud storage, and interactive features, which also means they collect and process user data.
-- All data is stored on VTech’s cloud platform "VTech Cloud" and linked to user accounts, primarily through services like Kid Connect.
+- All data is stored on VTech’s cloud platform, "VTech Cloud," and linked to user accounts, primarily through services like Kid Connect.
 - VTech provides software updates to improve security and functionality.
 - ### Concerns
    - VTech collects personal data, including children's names, birthdates, and voice recordings.
-   - Many features require an account and internet connection.
+   - Many features require an account and an internet connection.
    - In 2015, VTech suffered a major data breach, exposing the personal information of over 6 million children and parents.
 ### Documentation
 - Manufacturer Information
@@ -152,3 +152,16 @@ violations](https://dl.acm.org/doi/abs/10.1145/3579856.3582834)
   - [The Internet of Toys](https://www.tandfonline.com/doi/abs/10.1080/22041451.2016.1266124)
   - [Pictures of Children' 'In Vtech Hack](https://www.bbc.com/news/technology-34971337)
   - [Electronic Toy Maker VTech Settles FTC Allegations That it Violated Children’s Privacy Law and the FTC Act](https://www.ftc.gov/news-events/news/press-releases/2018/01/electronic-toy-maker-vtech-settles-ftc-allegations-it-violated-childrens-privacy-law-ftc-act)
+ 
+### Security
+
+#### Disclosures
+   - November 2015 - [VTech Data Breach](https://www.ftc.gov/news-events/news/press-releases/2018/01/electronic-toy-maker-vtech-settles-ftc-allegations-it-violated-childrens-privacy-law-ftc-act)
+      - A hacker gained access to VTech’s servers, compromising the personal data of approximately 6.4 million children and 4.9 million parents. The stolen data included names, email addresses, passwords, security questions, children's birthdates, and even photos and chat logs exchanged through the Kid Connect app. The breach was possible due to outdated and insecure encryption practices, as well as a lack of basic security protections such as HTTPS and input validation.
+   - December 2017 - VTech Settles with FTC
+      - Following the 2015 breach, the U.S. Federal Trade Commission alleged that VTech violated the Children’s Online Privacy Protection Act (COPPA) by failing to obtain verifiable parental consent before collecting personal data from children. The settlement included a $650,000 fine and a mandatory overhaul of VTech’s data security and privacy practices.
+
+#### Breaches
+   - 2015 - VTech Hack
+      - This incident remains one of the most high-profile data breaches involving children’s IoT devices. It revealed major shortcomings in VTech’s handling of sensitive information and its security architecture, including unencrypted databases and poor authentication mechanisms. The breach led to increased scrutiny and sparked international debate about privacy in children's smart toys, influencing industry practices and parental awareness.  
+
