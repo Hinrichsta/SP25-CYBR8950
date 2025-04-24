@@ -19,19 +19,24 @@
 - **Platform**: Alexa Voice Services (AVS)
 
 - **Internet Requirements**:  
-    - Requires an internet connection for voice processing, cloud services, and smart home integration
+    - Requires an internet connection for voice processing, cloud services, and smart home integration [^1]
     - Amazon account required for full device functionality and personalized services
     - Cloud services include voice recognition, user preferences, and smart device management
+[^1]: [Aamazon Device Requirements](https://developer.amazon.com/en-US/docs/alexa/smarthome/wwa-device-requirements.html)
 
 - **Authentication**:  
     - Amazon accounts require an email address and password
-    - Two-factor authentication (2FA) available and encouraged, especially after past breaches 
+    - Two-factor authentication (2FA) available and encouraged, especially after past breaches [^2]
     - Account recovery includes email/phone verification and password reset options
+[^2]: [Multi-Factor Authentication](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9MX9LXNWXFKMJYU)
 
 - **Data Transmission Security**:  
-    - Uses HTTPS and TLS encryption for voice data and cloud communication
-    - Voice recordings are encrypted and stored on Amazon’s cloud infrastructure
+    - Uses HTTPS and TLS encryption for voice data and cloud communication [^3]
+    - Voice recordings are encrypted and stored on Amazon’s cloud infrastructure [^4]
     - Past vulnerabilities involved potential voice injection and improper access controls
+
+[^3]: [Developer WWA-Security](https://developer.amazon.com/en-US/docs/alexa/smarthome/wwa-security.html)
+[^4]: [Alexa Privacy Hub](https://www.amazon.com/Alexa-Privacy-Hub/b?ie=UTF8&node=19149155011)
 
 - **Physical Security**:  
     - No TPM in most Alexa devices; secure boot mechanisms implemented in newer models
