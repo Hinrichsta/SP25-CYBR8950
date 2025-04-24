@@ -1,3 +1,16 @@
+## Scoring rubric
+| Device Score-Category |  Rating | Description of Ratings | 
+| :---: | :---: | :---: | 
+| Requires Constant Internet Connection |  |  |
+| Requires Constant Connection to Company Cloud Infrastructure |  |  |
+| Data Storage Requirements |  |  |
+| Data Gathering Risk Score |  |  |
+| Company Vulnerability Remediation Score |  |  |
+| Company Vulnerability Transparency Score |  |  | 
+
+### Total Score: 
+
+
 # Samsung Smart Fridge
 ## Analysis
 - **Name**: 
@@ -23,14 +36,3 @@
 - **Vulnerability Transparency**
   - a
 
-## Scoring rubric
-| Device Score-Category |  Rating | Description of Ratings | 
-| :---: | :---: | :---: | 
-| Requires Constant Internet Connection |  |  |
-| Requires Constant Connection to Company Cloud Infrastructure |  |  |
-| Data Storage Requirements |  |  |
-| Data Gathering Risk Score |  |  |
-| Company Vulnerability Remediation Score |  |  |
-| Company Vulnerability Transparency Score |  |  | 
-
-### Total Score: 
