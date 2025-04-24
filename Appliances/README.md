@@ -13,10 +13,10 @@
 <sub>[LG Range ThinQ Features and Settings](https://www.lg.com/us/support/help-library/lg-range-thinq-features-and-settings--20152599676255)</sub>  
 <sub>[LG ThinQ - Apps on Google Play](https://play.google.com/store/apps/details?hl=en_US&id=com.lgeha.nuts)</sub>   
 <sub>[LG ThinQ Smart Home Platform](https://www.lg.com/us/lg-thinq)</sub>  
-<sub>[Connecting Your Device to the LG ThinQ App via Wi-Fi](https://www.lg.com/us/support/help-library/lg-thinq-connecting-your-device-to-the-lg-thinq-app-via-wi-fi--20153147863991)</sub> 
-<sub>[Check Point + LG ThinQ Security Partnership](https://www.checkpoint.com/press-releases/check-point-joins-forces-lg-secure-smart-home-devices/)</sub> 
-<sub>[Smart Appliances Promise Convenience and Innovation.](https://www.consumerreports.org/electronics/privacy/smart-appliances-and-privacy-a1186358482/)</sub> 
-<sub>[Press Release](https://www.lg.com/us/press-release)</sub> 
+<sub>[Connecting Your Device to the LG ThinQ App via Wi-Fi](https://www.lg.com/us/support/help-library/lg-thinq-connecting-your-device-to-the-lg-thinq-app-via-wi-fi--20153147863991)</sub>  
+<sub>[Check Point + LG ThinQ Security Partnership](https://www.checkpoint.com/press-releases/check-point-joins-forces-lg-secure-smart-home-devices/)</sub>  
+<sub>[Smart Appliances Promise Convenience and Innovation.](https://www.consumerreports.org/electronics/privacy/smart-appliances-and-privacy-a1186358482/)</sub>  
+<sub>[Press Release](https://www.lg.com/us/press-release)</sub>  
 <sub>[OWNER'S MANUAL - ELECTRIC RANGE](https://images.thdstatic.com/catalog/pdfImages/3a/3a30b356-0070-467b-8632-16136d513971.pdf)</sub> 
 
 ## [AEG Smart Oven](AEG-Oven-Analysis.md)
@@ -35,7 +35,8 @@
 <sub>[PROTECTION OF YOUR PERSONAL DATA](https://www.electroluxgroup.com/privacy/en/)</sub>   
 <sub>[Collection Statement](https://www.electrolux.com.au/privacy/)</sub>  
 <sub>[PRIVACY POLICY](https://www.electroluxprofessional.com/au/data-privacy-statement/)</sub>  
-<sub>[AEG Built-in Electric Single Oven](https://www.harveynorman.ie/home-appliances/cooking-appliances/ovens/single-ovens/aeg-built-in-electric-single-oven-bpe948730m.html?)</sub> <sub>[Smart ovens do really dumb stuff to check for Wi-Fi](https://www.theregister.com/2023/01/26/smart_ovens_do_dumb_stuff/?)</sub>  
+<sub>[AEG Built-in Electric Single Oven](https://www.harveynorman.ie/home-appliances/cooking-appliances/ovens/single-ovens/aeg-built-in-electric-single-oven-bpe948730m.html?)</sub>  
+<sub>[Smart ovens do really dumb stuff to check for Wi-Fi](https://www.theregister.com/2023/01/26/smart_ovens_do_dumb_stuff/?)</sub>  
 <sub>[Electrolux Australia Privacy Policy](https://shop.aegaustralia.com.au/privacy-policy/?)</sub>   
 <sub>[How to connect your AEG oven to the app](https://support.aeg.co.uk/support-articles/article/how-to-connect-your-aeg-oven-to-the-app?srsltid=AfmBOoo51VIrCwyCxVGC4U8XCghLNxq80ch3WJxCZkJZQzaRpHsqez2w&locale=en-GB)</sub>  
 
