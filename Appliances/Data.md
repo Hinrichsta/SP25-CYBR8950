@@ -1,7 +1,7 @@
 # Appliances
 
 
-## [ThinQ](https://thinq.developer.lge.com/en/cloud/docs/thinq-connect/overview/)
+## [LG - ThinQ](https://thinq.developer.lge.com/en/cloud/docs/thinq-connect/overview/)
 - Smart appliances like refridgerators use LG’s ThinQ platform and it is known as one of the leading ecosystems for connected appliances. It allows users to control and monitor them remotely via the ThinQ mobile app. Integrating features like voice assistants is also supported.
 - Since these appliances require a connection to the internet, most of the data and functionality is cloud-based. The features are also only managed by the Mobile App and this inherits various concerns about privacy, data security, and long-term support.
   
@@ -42,7 +42,7 @@ Long-term software update support and patching cadence for older appliances is u
   - [Bug Bountry program](https://lgsecurity.lge.com/rewards)
 
 
-## []()
+## [AEG - ]()
 - 
   
 - ### Concerns
@@ -60,7 +60,7 @@ Long-term software update support and patching cadence for older appliances is u
   - [Bug Bountry program]()
 
 
-## []()
+## [Beko - ]()
 - 
   
 - ### Concerns
@@ -78,7 +78,7 @@ Long-term software update support and patching cadence for older appliances is u
   - [Bug Bountry program]()
 
 
-## []()
+## [Samsung - ]()
 - 
   
 - ### Concerns
