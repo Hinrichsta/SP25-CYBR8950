@@ -3,12 +3,12 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Hybrid | Basic functions operate offline; smart features require internet connectivity. |
-| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Cloud connection enhances functionality but is not mandatory for core operations. |
-| Data Storage Requirements | Hybrid | Combination of local storage for settings and cloud storage for user data. |
-| Data Gathering Risk Score | 3 | Moderate data collection, including usage patterns and personal preferences. |
-| Company Vulnerability Remediation Score | 4 | Proactive security measures and regular updates through Samsung Knox. |
-| Company Vulnerability Transparency Score | 3 | Addresses vulnerabilities but lacks detailed public disclosures. | 
+| Requires Constant Internet Connection | Hybrid | Basic functions operate offline, but smart features require internet connectivity.[^1] |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Cloud connection enhances functionality but is not mandatory for core operations.[^1][^3] |
+| Data Storage Requirements | Hybrid | Combination of local storage for settings and cloud storage for user data.[^3] |
+| Data Gathering Risk Score | 3 | Moderate data collection, including usage patterns and personal preferences.[^5][^6] |
+| Company Vulnerability Remediation Score | 4 | Proactive security measures and regular updates through Samsung Knox.[^3][^7] |
+| Company Vulnerability Transparency Score | 3 | Addresses vulnerabilities but lacks detailed public disclosures.[^3][^7] | 
 
 ### Total Score: 10
 
