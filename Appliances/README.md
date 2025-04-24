@@ -1,19 +1,23 @@
 ## [LG Smart Oven](LG-Oven-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes/No | Internet |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes/No | loud Infrastructure. |
-| Data Storage Requirements | Cloud | Local/Cloud |
-| Data Gathering Risk Score | 1-5 | Risk Score |
-| Company Vulnerability Remediation Score | 1-5 | Remediation Score |
-| Company Vulnerability Transparency Score | 1-5 | Transparency Score | 
+| Requires Constant Internet Connection | Hybrid | Basic functions operate offline; advanced features require internet connectivity. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Core functions are local; cloud connection needed for remote features. |
+| Data Storage Requirements | Hybrid | Operational data stored locally. Usage stats and preferences stored in the cloud. |
+| Data Gathering Risk Score | 3 | Moderate data collection, including usage patterns and diagnostics. |
+| Company Vulnerability Remediation Score | 4 | Known vulnerabilities have been addressed with patches and proactive measures are in place. |
+| Company Vulnerability Transparency Score | 3 | Security bulletins are published, but appliance-specific disclosures are less frequent.| 
 
-### Total Score: XX
+### Total Score: 10
 
-<sub>[title](url)</sub>  
-<sub>[title](url)</sub>   
-<sub>[title](url)</sub>  
-<sub>[title](url)</sub> 
+<sub>[LG Range ThinQ Features and Settings](https://www.lg.com/us/support/help-library/lg-range-thinq-features-and-settings--20152599676255)</sub>  
+<sub>[LG ThinQ - Apps on Google Play](https://play.google.com/store/apps/details?hl=en_US&id=com.lgeha.nuts)</sub>   
+<sub>[LG ThinQ Smart Home Platform](https://www.lg.com/us/lg-thinq)</sub>  
+<sub>[Connecting Your Device to the LG ThinQ App via Wi-Fi](https://www.lg.com/us/support/help-library/lg-thinq-connecting-your-device-to-the-lg-thinq-app-via-wi-fi--20153147863991)</sub> 
+<sub>[Check Point + LG ThinQ Security Partnership](https://www.checkpoint.com/press-releases/check-point-joins-forces-lg-secure-smart-home-devices/)</sub> 
+<sub>[Smart Appliances Promise Convenience and Innovation.](https://www.consumerreports.org/electronics/privacy/smart-appliances-and-privacy-a1186358482/)</sub> 
+<sub>[Press Release](https://www.lg.com/us/press-release)</sub> 
+<sub>[OWNER'S MANUAL - ELECTRIC RANGE](https://images.thdstatic.com/catalog/pdfImages/3a/3a30b356-0070-467b-8632-16136d513971.pdf)</sub> 
 
 ## [AEG Smart Oven](AEG-Oven-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
