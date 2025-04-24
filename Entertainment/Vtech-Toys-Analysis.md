@@ -1,4 +1,4 @@
-# VTech Toys
+# VTech Connected Toys & VTech Cloud
 
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
