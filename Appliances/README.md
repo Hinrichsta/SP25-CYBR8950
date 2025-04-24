@@ -8,6 +8,13 @@
 | Company Vulnerability Remediation Score | 1-5 | Remediation Score |
 | Company Vulnerability Transparency Score | 1-5 | Transparency Score | 
 
+### Total Score: XX
+
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub>   
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub>  
+
 
 ## [AEG Smart Oven](AEG-Oven-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -19,6 +26,12 @@
 | Company Vulnerability Remediation Score | 1-5 | Remediation Score |
 | Company Vulnerability Transparency Score | 1-5 | Transparency Score | 
 
+### Total Score: XX
+
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub>   
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub> 
 
 ## [Samsung Smart Fridge](Samsung-Fridge-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
@@ -30,6 +43,12 @@
 | Company Vulnerability Remediation Score | 1-5 | Remediation Score |
 | Company Vulnerability Transparency Score | 1-5 | Transparency Score | 
 
+### Total Score: XX
+
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub>   
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub>  
 
 
 ## [Beko Smart Fridge](Beko-Fridge-Analysis.md)
@@ -42,5 +61,11 @@
 | Company Vulnerability Remediation Score | 1-5 | Remediation Score |
 | Company Vulnerability Transparency Score | 1-5 | Transparency Score | 
 
+### Total Score: XX
+
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub>   
+<sub>[title](url)</sub>  
+<sub>[title](url)</sub> 
 
 
