@@ -1,14 +1,14 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection |  |  |
-| Requires Constant Connection to Company Cloud Infrastructure |  |  |
-| Data Storage Requirements |  |  |
-| Data Gathering Risk Score |  |  |
-| Company Vulnerability Remediation Score |  |  |
-| Company Vulnerability Transparency Score |  |  | 
+| Requires Constant Internet Connection | Hybrid | Device operates offline, but remote features require cloud.[^1] |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Cloud not needed for basic operation, but many smart features depend on HomeWhiz.[^1] |
+| Data Storage Requirements | Hybrid | Some settings stored locally, usage data stored in HomeWhiz cloud.[^3] |
+| Data Gathering Risk Score | 4 | Limited telemetry collected (door use, energy); used only for functionality.[^2] |
+| Company Vulnerability Remediation Score | 4 | Coordinated disclosure process, IASME-certified, but no bug bounty.[^4] [^5] |
+| Company Vulnerability Transparency Score | 4 | No public CVEs, but third-party certification and clear disclosure policy.[^4] [^5] | 
 
-### Total Score: 
+### Total Score: 12
 
 # Beko Smart Fridge
 ## Analysis
