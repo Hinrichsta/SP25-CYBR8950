@@ -17,10 +17,13 @@
 - **Country of Origin**: Turkey
 - **Platform**: HomeWiz IoT Ecosystem
 - **Internet Requirements**:
-    - Not required to utilize device, but remote control features are unavailable if not connected. 
+    - Not required to utilize device, but remote control features are unavailable if not connected.[^1] [^2]
+[^1]: [HomeWhiz Setup](https://documents.beko.com/WM/7178571300/en-GB/126007307153201419.html)
+[^2]: [Smart Home Integration with Beko Appliances](https://www.beko.com/gulf/ae-en/Blog/tips-and-tricks/smart-home-integration-with-beko-appliances)
 - **Authentication**
-    - User authentication is required to access HomeWiz App, MFA not enforced by default.
-    - Requires Wi-Fi credentials during setup and stores information like temperature logs, usage stats, and connected account info.
+    - User authentication is required to access HomeWiz App, MFA not enforced by default.[^3]
+    - Requires Wi-Fi credentials during setup and stores information like temperature logs, usage stats, and connected account info.[^1]
+[^3]: [A secure connected home](https://www.homewhiz.com/security/)
 - **Data Transmission Security**
     - HomeWiz has a IASME IoT Security Assured certification, and this confirms they use encrypted communication protocols HTTPS/TLS for cloud interactions and data transmissions between the device and app.
 - **Physical Security**
