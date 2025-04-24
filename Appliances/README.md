@@ -42,19 +42,22 @@
 ## [Samsung Smart Fridge](Samsung-Fridge-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes/No | Internet |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes/No | loud Infrastructure. |
-| Data Storage Requirements | Cloud | Local/Cloud |
-| Data Gathering Risk Score | 1-5 | Risk Score |
-| Company Vulnerability Remediation Score | 1-5 | Remediation Score |
-| Company Vulnerability Transparency Score | 1-5 | Transparency Score | 
+| Requires Constant Internet Connection | Hybrid | Basic functions operate offline, but smart features require internet connectivity. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Cloud connection enhances functionality but is not mandatory for core operations. |
+| Data Storage Requirements | Hybrid | Combination of local storage for settings and cloud storage for user data. |
+| Data Gathering Risk Score | 3 | Moderate data collection, including usage patterns and personal preferences. |
+| Company Vulnerability Remediation Score | 4 | Proactive security measures and regular updates through Samsung Knox. |
+| Company Vulnerability Transparency Score | 3 | Addresses vulnerabilities but lacks detailed public disclosures. | 
 
-### Total Score: XX
+### Total Score: 10
 
-<sub>[title](url)</sub>  
-<sub>[title](url)</sub>   
-<sub>[title](url)</sub>  
-<sub>[title](url)</sub>  
+<sub>[Samsung Family Hub Overview – Smart Features](https://www.samsung.com/us/explore/family-hub-refrigerator/overview/)</sub>  
+<sub>[Samsung SmartThings App - Account Login Requirements](https://www.samsung.com/us/support/owners/app/family-hub/)</sub>  
+<sub>[Samsung Privacy & Security Policy](https://www.samsung.com/us/account/our-approach-to-privacy/)</sub>   
+<sub>[Samsung Wi-Fi Troubleshooting – Family Hub](https://www.samsung.com/us/support/troubleshooting/TSG01109770/)</sub>  
+<sub>[Samsung Smart Fridge - View Inside & Meal Planner](https://www.samsung.com/us/support/answer/ANS00049761/)</sub>  
+<sub>[Ethical Hacking of a Smart Fridge (DiVA Portal)](https://www.diva-portal.org/smash/get/diva2:1596057/FULLTEXT01.pdf)</sub>  
+<sub>[Samsung Smart Appliance Security – TechRadar](https://www.techradar.com/computing/heres-why-samsung-has-built-the-worlds-most-secure-smart-fridge-and-a-host-of-other-super-secure-appliances)</sub>
 
 
 ## [Beko Smart Fridge](Beko-Fridge-Analysis.md)
