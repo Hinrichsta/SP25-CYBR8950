@@ -1,3 +1,5 @@
+# AEG Smart Oven
+
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
@@ -10,7 +12,6 @@
 
 ### Total Score: 10
 
-# AEG Smart Oven
 ## Analysis
 - **Name**: AEG Smart Oven
 - **Manufacturer**: AEG - Parent Company: Electrolux Group
