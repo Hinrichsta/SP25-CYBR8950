@@ -40,28 +40,33 @@
 
 - **Physical Security**:  
     - No TPM in most Alexa devices; secure boot mechanisms implemented in newer models
-    - Echo devices are not hardened against physical tampering or offline access
+    - Echo devices are not hardened against physical tampering (such as dolphin attacks) [^5]
     - Microphone mute button is physical, offering a hardware-level disconnect
 
+[^5]: [Dolphin Attacks 3.2](https://www.sciencedirect.com/science/article/pii/S2667295222000393#:~:text=3.2.&text=These%20vulnerabilities%20can%20be%20exploited,avenue%20for%20attacking%20%5B11%5D.)
+
 - **Storage**:  
-    - Voice recordings and interaction logs stored in Amazon’s cloud, with user access via account dashboard
+    - Voice recordings and interaction logs stored in Amazon’s cloud (when voice-activated) [^6] 
     - No end-user control over encryption of stored voice data
     - Local device storage used for minimal caching and temporary data
 
-- **Data Requirements**:  
-    - Continuous internet connection needed for real-time processing
-    - Firmware updates delivered periodically and automatically
-    - Voice and smart home data frequently synced to the cloud
+[^6]: [Alexa, Echo Devices, and Your Privacy](https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V)
 
-- **Data Gathering**:  
+- **Data Requirements**:
+    - Continuous internet connection required for real-time processing
+    - Firmware updates delivered periodically and installed upon request ("check for software updates")
+
+- **Data Gathering**:  [^6]     
     - Collects voice recordings, device interactions, smart home activity, and usage patterns
     - Data used for improving AI, personalization, and targeted advertising
     - Privacy settings allow deletion of voice history and management of permissions, though defaults favor data retention
 
 - **Vulnerability Remediation**:  
     - Regular firmware and cloud-side updates address vulnerabilities and performance
-    - Amazon Vulnerability Research Program (VRP) offers structured disclosure channels
+    - Amazon Vulnerability Research Program (VRP) offers structured disclosure channels [^7]
     - Actively engages with security researchers and issues timely patches
+
+[^7]: [Amazon Vulnerability Research Program](https://hackerone.com/amazonvrp?type=team)
  
 - **Vulnerability Transparency**:  
     - Major vulnerabilities disclosed via Amazon's security bulletins and coordinated disclosures
