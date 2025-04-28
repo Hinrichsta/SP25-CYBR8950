@@ -19,29 +19,34 @@
 - **Platform**: PlayStation Network (PSN)  
 
 - **Internet Requirements**:  
-    - Requires an internet connection for online multiplayer, cloud saves, and digital purchases  
+    - Requires an internet connection for online multiplayer, cloud saves, and digital purchases [^1] 
     - PlayStation Plus subscription required for most online multiplayer games  
     - Cloud storage available for PlayStation Plus subscribers  
 
 - **Authentication**:  
-    - PlayStation accounts require a username and password  
+    - PlayStation accounts require a username and password [^1]
     - Two-factor authentication (2FA) is available but not mandatory  
     - Account recovery options include email and backup codes  
     - Family sharing allows multiple users to access games and subscriptions  
 
-- **Data Transmission Security**:  
-    - Uses TLS/SSL encryption for account and transaction security  
-    - Network communication is encrypted to protect user data and prevent unauthorized access  
+[^1]: [How to set up an internet connection on PlayStation consoles](https://www.playstation.com/en-us/support/connectivity/internet-connect-playstation/)
 
-- **Physical Security**:  
-    - PlayStation 5 has a secure boot process to prevent unauthorized firmware modifications  
+- **Data Transmission Security**: [^2]  
+    - Uses TLS/SSL encryption for account and transaction security  
+    - Network communication is encrypted to protect user data and prevent unauthorized access
+ 
+[^2]: [Online Safety, Account Security, and Privacy](https://www.playstation.com/en-us/privacy-security-safety/)
+
+- **Physical Security**:   
     - Hardware-based Trusted Platform Module (TPM) ensures integrity checks  
-    - Physical USB and disc drive access are limited by system permissions  
+    - Physical USB and disc drive access are limited by system permissions [^3]
+ 
+[^3] [USB drive on PS5 & PS4 Consoles](http://playstation.com/en-us/support/hardware/play-video-music-discs-usb-drives/#:~:text=How%20to%20play%20video%20from,exFAT%20or%20FAT32%20file%20system.&text=Using%20a%20computer%2C%20create%20a,video%20files%20in%20the%20folder.) 
 
 - **Storage**:  
     - Cloud storage available for PlayStation Plus members for game saves  
     - Internal SSD for fast game loading and storage encryption  
-    - External USB storage supported for additional game storage, but not for PS5-native games  
+    - External USB storage supported for additional game storage [^3]
 
 - **Data Requirements**:  
     - Online gaming requires a stable internet connection (minimum 5 Mbps, recommended 15-25 Mbps for high-performance gaming)  
