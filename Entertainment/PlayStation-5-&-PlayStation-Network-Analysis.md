@@ -41,7 +41,7 @@
     - Hardware-based Trusted Platform Module (TPM) ensures integrity checks  
     - Physical USB and disc drive access are limited by system permissions [^3]
  
-[^3] [USB drive on PS5 & PS4 Consoles](http://playstation.com/en-us/support/hardware/play-video-music-discs-usb-drives/#:~:text=How%20to%20play%20video%20from,exFAT%20or%20FAT32%20file%20system.&text=Using%20a%20computer%2C%20create%20a,video%20files%20in%20the%20folder.) 
+[^3]: [USB drive on PS5 & PS4 Consoles](http://playstation.com/en-us/support/hardware/play-video-music-discs-usb-drives/#:~:text=How%20to%20play%20video%20from,exFAT%20or%20FAT32%20file%20system.&text=Using%20a%20computer%2C%20create%20a,video%20files%20in%20the%20folder.) 
 
 - **Storage**:  
     - Cloud storage available for PlayStation Plus members for game saves  
