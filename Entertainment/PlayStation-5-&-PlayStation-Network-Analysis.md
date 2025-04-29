@@ -49,18 +49,20 @@
     - External USB storage supported for additional game storage [^3]
 
 - **Data Requirements**:  
-    - Online gaming requires a stable internet connection (minimum 5 Mbps, recommended 15-25 Mbps for high-performance gaming)  
-    - Game updates and downloads can be large, often exceeding 50 GB for modern titles  
+    - Online gaming requires a stable internet connection [^1] (minimum 5 Mbps, recommended 15-25 Mbps for high-performance gaming)  
 
 - **Data Gathering**:  
     - Collects user gameplay activity, interactions, purchases, and communication logs  
     - Data is used for personalized recommendations, marketing, and service improvements  
-    - Privacy settings allow users to limit data collection and sharing  
+    - Privacy settings allow users to limit data collection and sharing  [^2]  
 
 - **Vulnerability Remediation**:  
     - Regular system updates and patches to address security vulnerabilities  
     - Security team monitors and responds to emerging threats  
-    - Bug bounty program through [HackerOne](https://hackerone.com/playstation) for vulnerability reporting  
+    - Bug bounty program through [HackerOne](https://hackerone.com/playstation) for vulnerability reporting [^4] [^5]
+
+[^4]: [hacker-one-sony](https://hackerone.com/sony)
+[^5]: [hacker-one-playstation](https://hackerone.com/playstation)
 
 - **Vulnerability Transparency**:  
     - Discloses security updates via official PlayStation blog and support pages  
