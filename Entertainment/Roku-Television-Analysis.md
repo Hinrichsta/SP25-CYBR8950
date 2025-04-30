@@ -19,39 +19,45 @@
 - **Platform**: Roku OS & The Roku Channel
 
 - **Internet Requirements**:  
-    - Requires an internet connection for streaming services, app updates, and cloud-based features
+    - Requires an internet connection for streaming services, app updates, and cloud-based features [^1]
     - Roku account required for full device functionality and personalization 
     - Cloud services include content syncing, device preferences, and advertising personalization
 
+[^1]: [Connect your Roku streaming device to the internet](https://support.roku.com/article/115015760328)
+
 - **Authentication**:  
-    - Roku accounts require an email address and password
-    - Two-factor authentication (2FA) is supported but only enforced during incidents 
-    - Account recovery includes email verification and password reset options
+    - Roku accounts require an email address and password [^2]
+    - Two-factor authentication (2FA) is required [^2]
+ 
+[^2]: [How to use two-step verification to sign in to your Roku account](https://support.roku.com/article/22482363662103)
 
 - **Data Transmission Security**:  
-    - Utilizes HTTPS and TLS encryption for data transmission
+    - Utilizes HTTPS and TLS encryption for data transmission [^3]
     - Cloud communication and app traffic are secured, but may depend on third-party integrations
-    - Vulnerabilities have existed in local network control APIs
+  
+[^3]: [Roku Data Processing Terms](https://docs.roku.com/published/dataprocessingterms/en/gb)
 
 - **Physical Security**:  
-    - No TPM or secure boot mechanisms publicly disclosed for most Roku devices
-    - Devices are designed for open accessibility, not hardened against physical tampering
-    - USB ports and HDMI interfaces do not offer encryption or access restriction features
+    - Roku platform has been designed to be hardened against unauthorized attack [^4]
+    - Roku OS also supports HDCP for content copy protection between the Roku player's HDMI port [^7]
+
+[^4]: [Security on the Roku platform](https://developer.roku.com/docs/features/security.md)
+[^7]: [DRM & content protection](https://developer.roku.com/docs/specs/media/content-protection.md)
 
 - **Storage**:  
     - Cloud storage used for account preferences, watch history, and system settings
-    - Devices typically use internal flash storage for app data and caching
-    - No end-user encryption control over local or cloud-stored data
+    - Roku devices have small storage spaces as they do not contain the streamed content, but rather host it
 
 - **Data Requirements**:  
-    - Stable internet connection required (minimum 3 Mbps for SD, 25 Mbps for 4K UHD)  
-    - Firmware and channel updates delivered periodically, typically under 500 MB
-    - Usage and ad tracking data synced regularly with Roku cloud services
+    - Stable internet connection required [^1]
+    - Firmware and channel updates are delivered periodically, typically under 500 MB
 
 - **Data Gathering**:  
-    - Collects viewing history, app usage, ad interactions, device identifiers, and location approximation
-    - Data used for targeted advertising, personalization, analytics, and third-party sharing
-    - Privacy settings available but can be complex to fully disable tracking 
+    - Collects viewing history, app usage, ad interactions, device identifiers, and location approximation [^5]
+    - Data used for targeted advertising, personalization, analytics, and third-party sharing [^6]
+
+[^5]: [Roku Data Processing Terms](https://docs.roku.com/published/dataprocessingterms/en/gb)
+[^6]: [Privacy Policy](https://www.playstation.com/en-us/legal/privacy-policy/)
 
 - **Vulnerability Remediation**:  
     - Regular software updates addressing performance and security flaws  
