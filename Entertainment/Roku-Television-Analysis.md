@@ -57,7 +57,7 @@
     - Data used for targeted advertising, personalization, analytics, and third-party sharing [^6]
 
 [^5]: [Roku Data Processing Terms](https://docs.roku.com/published/dataprocessingterms/en/gb)
-[^6]: [Privacy Policy](https://www.playstation.com/en-us/legal/privacy-policy/)
+[^6]: [Privacy Policy](https://docs.roku.com/published/userprivacypolicy)
 
 - **Vulnerability Remediation**:  
     - Regular software updates addressing performance and security flaws  
