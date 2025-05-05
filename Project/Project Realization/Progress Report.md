@@ -1,4 +1,4 @@
-# Progress Report 4/6/2025
+# Progress Report
 ## Overview
 The group has created an analysis method and rubric for analysing the various devices that we are looking at to better lay out what we are presenting.  We have formalized the 4 categories of IoT devices, and then we each took one category expanding into individual devices within those categories.  With our devices decided on we gathered case studies on each for referential data to better expound upon our findings.  We then gathered information provided by the manufacturers and other sources regarding weaknesses/vulnerabilities and the manufacturer practices regarding security and data privacy.
 
