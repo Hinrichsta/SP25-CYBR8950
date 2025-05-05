@@ -19,14 +19,4 @@ We have run into issues deciding on what devices to go with for a couple of cate
 
 Data gathering on some of this can be sparse at best, and sometimes is non-existent due to manufacturers not disclosing.  There is also the opposite affect where sometimes there are so many different reports out there that finding specific ones can be difficult.  This is overcome by sharing the issues with the group, and everyone making a collective effort to help find the appropriate articles.
 
-## Ongoing Risks
-|Risk name (value)  | Impact (1-5) | Likelihood (1-5) | Update |
-|-------------------|--------------|------------------|-------------|
-| Meeting Scheduling (9) | 3 | 3 | We have regularly scheduled meetings that have only been missed due to weather causing major outages. |
-| Research and Data Collection (12)| 4 | 3 | Data gathering has not had any major issues, there has been some minor difficulties but nothing stopping progress. |
-| Scope Creep (15) | 3 | 5 | We had to adjust our timeline to better fit what we wanted to do, but we are currently on track to complete in the time originally alotted. |
-| Communication (6) | 3 | 2 | Communication has not been an issue for this group overall.  We keep in regular communication through various means and do good to keep each other informed of our progress. |
-| Evolving Standards (12) | 4 | 3 | Standards stagnation has not been an issue, and the overall field has not had much change during this project. |
 
-## Process Flow Diagram
-![Process Flow Diagram](https://raw.githubusercontent.com/Hinrichsta/SP25-CYBR8950/refs/heads/main/supportingdocs/IoT_Security_Evaluation-Buying_Guide_Process_Diagram.png)
