@@ -3,12 +3,12 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Hybrid | Some play features work offline, but connectivity is needed for downloading new content or syncing to the VTech cloud. |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | VTech devices are heavily dependent on their cloud services for content, learning apps, and user accounts. |
-| Data Storage Requirements | Cloud | VTech stores most user data in the cloud, including personal info and chat logs. |
-| Data Gathering Risk Score | 1 | Child and parent data gathered includes voice recordings, names, locations, and usage behavior. |
-| Company Vulnerability Remediation Score | 3 | They responded to past breaches by improving security, but lack a formal bug bounty program and rely on reactive, not proactive, security. |
-| Company Vulnerability Transparency Score | 2 | Post-incident disclosures have been vague. Outside of major incidents. | 
+| Requires Constant Internet Connection | Hybrid | OS allows offline viewing of local media (e.g., via USB or antenna), but streaming and system functions rely on internet access. |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | Apps, channels, and ad tracking rely on Roku’s cloud infrastructure. |
+| Data Storage Requirements | Cloud | Most data, such as viewing history, app preferences, and account credentials, are stored in the cloud. There’s minimal local data retention. |
+| Data Gathering Risk Score | 1 | Roku has faced scrutiny for aggressive data collection practices, including tracking app usage and cross-device behaviors. |
+| Company Vulnerability Remediation Score | 2 | Updates are regular, but there’s limited proactive communication. No standout bug bounty program or user-facing vulnerability announcements. |
+| Company Vulnerability Transparency Score | 3 | Roke publishes some updates and acknowledgments regarding issues and incidents, full transparency is rare. | 
 
 ### Total Score: 6
 
