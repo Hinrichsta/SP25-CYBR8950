@@ -3,14 +3,14 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | Some features require connection to Sony’s cloud, but offline play is possible. |
-| Data Storage Requirements | Cloud | Uses both local storage and cloud storage for different types of data. |
-| Data Gathering Risk Score | 2 | Collects significant user data, including purchases, interactions, and gameplay activity. |
-| Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
-| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
+| Requires Constant Internet Connection | Hybrid | Some play features work offline, but connectivity is needed for downloading new content or syncing to the VTech cloud. |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | VTech devices are heavily dependent on their cloud services for content, learning apps, and user accounts. |
+| Data Storage Requirements | Cloud | VTech stores most user data in the cloud, including personal info and chat logs. |
+| Data Gathering Risk Score | 1 | Child and parent data gathered includes voice recordings, names, locations, and usage behavior. |
+| Company Vulnerability Remediation Score | 3 | They responded to past breaches by improving security, but lack a formal bug bounty program and rely on reactive, not proactive, security. |
+| Company Vulnerability Transparency Score | 2 | Post-incident disclosures have been vague. Outside of major incidents. | 
 
-### Total Score: 11/15
+### Total Score: 6
 
 ## Analysis  
 - **Name**: VTech Connected Toys & VTech Cloud
