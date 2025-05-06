@@ -3,14 +3,14 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | Some features require connection to Sony’s cloud, but offline play is possible. |
-| Data Storage Requirements | Cloud | Uses both local storage and cloud storage for different types of data. |
-| Data Gathering Risk Score | 3 | Collects significant user data, including purchases, interactions, and gameplay activity. |
-| Company Vulnerability Remediation Score | 3 | Regular updates and a bug bounty program exist, but some patches are delayed. |
-| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
+| Requires Constant Internet Connection | Hybrid | OS allows offline viewing of local media (e.g., via USB or antenna), but streaming and system functions rely on internet access. |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | Apps, channels, and ad tracking rely on Roku’s cloud infrastructure. |
+| Data Storage Requirements | Cloud | Most data, such as viewing history, app preferences, and account credentials, are stored in the cloud. There’s minimal local data retention. |
+| Data Gathering Risk Score | 1 | Roku has faced scrutiny for aggressive data collection practices, including tracking app usage and cross-device behaviors. |
+| Company Vulnerability Remediation Score | 2 | Updates are regular, but there’s limited proactive communication. No standout bug bounty program or user-facing vulnerability announcements. |
+| Company Vulnerability Transparency Score | 3 | Roke publishes some updates and acknowledgments regarding issues and incidents, full transparency is rare. | 
 
-### Total Score: 7/15
+### Total Score: 6
 
 ## Analysis  
 - **Name**: Roku Television & Roku Platform
