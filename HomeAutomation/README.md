@@ -19,8 +19,8 @@
 ## [Govee Temperature and Other sensors (water, weather, etc.)](Govee-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | No | While local connectivity is an option after intial setup, most users would not chose this option as it is not the default. |
-| Requires Constant Connection to Company Cloud Infrastructure | No | As noted above, for most users this would be a yes.  While the device can be used with just Bluetooth, strange app behavior can occur as this is not the expected configuration. |
+| Requires Constant Internet Connection | Yes | While local connectivity is an option after intial setup, most users would not chose this option as it is not the default. |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | As noted above, for most users this would be a yes.  While the device can be used with just Bluetooth, strange app behavior can occur as this is not the expected configuration. |
 | Data Storage Requirements | Cloud | It is not entirely clear how much data is stored locally vs. cloud, and how it is synched.  This is likely do to the Bluetooth connection alternative.  They claim to only store 12 months of data, but it has been reported that it is stored longer.  Testing of this statement will be complete May 1st.  |
 | Data Gathering Risk Score | 4 | The device's purpose is to collect data, and because of the hardware, it only collects the data it has disclosed. |
 | Company Vulnerability Remediation Score | 1 | Like Tuya, Govee has not disclosed vulnerabilities of addressed them and instead focused on new products. |
@@ -37,7 +37,7 @@
 ## [U-tec/UHome/ULTRALOQ Locks](Utec-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode after intial setup.   |
+| Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode or with PIN pad only after intial setup.   |
 | Requires Constant Connection to Company Cloud Infrastructure | Sometimes | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort physical key. |
 | Data Storage Requirements | Cloud | Critical data is stored in the cloud and on the device.|
 | Data Gathering Risk Score | 3 | Proximity data is optional.  Biometrics stored in the device vs. the Cloud was a wise choice. |
@@ -69,8 +69,8 @@
 ## [Ecobee Thermostats](Ecobee-Analysis.md)
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | No | Can function as a stand alone device |
-| Requires Constant Connection to Company Cloud Infrastructure | No | Can still function as a stand alone thermostat. |
+| Requires Constant Internet Connection | Yes | But can still function as a stand alone device as a standard non-smart thermostat.   |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | Can still function as a stand alone thermostat. |
 | Data Storage Requirements | Cloud | All data is stored in the Cloud. |
 | Data Gathering Risk Score | 1 | A lot of data is collected on usage and proximity/presence.  It knows when you are home and active. |
 | Company Vulnerability Remediation Score | 2 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022.   |
