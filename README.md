@@ -1,17 +1,30 @@
 # Privacy and Security of Online Devices
-## Problem Statement
+## Device Analysis by Category
+| [Appliances](Appliances/README.md) | [Cameras](Cameras/README.md) | [Entertainment](Entertainment/readme.md) | [Home Automation](HomeAutomation/README.md) |
+| :--------------------------------: | :--------------------------: | :--------------------------------: | :--------------------------: |
+| [LG Smart Oven](LG-Oven-Analysis.md) | [Google Nest](./Nest-Analysis.md) | [Amazon Alexa & Echo Devices](./Amazon-Alexa-Analysis.md) | [Tuya/SmartLife switches and bulbs](Tuya-Analysis.md) |
+| [AEG Smart Oven](AEG-Oven-Analysis.md) | [Wyze Cameras](./Wyze-Analysis.md) | [PlayStation 5 & PlayStation Network](./PlayStation-5-&-PlayStation-Network-Analysis.md) | [Govee Temperature and Other sensors](Govee-Analysis.md) |
+| [Samsung Smart Fridge](Samsung-Fridge-Analysis.md) | [Blink Cameras](./Blink-Analysis.md) | [Roku Television](./Roku-Television-Analysis.md) | [U-tec/UHome/ULTRALOQ Locks](Utec-Analysis.md) |
+| [Beko Smart Fridge](Beko-Fridge-Analysis.md) | [Tapo Cameras](./TP-Link-Analysis.md) | [VTech Connected Toys & VTech Cloud](Vtech-Toys-Analysis.md) | [Kidde Alarms](Kidde-Analysis.md) |
+|  |  |  | [Ecobee Thermostats](Ecobee-Analysis.md) |
+
+## Research Paper
+[Insert Link Here]()
+
+## Summary
+### Problem Statement
 Consumers continually purchase IoT devices for relatives and themselves without fully understanding the security risks of always-online connectivity. Most smart home devices such as cameras, doorbells, and appliances are inherently insecure. This is due to weak security protocols in combination with becoming vulnerable over time due to poor update policies, lack of user management, and default settings that go unchanged. With limited access to security-focused information, consumers may unknowingly expose themselves or their families to data breaches, unauthorized access, and cyber threats. This project aims to improve consumer awareness by providing a security-focused buying guide that identifies high-risk IoT categories, analyzes common vulnerabilities, and evaluates manufacturer security practices. By offering clear security information, this guide will help users make informed decisions when buying devices and adopt safer practices for managing IoT devices.
 
-# Device Analysis by Category
-### [Appliances](Appliances/README.md)
-### [Cameras](Cameras/README.md)
-### [Entertainment](Entertainment/readme.md)
-### [Home Automation](HomeAutomation/README.md)
+### Project Goals
+- Identify categories of IoT devices that pose security risks in home environments and assess their impact on consumer privacy and security.
+- Analyze common vulnerabilities such as default credentials, unencrypted data transmissions, and delayed or absent security patches, to help consumers recognize security risks before purchasing.
+- Evaluate manufacturer security practices, including update policies and default configurations, to guide consumers in selecting more secure IoT devices.
+- Develop a consumer-focused buying guide that provides best practices for selecting, configuring, and maintaining secure IoT devices to reduce the risk of cyber threats.
 
-# Device Analysis
+#### Project Methodology
 Device analysis can be completed by following the workflow indicated in the Analysis Workflow image.  The Analysis steps walks through what information to look for to begin working on the device analysis.  Once the analysis is completed the information can be put in the Analysis Matrix below and scored, and then recommendations created.
-### [Analysis Steps](<Method/Analysis Steps.md>)
-### [Analysis Matrix](<Method/Analysis Matrix.md>)
+#### [Analysis Steps](<Method/Analysis Steps.md>)
+#### [Analysis Matrix](<Method/Analysis Matrix.md>)
 
-## Analysis Workflow
+### Analysis Workflow
 ![Process Flow Diagram](Project/supportingdocs/IoT_Security_Evaluation-Buying_Guide_Process_Diagram.png)
