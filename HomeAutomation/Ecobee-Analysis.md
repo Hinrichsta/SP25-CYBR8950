@@ -2,12 +2,13 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | No | Can function as a stand alone device |
-| Requires Constant Connection to Company Cloud Infrastructure | No | Can still function as a stand alone thermostat. |
+| Requires Constant Internet Connection | Yes | But can still function as a stand alone device as a standard non-smart thermostat.   |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | Can still function as a stand alone thermostat. |
 | Data Storage Requirements | Cloud | All data is stored in the Cloud. |
 | Data Gathering Risk Score | 1 | A lot of data is collected on usage and proximity/presence.  It knows when you are home and active. |
 | Company Vulnerability Remediation Score | 2 | Google purchased Nest back in 2014, and suffered a major breach of all customers 5 years later.  They appear to be on top of their security since then, but you cannot check their updates prior to 2022.   |
 | Company Vulnerability Transparency Score | 1 | Govee closed their API rather than addressing issues with it. | 
+
 ### Total Score: 4
 
 ## Analysis

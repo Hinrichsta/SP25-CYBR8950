@@ -4,7 +4,7 @@
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | No | Can be setup with no connection at all, with limited functionality. |
 | Requires Constant Connection to Company Cloud Infrastructure | No | The device can function as a traditional and inter-connected alarm via standard 3 wire systems (interconnect).
-| Data Storage Requirements | Cloud | Event data is stored in the Cloud, as well as air quality monitoring data. |
+| Data Storage Requirements | Cloud | Event data is stored in the Cloud, as well as a requirement for histortical air quality monitoring data. |
 | Data Gathering Risk Score | 4 | Only the required data is collected. |
 | Company Vulnerability Remediation Score | 4 | Kidde has addressed product issues, but not faced IoT issues yet. |
 | Company Vulnerability Transparency Score | 3 | Given they have addressed product safety issues they score well.  But this product has not been on the market long enough for full IoT analysis.  It is not likely to score well at a later time as Kidde did their own IoT backend rather than use a common platform. | 

@@ -38,7 +38,7 @@
 | Device Score-Category |  Rating | Description of Ratings | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Yes | The lock can operate with limited functionality in Bluetooth only mode or with PIN pad only after intial setup.   |
-| Requires Constant Connection to Company Cloud Infrastructure | Sometimes | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort physical key. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | For full functionality, the device requires Internet connectivity but can operate with limited functionality with Bluetooth only, or with no connectivity via other methods.  Or with PIN or biometric, and as a last resort physical key. |
 | Data Storage Requirements | Cloud | Critical data is stored in the cloud and on the device.|
 | Data Gathering Risk Score | 3 | Proximity data is optional.  Biometrics stored in the device vs. the Cloud was a wise choice. |
 | Company Vulnerability Remediation Score | 3 | U-Tec has released fixes, but continues to ignore general inquiries. |
@@ -55,7 +55,7 @@
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | No | Can be setup with no connection at all, with limited functionality. |
 | Requires Constant Connection to Company Cloud Infrastructure | No | The device can function as a traditional and inter-connected alarm via standard 3 wire systems (interconnect).
-| Data Storage Requirements | Cloud | Event data is stored in the Cloud, as well asa requirement for histortical air quality monitoring data. |
+| Data Storage Requirements | Cloud | Event data is stored in the Cloud, as well as a requirement for histortical air quality monitoring data. |
 | Data Gathering Risk Score | 4 | Only the required data is collected. |
 | Company Vulnerability Remediation Score | 4 | Kidde has addressed product issues, but not faced IoT issues yet. |
 | Company Vulnerability Transparency Score | 3 | Given they have addressed product safety issues they score well.  But this product has not been on the market long enough for full IoT analysis.  It is not likely to score well at a later time as Kidde did their own IoT backend rather than use a common platform. | 
