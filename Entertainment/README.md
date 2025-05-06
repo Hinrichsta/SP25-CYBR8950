@@ -20,7 +20,7 @@
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | SCloud save features, multiplayer gaming, and digital rights management rely on Sony’s infrastructure. |
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Cloud save features, multiplayer gaming, and digital rights management rely on Sony’s infrastructure. |
 | Data Storage Requirements | Hybrid | User data such as saves, media, and settings are stored both locally and in the cloud. |
 | Data Gathering Risk Score | 2 | Sony gathers data including user interactions, purchase history, game telemetry, and friend activity. |
 | Company Vulnerability Remediation Score | 4 | Sony has improved its security posture, launching bug bounty programs and pushing updates regularly with occasional delays and downtimes. |
