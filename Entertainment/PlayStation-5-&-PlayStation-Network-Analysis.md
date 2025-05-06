@@ -4,13 +4,13 @@
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
 | Requires Constant Internet Connection | Hybrid | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Some features require connection to Sony’s cloud, but offline play is possible. |
-| Data Storage Requirements | Hybrid | Uses both local storage and cloud storage for different types of data. |
-| Data Gathering Risk Score | 2 | Collects significant user data, including purchases, interactions, and gameplay activity. |
-| Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
-| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
+| Requires Constant Connection to Company Cloud Infrastructure | Hybrid | Cloud save features, multiplayer gaming, and digital rights management rely on Sony’s infrastructure. |
+| Data Storage Requirements | Hybrid | User data such as saves, media, and settings are stored both locally and in the cloud. |
+| Data Gathering Risk Score | 2 | Sony gathers data including user interactions, purchase history, game telemetry, and friend activity. |
+| Company Vulnerability Remediation Score | 4 | Sony has improved its security posture, launching bug bounty programs and pushing updates regularly with occasional delays and downtimes. |
+| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities and incidents. But, does not always provide full details. | 
 
-### Total Score: 9/15
+### Total Score: 9
 
 ## Analysis  
 - **Name**: PlayStation 5 & PlayStation Network (PSN)  
