@@ -2,11 +2,11 @@
 ## Device Analysis by Category
 | [Appliances](Appliances/README.md) | [Cameras](Cameras/README.md) | [Entertainment](Entertainment/readme.md) | [Home Automation](HomeAutomation/README.md) |
 | :--------------------------------: | :--------------------------: | :--------------------------------: | :--------------------------: |
-| [LG Smart Oven](LG-Oven-Analysis.md) | [Google Nest](./Nest-Analysis.md) | [Amazon Alexa & Echo Devices](./Amazon-Alexa-Analysis.md) | [Tuya/SmartLife switches and bulbs](Tuya-Analysis.md) |
-| [AEG Smart Oven](AEG-Oven-Analysis.md) | [Wyze Cameras](./Wyze-Analysis.md) | [PlayStation 5 & PlayStation Network](./PlayStation-5-&-PlayStation-Network-Analysis.md) | [Govee Temperature and Other sensors](Govee-Analysis.md) |
-| [Samsung Smart Fridge](Samsung-Fridge-Analysis.md) | [Blink Cameras](./Blink-Analysis.md) | [Roku Television](./Roku-Television-Analysis.md) | [U-tec/UHome/ULTRALOQ Locks](Utec-Analysis.md) |
-| [Beko Smart Fridge](Beko-Fridge-Analysis.md) | [Tapo Cameras](./TP-Link-Analysis.md) | [VTech Connected Toys & VTech Cloud](Vtech-Toys-Analysis.md) | [Kidde Alarms](Kidde-Analysis.md) |
-|  |  |  | [Ecobee Thermostats](Ecobee-Analysis.md) |
+| [LG Smart Oven](Appliances/LG-Oven-Analysis.md) | [Google Nest](Cameras/Nest-Analysis.md) | [Amazon Alexa & Echo Devices](Entertainment/Amazon-Alexa-Analysis.md) | [Tuya/SmartLife switches and bulbs](HomeAutomation/Tuya-Analysis.md) |
+| [AEG Smart Oven](Appliances/AEG-Oven-Analysis.md) | [Wyze Cameras](Cameras/Wyze-Analysis.md) | [PlayStation 5 & PlayStation Network](Entertainment/PlayStation-5-&-PlayStation-Network-Analysis.md) | [Govee Temperature and Other sensors](HomeAutomation/Govee-Analysis.md) |
+| [Samsung Smart Fridge](Appliances/Samsung-Fridge-Analysis.md) | [Blink Cameras](Cameras/Blink-Analysis.md) | [Roku Television](Entertainment/Roku-Television-Analysis.md) | [U-tec/UHome/ULTRALOQ Locks](HomeAutomation/Utec-Analysis.md) |
+| [Beko Smart Fridge](Appliances/Beko-Fridge-Analysis.md) | [Tapo Cameras](Cameras/TP-Link-Analysis.md) | [VTech Connected Toys & VTech Cloud](Entertainment/Vtech-Toys-Analysis.md) | [Kidde Alarms](HomeAutomation/Kidde-Analysis.md) |
+|  |  |  | [Ecobee Thermostats](HomeAutomation/Ecobee-Analysis.md) |
 
 ## Research Paper
 [Insert Link Here]()
