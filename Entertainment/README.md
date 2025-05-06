@@ -8,7 +8,7 @@
 | Company Vulnerability Remediation Score | 4 | Amazon maintains a vulnerability disclosure program and provides frequent security updates. |
 | Company Vulnerability Transparency Score | 3 | Amazon discloses high-profile vulnerabilities, but sometimes lacks in spreading of information to consumers. | 
 
-### Total Score: 8/15
+### Total Score: 8
 
 <sub>[Alexa+ Trust & Privacy](https://www.amazon.com/b?node=203453976011&ref=dp_btf_xaa_spp_d_p5)</sub>  
 <sub>[Security Layers](https://www.amazon.com/b/?node=23638098011&ref=aucc_en_us_web_dom_xaa_evgn_tx_0016)</sub>  
@@ -26,7 +26,7 @@
 | Company Vulnerability Remediation Score | 4 | Sony has improved its security posture, launching bug bounty programs and pushing updates regularly with occasional delays and downtimes. |
 | Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities and incidents. But, does not always provide full details. | 
 
-### Total Score: 9/15
+### Total Score: 9
 
 <sub>[Privacy & Account Security](https://www.playstation.com/en-us/privacy-security-safety/)</sub>  
 <sub>[Privacy Policy](https://www.playstation.com/en-us/legal/privacy-policy/)</sub>  
@@ -42,7 +42,7 @@
 | Company Vulnerability Remediation Score | 2 | Updates are regular, but there’s limited proactive communication. No standout bug bounty program or user-facing vulnerability announcements. |
 | Company Vulnerability Transparency Score | 3 | Roke publishes some updates and acknowledgments regarding issues and incidents, full transparency is rare. | 
 
-### Total Score: 6/15
+### Total Score: 6
 
 <sub>[User Privacy Policy](https://docs.roku.com/published/userprivacypolicy)</sub>  
 <sub>[Device EULA](https://docs.roku.com/published/deviceplayereula)</sub>  
@@ -59,7 +59,7 @@
 | Company Vulnerability Remediation Score | 3 | They responded to past breaches by improving security, but lack a formal bug bounty program and rely on reactive, not proactive, security. |
 | Company Vulnerability Transparency Score | 2 | Post-incident disclosures have been vague. Outside of major incidents. | 
 
-### Total Score: 6/15
+### Total Score: 6
 
 <sub>[Privacy Policy](https://www.vtechda.com/legal/version/view.aspx?country=US&lang=eng&x=4&y=1)</sub>  
 <sub>[Recall Information](https://www.vtechkids.com/recall)</sub>  
