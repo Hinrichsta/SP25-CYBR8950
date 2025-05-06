@@ -3,14 +3,14 @@
 ## Scoring rubric
 | Device Score-Category |  Rating | Reasoning | 
 | :---: | :---: | :---: | 
-| Requires Constant Internet Connection | Yes | Core features work offline, but online services require an internet connection. |
-| Requires Constant Connection to Company Cloud Infrastructure | Yes | Some features require connection to Sony’s cloud, but offline play is possible. |
-| Data Storage Requirements | Hybrid | Uses both local storage and cloud storage for different types of data. |
-| Data Gathering Risk Score | 1 | Collects significant user data, including purchases, interactions, and gameplay activity. |
-| Company Vulnerability Remediation Score | 4 | Regular updates and a bug bounty program exist, but some patches are delayed. |
-| Company Vulnerability Transparency Score | 3 | Discloses major vulnerabilities but does not always provide full details. | 
+| Requires Constant Internet Connection | Yes | Alexa’s primary functions depend heavily on internet access. While some limited offline functionality (like local alarms) exists, the device is essentially non-functional without a connection. |
+| Requires Constant Connection to Company Cloud Infrastructure | Yes | Voice queries are processed in Amazon’s cloud. Features such as shopping lists, reminders, and most smart home commands route through AWS infrastructure, confirming constant cloud reliance. |
+| Data Storage Requirements | Hybrid | Voice data, settings, and user interactions are stored in the cloud, but some basic preferences may be cached locally on the device. |
+| Data Gathering Risk Score | 1 | Alexa devices are well-known for collecting extensive user data: voice recordings, smart home usage, third-party integrations, and purchasing history. |
+| Company Vulnerability Remediation Score | 4 | Amazon maintains a vulnerability disclosure program and provides frequent security updates. |
+| Company Vulnerability Transparency Score | 3 | Amazon discloses high-profile vulnerabilities, but sometimes lacks in spreading of information to consumers. | 
 
-### Total Score: 8/15
+### Total Score: 8
 
 ## Analysis  
 - **Name**: Amazon Alexa & Echo Devices
