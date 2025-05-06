@@ -1,22 +1,21 @@
-# Progress Report
+# Progress Report May 6, 2025
 ## Overview
-The group has created an analysis method and rubric for analysing the various devices that we are looking at to better lay out what we are presenting.  We have formalized the 4 categories of IoT devices, and then we each took one category expanding into individual devices within those categories.  With our devices decided on we gathered case studies on each for referential data to better expound upon our findings.  We then gathered information provided by the manufacturers and other sources regarding weaknesses/vulnerabilities and the manufacturer practices regarding security and data privacy.
+Over the past several weeks while working on milestone 3 our research group focused on developing, reviewing, and finalizing a consumer-friendly IoT security buying guide with justifications and research. Meeting twice a week as a group and once per week with the instructor. The research group concentrated on turning our research and rubric into practical best practices that align with real-world concerns, security frameworks, and current compliance standards. Our group used comparisons with standards from OWASP, NIST, GDPR, CCPA and  IASME to ensure that the guidance was both accurate and actionable. These efforts helped convert our technical evaluation into a useful public-facing resource for non-technical users. The research paper guide has been structured for final publication and will be posted to a public non-peer reviewed site
 
 ## Outcomes
-- We formalized the categories of the IoT devices that we will be looking at to better breakdown or work.
-- We created a method of analyzing the devices and then created the rubric that we will be utilizing to score each device.
-- Decided upon the 4 devices from each category that we will be putting through our analysis method.
-- Each of us took the devices for our categories and did initial research and case study gathering for them.
-- Manufacturer data gathered regarding their disclosures for the devices that we will be analyzing.
-- We gathered data for each device from CVE databases, searching for disclosures specific to the devices or networks that the devices use.
-- We drafted the scoring matrices for each of the device categories to support the visual scoring framework.
-- The draft diagram of the process flow for analyzing each device was created, to be further refined for the final report.
+The research group achieved several key milestones across weeks 5–10:
+- Included actionable guidance based on real-world vulnerabilities and mitigation strategies.
+- Created a draft README with instructions and table of contents for user navigation.
+- Refined and peer-reviewed each recommendation for clarity, technical accuracy, and accessibility.
+- Designed a scoring matrix visualization and markdown structure for GitHub publication.
+- Incorporated industry-aligned frameworks like OWASP IoT Top 10, GDPR, CCPA, NISTIR 8259, UL 2900 into the research paper and guide. 
+- Developed a detailed set of consumer best practices for evaluating and purchasing IoT devices.
+- Validated manufacturer security practices and provided examples using case studies.
+- Began final proofreading and formatting for public release.
 
 ## Hinderances
-We ran into some issues regarding how we would like to approach the overall analysis of the project.  To get past this we all took which way we would prefer to go and came to the group with our points for one way or another.  We cooperatively decided on what the best way forward with the project was, and started moving forward with it.
+Some challenges that were encountered  include aligning consumer-focused language with technical accuracy, but still referencing standards that are usually more technical in nature. Ensuring our recommendations were both compliant and understandable took multiple revisions. 
 
-We have run into issues deciding on what devices to go with for a couple of categories.  It was brought to the attention of the group and we brainstormed more ideas, and we able to add a couple of suggestions to each list before formalization.
-
-Data gathering on some of this can be sparse at best, and sometimes is non-existent due to manufacturers not disclosing.  There is also the opposite affect where sometimes there are so many different reports out there that finding specific ones can be difficult.  This is overcome by sharing the issues with the group, and everyone making a collective effort to help find the appropriate articles.
+Gathering consistent vulnerability data across all vendors was difficult due to lack of public disclosures. The group overcame this challenge by combing through CVE databases, industry articles, and manufacturer documentation. 
 
 
