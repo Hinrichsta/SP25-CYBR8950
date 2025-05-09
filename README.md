@@ -1,4 +1,4 @@
-# Privacy and Security of Online Devices
+# Security Evaluation of Household Consumer IoT Devices
 ## Device Analysis by Category
 | [Appliances](Appliances/README.md) | [Cameras](Cameras/README.md) | [Entertainment](Entertainment/readme.md) | [Home Automation](HomeAutomation/README.md) |
 | :--------------------------------: | :--------------------------: | :--------------------------------: | :--------------------------: |
