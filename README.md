@@ -9,8 +9,8 @@
 |  |  |  | [Ecobee Thermostats](HomeAutomation/Ecobee-Analysis.md) |
 
 ## Research Paper
-[Security Evaluation of Household Consumer IoT Devices Research Paper](https://www.academia.edu/129332600/Security_Evaluation_of_Household_Consumer_IoT_Devices)
-[Local Copy](Project%20Realization/Security%20Evaluation%20of%20Household%20Consumer%20IoT%20Devices.pdf)
+[Security Evaluation of Household Consumer IoT Devices Research Paper](https://www.academia.edu/129332600/Security_Evaluation_of_Household_Consumer_IoT_Devices)  
+[Local Copy](<Project Realization/Security Evaluation of Household Consumer IoT Devices.pdf>)
 
 ## Summary
 ### Problem Statement
